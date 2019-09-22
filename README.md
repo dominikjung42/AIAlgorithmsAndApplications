@@ -1,4 +1,5 @@
-# Course Material 'Building AI-Based Information Systems with Python'
+
+# Course Material for 'Building AI-Based Information Systems with Python'
 Hello! 
 
 Thanks for your interest in my work and the topic *Artifical Intelligence in Information Systems*. In this repository you find my teaching and course material for the course *Building AI-Based Information Systems with Python*. Over the last years I have taught this course (or parts of it) at various universities and business schools such as *Darmstadt University of Technology*, or *Karlsruhe Institute of Technology (KIT)*, or the *HECTOR School of Engineering & Managementsupport*. I try continuously to improve and update the material - so if you have any complaints, wishes, ideas or questions please feel free to contact me. If you are interested in general at Data Science and Information Systems you can also take a look at my other lectures (see <a href="https://github.com/Fiddleman?tab=repositories" target="_blank">here</a>).
@@ -7,15 +8,12 @@ The course itself is organised in the following units:
 
 ID | Unit
 ---- | -------------
-0 | Introduction and Syllabus
-1 | Business Analytics and Decision Support
-2 | Gentle Introduction into Programming with R
-3 | Business Understanding
-4 | Business Data Understanding
-5 | Business Data Preparation
-6 | Business Data Analytics
-7 | Business Data Analytics Evaluation
-8 | Deployment of Decision Support Systems
+1 | Introduction into Artificial Intelligence
+2 | Artifical Intelligence and Information Systems
+3 | Artificial Intelligence Toolbox
+4 | Data and Knowledge Engineering
+5 | Fundamental Algorithms and Concepts
+6 | Summary: Foundations of Artificial Intelligence
 
 For each unit, you can find the accompanying material in the different folder of this repository. The best practice is that you clone this git repository (for more information see the slides of the first lecture)!
 
