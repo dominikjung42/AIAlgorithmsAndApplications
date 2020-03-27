@@ -12,14 +12,13 @@ ID | Unit
 2 | Artifical Intelligence and Information Systems
 3 | Artificial Intelligence Toolbox
 4 | Data and Knowledge Engineering
-5 | Fundamental Algorithms and Concepts
-6 | Summary: Foundations of Artificial Intelligence
-7 | Advanced Algorithms and Concepts
+5 | Knowledge Representation - Fundamental Algorithms and Concepts
+6 | Machine Learning - Fundamental Algorithms and Concepts
+7 | Model Optimization and Selection
 8 | Artifical Intelligence on Big Data 
-9 | Fundamentals of Artificial Neural Networks
-10 | Advanced Concepts of Artificial Neural Networks
-11 | Stochastic Modeling and Optimization
-12 | Conclusion: Building AI-based Information Systems
+9 | Artificial Neural Networks and Deepl Learning
+10 | Stochastic Modeling and Optimization
+11 | Building Productive AI-based Information Systems
 
 For each unit, you can find the accompanying material in the different folder of this repository. The best practice is that you clone this git repository (for more information see the slides of the first lecture)!
 
