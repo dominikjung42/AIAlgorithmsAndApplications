@@ -2,7 +2,7 @@
 # Course Material for 'AI Algorithms and Applications with Python I + II'
 Hello! 
 
-Thanks for your interest in my work and the topic *Artifical Intelligence in Information Systems*. In this repository you find my teaching and course material for the university course *AI Algorithms and Applications with Python*. Over the last years I have taught this course (or parts of it) at *Darmstadt University of Technology*. I try continuously to improve and update the material - so if you have any complaints, wishes, ideas or questions please feel free to contact me. If you are interested in general at data science and information systems you can also take a look at my other lectures (see <a href="https://github.com/dominikjung42?tab=repositories" target="_blank">here</a>).
+Thanks for your interest in my work and the topic *Artifical Intelligence in Information Systems*. In this repository you find my teaching and course material for the university course *AI Algorithms and Applications with Python*. I teach this course since 2019 at *Darmstadt University of Technology*. The course gives an introductory survey of AI techniques in Python for master students with no or little experience to this subject. Prerequisites are basic programming skills, algorithms, and calculus. Some exposure to linear algebra and probability is a plus and will definitly help you.
 
 The course itself is organised in the following units: 
 
@@ -29,7 +29,9 @@ For my students, please note that:
 * Both, exercises and guest lectures are relevant and serve to prepare yourself for the exam.
 * You can use previous exams from the *exams* folder to prepare yourself for the final course exam.
 
-If you have further questions, you can contact me by mail (see lecture syllabus) or add a comment in the git repository. 
+I try continuously to improve and update the material - so if you have any complaints, wishes, ideas or questions please feel free to contact me. If you are interested in general at data science and information systems you can also take a look at my other lectures (see <a href="https://github.com/dominikjung42?tab=repositories" target="_blank">here</a>).
+
+If you have further questions, you can contact me by mail (see lecture slides) or add a comment in the git repository. 
 
 Have a nice day!
 
