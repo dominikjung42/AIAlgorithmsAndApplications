@@ -20,14 +20,11 @@ ID | Unit
 10 | Stochastic Modeling and Optimization
 11 | Building Productive AI-based Information Systems
 
-For each unit, you can find the accompanying material in the different folder of this repository. The best practice is that you clone this git repository (for more information see the slides of the first lecture)!
+For each unit, you can find the accompanying material in the different folder of this repository. The best practice is that you clone this git repository (for more information see the slides of the first lecture)! Also take a look at the lecture syllabus for further course information.
 
-For my students, please note that:
-
-* Exercises will deepen the contents of the lectures and address specific problems in more detail. Additionally, questions regarding the lectures can be resolved.
-* Furthermore, guest lectures will provide insights into state-of-the-art application scenarios.
-* Both, exercises and guest lectures are relevant and serve to prepare yourself for the exam.
-* You can use previous exams from the *exams* folder to prepare yourself for the final course exam.
+Main literature recommendations for this course are: 
+* Géron, A. Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems
+* Rusell, S., & Norvig, P. Artificial Intelligence: A Modern Approach
 
 I try continuously to improve and update the material - so if you have any complaints, wishes, ideas or questions please feel free to contact me. If you are interested in general at data science and information systems you can also take a look at my other lectures (see <a href="https://github.com/dominikjung42?tab=repositories" target="_blank">here</a>).
 
