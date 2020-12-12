@@ -11,22 +11,20 @@ ID | Unit
 1 | Introduction into Artificial Intelligence
 2 | Problem-solving Agents
 3 | Introduction into AI-Programming with Python
-4 | Data Engineering
+4 | Data and Feature Engineering
 5 | Knowledge Representation - Fundamental Algorithms and Concepts
-6 | Machine Learning - Fundamental Algorithms and Concepts
-7 | Model Optimization and Selection
-8 | Artifical Intelligence on Big Data 
-9 | Artificial Neural Networks and Deep Learning
-10 | Stochastic Modeling and Optimization
-11 | Building Productive AI-based Information Systems
+6 | Machine Learning - Fundamental Algorithms and Concepts 
+7 | Artificial Neural Networks and Deep Learning
+8 | Probabilistic Reasoning and Modelling
+9 | Building Productive AI-based Information Systems
 
 For each unit, you can find the accompanying material in the different folder of this repository. The best practice is that you clone this git repository (for more information see the slides of the first lecture)! Also take a look at the lecture syllabus for further course information.
 
 The related course recordings are online available in my youtube channel (see <a href="https://www.youtube.com/channel/UC_N9SzvxPS7uYNMWnd6Yn0w" target="_blank">here</a>).
 
 Main literature recommendations for this course are: 
-* Géron, A. Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems
-* Rusell, S., & Norvig, P. Artificial Intelligence: A Modern Approach
+* Rusell, S., & Norvig, P. Artificial intelligence: A modern approach
+* Géron, A.: Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems
 
 I try continuously to improve and update the material - so if you have any complaints, wishes, ideas or questions please feel free to contact me. If you are interested in general at data science and information systems you can also take a look at my other lectures (see <a href="https://github.com/dominikjung42?tab=repositories" target="_blank">here</a>).
 
