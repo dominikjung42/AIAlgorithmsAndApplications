@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><process version="9.3.001">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="9.3.001" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="retrieve" compatibility="9.3.001" expanded="true" height="68" name="Retrieve Titanic" width="90" x="447" y="34">
+        <parameter key="repository_entry" value="//Samples/data/Titanic"/>
+      </operator>
+      <operator activated="true" class="discretize_by_user_specification" compatibility="9.3.001" expanded="true" height="103" name="Discretize" width="90" x="581" y="34">
+        <parameter key="return_preprocessing_model" value="false"/>
+        <parameter key="create_view" value="false"/>
+        <parameter key="attribute_filter_type" value="single"/>
+        <parameter key="attribute" value="Age"/>
+        <parameter key="attributes" value=""/>
+        <parameter key="use_except_expression" value="false"/>
+        <parameter key="value_type" value="numeric"/>
+        <parameter key="use_value_type_exception" value="false"/>
+        <parameter key="except_value_type" value="real"/>
+        <parameter key="block_type" value="value_series"/>
+        <parameter key="use_block_type_exception" value="false"/>
+        <parameter key="except_block_type" value="value_series_end"/>
+        <parameter key="invert_selection" value="false"/>
+        <parameter key="include_special_attributes" value="false"/>
+        <list key="classes">
+          <parameter key="1-19" value="19.0"/>
+          <parameter key="20-45" value="45.0"/>
+          <parameter key="46-65" value="65.0"/>
+          <parameter key="&gt;65 " value="200.0"/>
+        </list>
+      </operator>
+      <operator activated="true" class="aggregate" compatibility="9.3.001" expanded="true" height="82" name="Aggregate" width="90" x="782" y="34">
+        <parameter key="use_default_aggregation" value="false"/>
+        <parameter key="attribute_filter_type" value="all"/>
+        <parameter key="attribute" value=""/>
+        <parameter key="attributes" value=""/>
+        <parameter key="use_except_expression" value="false"/>
+        <parameter key="value_type" value="attribute_value"/>
+        <parameter key="use_value_type_exception" value="false"/>
+        <parameter key="except_value_type" value="time"/>
+        <parameter key="block_type" value="attribute_block"/>
+        <parameter key="use_block_type_exception" value="false"/>
+        <parameter key="except_block_type" value="value_matrix_row_start"/>
+        <parameter key="invert_selection" value="false"/>
+        <parameter key="include_special_attributes" value="false"/>
+        <parameter key="default_aggregation_function" value="average"/>
+        <list key="aggregation_attributes">
+          <parameter key="Age" value="count"/>
+        </list>
+        <parameter key="group_by_attributes" value="Age"/>
+        <parameter key="count_all_combinations" value="false"/>
+        <parameter key="only_distinct" value="false"/>
+        <parameter key="ignore_missings" value="true"/>
+      </operator>
+      <connect from_op="Retrieve Titanic" from_port="output" to_op="Discretize" to_port="example set input"/>
+      <connect from_op="Discretize" from_port="example set output" to_op="Aggregate" to_port="example set input"/>
+      <connect from_op="Aggregate" from_port="example set output" to_port="result 1"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+    </process>
+  </operator>
+</process>
