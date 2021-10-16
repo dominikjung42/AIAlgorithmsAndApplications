@@ -17,6 +17,8 @@ ID | Unit
 7 | Artificial Neural Networks and Deep Learning
 8 | Probabilistic Reasoning and Modelling
 9 | Building Productive AI-based Information Systems
+10 | Computer Vision Fundamental Algorithms and Concepts
+11 | Building Productive AI-based Systems
 
 For each unit, you can find the accompanying material in the different folder of this repository. The best practice is that you clone this git repository (for more information see the slides of the first lecture)! Also take a look at the lecture syllabus for further course information.
 
