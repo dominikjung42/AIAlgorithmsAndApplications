@@ -4,9 +4,9 @@ Hello!
 
 Thanks for your interest in my work and the topic *Artifical Intelligence in Information Systems*. In this repository you find my teaching and course material for the university course *AI Algorithms and Applications with Python*. I teach this course since 2019 at *Darmstadt University of Technology*. The course gives an introductory survey of AI techniques in Python for master students with no or little experience to this subject. Prerequisites are basic programming skills, algorithms, and calculus. Some exposure to linear algebra and probability is a plus and will definitly help you.
 
-The course itself is organised in the following units: 
+The course itself is organised in the following chapters: 
 
-ID | Unit
+ID | Chapter
 ---- | -------------
 1 | Introduction into Artificial Intelligence
 2 | Problem-solving Agents
@@ -15,13 +15,13 @@ ID | Unit
 5 | Knowledge Representation - Fundamental Algorithms and Concepts
 6 | Machine Learning - Fundamental Algorithms and Concepts 
 7 | Artificial Neural Networks and Deep Learning
-8 | Probabilistic Reasoning - Fundamental Algorithms and Concepts
+8 | Probabilistic Reasoning and Modelling - Fundamental Algorithms and Concepts
 10 | Language and Image Processing - Fundamental Algorithms and Concepts
 11 | Building Productive AI-based Systems
 
-For each unit, you can find the accompanying material in the different folder of this repository. The best practice is that you clone this git repository (for more information see the slides of the first lecture)! Also take a look at the lecture syllabus for further course information.
+For each chapter, you can find the accompanying material in the different folder of this repository. The best practice is that you clone this git repository (for more information see the slides of the first lecture)! Also take a look at the lecture syllabus for further course information.
 
-The related course recordings are online available in my youtube channel (see <a href="https://www.youtube.com/channel/UC_N9SzvxPS7uYNMWnd6Yn0w" target="_blank">here</a>).
+The related course recordings are online available in my youtube channel (see <a href="www.youtube.com/c/DominikJung42" target="_blank">here</a>).
 
 Main literature recommendations for this course are: 
 * Rusell, S., & Norvig, P. Artificial intelligence: A modern approach
