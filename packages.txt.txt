@@ -1,0 +1,16 @@
+# Chapter 4 - Data and Feature Engineering
+matplotlib
+scikit-learn
+
+# Chapter 5 - Knowledge and Feature Engineering
+# experta
+
+# Chapter 6 - Machine Learning
+numpy
+
+# Chapter 7 - Artifical Neuronal Networks
+tensorflow==2.4.*
+tensorflow-datasets
+tensorflow-addons
+gym
+

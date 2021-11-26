@@ -1,4 +1,4 @@
-﻿
+
 # Course Material for 'AI Algorithms and Applications with Python I + II'
 Hello! 
 
@@ -21,12 +21,12 @@ ID | Chapter
 
 For each chapter, you can find the accompanying material in the different folder of this repository. The best practice is that you clone this git repository (for more information see the slides of the first lecture)! Also take a look at the lecture syllabus for further course information.
 
-The related course recordings are online available in my youtube channel (see <a href="www.youtube.com/c/DominikJung42" target="_blank">here</a>).
+The related course recordings are online available in my youtube channel (see <a href="www.youtube.com/c/DominikJung42" target="_blank">here</a>). The full lecture is about two semesters and is equal to 27 traditional 90-minutes units (without exercises).
 
-Main literature recommendations for this course are: 
+Literature recommendations for this course are: 
 * Rusell, S., & Norvig, P. Artificial intelligence: A modern approach
 * Géron, A.: Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems
-* Castillo, E., Gutierrez, J. M., & Hadi, A. S. (2012). Expert systems and probabilistic network models. Springer Science & Business Media.
+* Castillo, E., Gutierrez, J. M., & Hadi, A. S. Expert systems and probabilistic network models. Springer Science & Business Media.
 
 I try continuously to improve and update the material - so if you have any complaints, wishes, ideas or questions please feel free to contact me. If you are interested in general at data science and information systems you can also take a look at my other lectures (see <a href="https://github.com/dominikjung42?tab=repositories" target="_blank">here</a>).
 
