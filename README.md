@@ -12,7 +12,7 @@ ID | Chapter
 2 | Problem-solving Agents
 3 | Introduction into AI-Programming with Python
 4 | Data and Feature Engineering
-5 | Knowledge Representation - Fundamental Algorithms and Concepts
+5 | Knowledge Reasoning - Fundamental Algorithms and Concepts
 6 | Machine Learning - Fundamental Algorithms and Concepts 
 7 | Artificial Neural Networks and Deep Learning
 8 | Probabilistic Reasoning and Modelling - Fundamental Algorithms and Concepts
