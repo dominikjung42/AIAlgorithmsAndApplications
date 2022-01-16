@@ -15,7 +15,7 @@ class Cleaner:
         pass
 
     # perception
-    def percepts(self, vacuum_world):
+    def percepts(self):
         pass
 
     # actions

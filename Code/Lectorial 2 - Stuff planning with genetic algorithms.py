@@ -7,6 +7,7 @@ Lectorial 2 - Stuff planning with genetic algorithms
 #%% import python libs
 import numpy
 import pandas
+from operator import itemgetter
 
 #%% 1. We load our employees, their working times and the capacity planning
 
@@ -31,8 +32,6 @@ def is_worker_available(staff_list, worker, day, time):
     
     return availability
 
-#print(is_worker_available(staff_list, 1, "Monday", 1))
-
 # aggregate staff_list to planing_table to compare with workload_table
 def format_staff_list(staff_list, workload_table):
     planing_table = workload_table.copy() # use workload as a template for timetable comparison
@@ -48,9 +47,6 @@ def format_staff_list(staff_list, workload_table):
             
     return(planing_table)
            
-#planing_table = format_staff_list(staff_list, workload_table)
-#print(planing_table)
-
 #%% 3. The random initialization for the evolution step
 
 # generate new random starting times based on the conditions in the original staff_list
@@ -64,9 +60,6 @@ def generate_staff_list(staff_list):
             
     return(new_staff_list)
   
-#new_staff_list = generate_staff_list(staff_list)
-#new_planing_table = format_staff_list(new_staff_list, workload_table)
-
 #%% 4.1 Genetic steps - Generate population of parents
 
 # generates multiple staff lists, otherwise you have to use the list from the db and starte there
@@ -78,8 +71,6 @@ def generate_staff_list_population(num_lists, staff_list):
         staff_list_population.append(new_staff_list)
         
     return staff_list_population
-
-#population = generate_staff_list_population(num_lists=4, staff_list=staff_list)
 
 #%% 4.2 Genetic steps - Combination / Crossover
 
@@ -99,10 +90,6 @@ def crossover(parents, num_childs):
         
     return childs
 
-#print(population[0][0:10])
-#childs = crossover(population, 2)
-#print(childs[0][0:10])
-
 #%% 4.3 Genetic steps - Mutation
 
 # mutate existing solutions
@@ -116,9 +103,6 @@ def mutate(parents, num_mutations):
         
     return parents
 
-#print(population[0][0:10])
-#population = mutate(population, 10)
-#print(population[0][0:10])
     
 #%% 5. Compute fitness of the current planning
 
@@ -140,13 +124,10 @@ def rank_staff_lists(staff_list_population, workload_table):
         fitness = fitness_function(planing_table, workload_table)
         results.append([fitness, individual])
     
-    results = sorted(results, reverse=True)
+    results = sorted(results, key=itemgetter(0), reverse=True)
+        
     return(results)
 
-#print(fitness_function(format_staff_list(population[0], workload_table), workload_table))
-#print(fitness_function(format_staff_list(population[1], workload_table), workload_table))
-#population = generate_staff_list_population(4, staff_list)
-#print(get_best_planing_table(population, workload_table))
 
 #%% Genetic Algorithm
 def evolution(staff_list, workload_table, num_iterations, pop_size):

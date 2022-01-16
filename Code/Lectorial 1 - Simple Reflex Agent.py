@@ -7,32 +7,30 @@ Lectorial 1 - Implementing Simple Reflex Agent
 import numpy
 
 #%% 1. Define variables
-vacuum_world = { "Bedroom" : [["Living room"], False],
-      "Living room" : [["Bedroom","Bathroom"], False],
-      "Bathroom": [["Living room"], True]}
+vacuum_world = {"Bedroom":[["Living room"], False],
+                "Living room":[["Bedroom", "Bathroom"], False],
+                "Bathroom":[["Living room"], True]}
 
 start_room = "Bedroom"
+print(vacuum_world[start_room][1])
 
-print("Cleaning need of the start room is:", vacuum_world[start_room][1])
-
-#%% 2. Vacuum cleaner
+#%% 2. Vacuum Cleaner
 class Cleaner:
-    name = "dobby"
+    name = "Dobby"
     energy = 5
     
-    def __init__(self, room, vacuum_world):
+    def __init__(self, room, world):
         self.location = room
-        self.world = vacuum_world
+        self.world = world
 
     # cost function
     def power_consumption(self):
-        self.energy = self.energy-1
+        self.energy = self.energy - 1
 
     # perception
-    def percepts(self, vacuum_world):
-        self.world = vacuum_world
-        status = self.world[self.location][1]
-        self.act(status)
+    def percepts(self):
+        is_dirty = self.world[self.location][1]
+        self.act(is_dirty)
 
     # actions
     def suck(self):
@@ -48,48 +46,38 @@ class Cleaner:
         print("Drive to next room: {}".format(self.location))
         self.power_consumption()
     
-    def act(self, status):
-        room_status = status
-        if(room_status == True):
+    def act(self, is_dirty):
+        if(is_dirty == True):
             self.suck()
             print("Room {} is dirty, clean room".format(self.location))
         else:
             print("Room {} is clean".format(self.location))
             self.drive()
-            
+        
         print("Energy left: {}".format(self.energy))
         if(self.energy <= 1):
             self.location = "Bedroom"
-            print("Return to docking station.")
-        
-#%% Test
-dobby = Cleaner("Bedroom", vacuum_world)
-vacuum_world = dobby.world
-dobby.percepts(vacuum_world)
-vacuum_world = dobby.world
-dobby.percepts(vacuum_world)
+            print("Return to docking station: Abort cleaning.")
 
-#%% 3. Simulate
-dobby = Cleaner("Bedroom", vacuum_world)
+#%% 3. Simulation
+dobby = Cleaner(room = "Bedroom", world = vacuum_world)
+print("\nStarting to clean!")
+
 stop = False
-
 while stop != True:
-    world = dobby.world
-    world_status = world.values()
+    world_status = dobby.world.values()
     
-    cleaning_status=[]
+    num_dirty_rooms = 0
     for room in world_status:
-        cleaning_status.append(room[1])
-        
-    if(True in cleaning_status):
-        dobby.percepts(world)
+        dirty_rooms = []
+        dirty_rooms.append(room[1])
+        num_dirty_rooms = sum(dirty_rooms)
+    print("Dirty rooms: {}".format(num_dirty_rooms))
+    
+    if(num_dirty_rooms > 0 and dobby.energy > 1):
+        dobby.percepts()
     else:
-        print("Finished Cleaning")
-        stop=True
+        print("Finished cleaning")
+        stop = True
+        
 
-#%%
-
-
-    
-    
-    
