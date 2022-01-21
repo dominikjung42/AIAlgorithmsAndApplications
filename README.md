@@ -21,7 +21,7 @@ ID | Chapter
 
 For each chapter, you can find the accompanying material in the different folder of this repository. The best practice is that you clone this git repository (for more information see the slides of the first lecture)! Also take a look at the lecture syllabus for further course information.
 
-The related course recordings are online available in my youtube channel (see <a href="www.youtube.com/c/DominikJung42" target="_blank">here</a>). The full lecture is about two semesters and is equal to 27 traditional 90-minutes units (without exercises).
+The related course recordings are online available in my youtube channel (see [here](www.youtube.com/c/DominikJung42)). The full lecture is about two semesters and is equal to 27 traditional 90-minutes units (without exercises).
 
 Literature recommendations for this course are: 
 * Rusell, S., & Norvig, P. Artificial intelligence: A modern approach
