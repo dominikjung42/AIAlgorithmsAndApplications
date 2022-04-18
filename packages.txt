@@ -7,10 +7,19 @@ scikit-learn
 
 # Chapter 6 - Machine Learning
 numpy
+pandas
 
 # Chapter 7 - Artifical Neuronal Networks
 tensorflow==2.4.*
 tensorflow-datasets
 tensorflow-addons
 gym
+
+# Chapter 9 - Language and Image Processing
+beautifulsoup4
+html5lib
+nltk
+requests
+
+
 
