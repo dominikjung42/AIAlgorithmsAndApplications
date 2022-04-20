@@ -16,8 +16,8 @@ ID | Chapter
 6 | Machine Learning - Fundamental Algorithms and Concepts 
 7 | Artificial Neural Networks and Deep Learning
 8 | Probabilistic Reasoning and Modelling - Fundamental Algorithms and Concepts
-10 | Language and Image Processing - Fundamental Algorithms and Concepts
-11 | Building Productive AI-based Systems
+9 | Language and Image Processing - Fundamental Algorithms and Concepts
+10 | Building Productive AI-based Systems
 
 For each chapter, you can find the accompanying material in the different folder of this repository. The best practice is that you clone this git repository (for more information see the slides of the first lecture)! Also take a look at the lecture syllabus for further course information.
 
