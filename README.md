@@ -26,11 +26,11 @@ The related course recordings are online available in my youtube channel (see <a
 
 Literature recommendations for this course are:
 
-- Rusell, S., & Norvig, P. Artificial intelligence: A modern approach
-- Géron, A.: Hands-on machine learning with Scikit-Learn and TensorFlow: concepts, tools, and techniques to build intelligent systems
-- Jung, D. The Modern Business Data Analyst: A Case Study Introduction into Business Data Analytics with CRISP-DM and R
+- Rusell, S., & Norvig, P. Artificial Intelligence: A Modern Approach.
+- Géron, A.: Hands-on Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems.
+- Jung, D. The Modern Business Data Analyst: A Case Study Introduction into Business Data Analytics with CRISP-DM and R.
 - Reis, J., & Housley, M. Fundamentals of Data Engineering: Plan and Build Robust Data Systems.
-- Castillo, E., Gutierrez, J. M., & Hadi, A. S. Expert systems and probabilistic network models. Springer Science & Business Media.
+- Castillo, E., Gutierrez, J. M., & Hadi, A. S. Expert Systems and Probabilistic Network Models. Springer Science & Business Media.
 
 I try continuously to improve and update the material - so if you have any complaints, wishes, ideas or questions please feel free to contact me. If you are interested in general at data science and information systems you can also take a look at my other lectures (see <a href="https://github.com/dominikjung42?tab=repositories" target="_blank">here</a>).
 
