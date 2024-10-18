@@ -9,10 +9,10 @@ The course itself is organised in the following chapters:
 | ID  | CHAPTER                                      |
 | --- | -------------------------------------------- |
 | 1   | Introduction into Artificial Intelligence    |
-| 2   | Problem-solving Agents                       |
+| 2   | Search, Problem Solving, and Planning        |
 | 3   | AI-Programming with Python                   |
 | 4   | Data and Feature Engineering with Python     |
-| 5   | Knowledge Reasoning                          |
+| 5   | Knowledge Reasoning and Representation       |
 | 6   | Machine Learning                             |
 | 7   | Artificial Neural Networks and Deep Learning |
 | 8   | Probabilistic Reasoning and Modelling        |
