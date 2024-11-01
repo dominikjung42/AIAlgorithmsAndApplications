@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Lectorial 5 - Implementing Intelligent Agents
-@author: Dominik Jung (dominik.jung42@gmail.com)
+@author: Dominik Jung (dominik.jung@jung-isec.de)
 """
 
 #%% import python libs

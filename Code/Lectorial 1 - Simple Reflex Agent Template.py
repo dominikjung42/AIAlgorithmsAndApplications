@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Lectorial 1 - Implementing Simple Reflex Agent
-@author: Dominik Jung (dominik.jung42@gmail.com)
+@author: Dominik Jung (dominik.jung@jung-isec.de)
 """
 
 class Cleaner:

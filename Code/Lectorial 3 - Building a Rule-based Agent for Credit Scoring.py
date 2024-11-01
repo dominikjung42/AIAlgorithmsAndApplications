@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Lectorial 3 - Building a rule-based agent for credit scoring
-@author: Dominik Jung (dominik.jung42@gmail.com)
+@author: Dominik Jung (dominik.jung@jung-isec.de)
 """
 
 #%% import python libs

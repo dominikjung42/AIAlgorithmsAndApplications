@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Lecture 6 - Silhouette Coefficient.py
-@author: Dr. Dominik Jung
-"""
+@author: Dr. Dominik Jung (dominik.jung@jung-isec.de)"""
 
 #%%
 import numpy as np

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Lecture 3 - Introduction into AI Programming with Python
-@author: Dominik Jung (dominik.jung42@gmail.com)
+@author: Dominik Jung (dominik.jung@jung-isec.de)
 """
 
 class Porsche:
