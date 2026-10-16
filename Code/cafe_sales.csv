@@ -1,0 +1,3816 @@
+receipt_id;timestamp;item;category;quantity;unit_price;student
+10001;2025-10-01 07:38;Tea;drink;1;1,50;False
+10001;2025-10-01 07:38;Cappuccino;coffee;1;2,40;False
+10001;2025-10-01 07:38;Espresso;coffee;1;1,10;False
+10002;2025-10-01 07:54;Latte Macchiato;coffee;1;2,80;False
+10003;2025-10-01 08:01;Filter Coffee;coffee;1;1,60;True
+10004;2025-10-01 08:05;Espresso;coffee;2;1,10;False
+10005;2025-10-01 08:05;Latte Macchiato;coffee;1;2,80;True
+10006;2025-10-01 08:11;Water;drink;1;1,40;False
+10007;2025-10-01 08:13;Pretzel;food;1;1,20;True
+10008;2025-10-01 08:20;Cappuccino;coffee;1;2,40;False
+10009;2025-10-01 08:21;Muffin;food;1;2,20;True
+10010;2025-10-01 08:22;Muffin;food;1;2,20;True
+10011;2025-10-01 08:24;Sandwich;food;1;3,90;False
+10012;2025-10-01 08:25;Pretzel;food;1;1,20;True
+10012;2025-10-01 08:25;Latte Macchiato;coffee;1;2,80;True
+10013;2025-10-01 08:27;Espresso;coffee;1;1,10;False
+10014;2025-10-01 08:31;Filter Coffee;coffee;1;1,60;True
+10014;2025-10-01 08:31;Espresso;coffee;1;1,10;True
+10014;2025-10-01 08:31;Pretzel;food;1;1,20;True
+10015;2025-10-01 08:32;Cappuccino;coffee;2;2,40;False
+10016;2025-10-01 08:36;Filter Coffee;coffee;1;1,60;True
+10017;2025-10-01 08:37;Croissant;food;1;1,80;True
+10018;2025-10-01 08:40;Tea;drink;1;1,50;False
+10018;2025-10-01 08:40;Filter Coffee;coffee;1;1,60;False
+10019;2025-10-01 08:40;Espresso;coffee;1;1,10;False
+10020;2025-10-01 08:42;Latte Macchiato;coffee;2;2,80;True
+10021;2025-10-01 08:45;Pretzel;food;1;1,20;True
+10022;2025-10-01 08:46;Espresso;coffee;2;1,10;True
+10022;2025-10-01 08:46;Filter Coffee;coffee;1;1,60;True
+10023;2025-10-01 08:48;Croissant;food;1;1,80;True
+10023;2025-10-01 08:48;Cappuccino;coffee;1;2,40;True
+10023;2025-10-01 08:48;Espresso;coffee;1;1,10;True
+10024;2025-10-01 08:50;Tea;drink;1;1,50;False
+10025;2025-10-01 08:51;Cappuccino;coffee;1;2,40;True
+10026;2025-10-01 08:54;Cappuccino;coffee;1;2,40;True
+10026;2025-10-01 08:54;Filter Coffee;coffee;1;1,60;True
+10027;2025-10-01 08:58;Espresso;coffee;1;1,10;True
+10028;2025-10-01 09:00;Cappuccino;coffee;1;2,40;False
+10028;2025-10-01 09:00;Filter Coffee;coffee;1;1,60;False
+10029;2025-10-01 09:03;Espresso;coffee;1;1,10;True
+10030;2025-10-01 09:04;Espresso;coffee;1;1,10;True
+10031;2025-10-01 09:11;Cappuccino;coffee;1;2,40;True
+10032;2025-10-01 09:17;Espresso;coffee;1;1,10;True
+10032;2025-10-01 09:17;Filter Coffee;coffee;1;1,60;True
+10033;2025-10-01 09:17;Espresso;coffee;1;1,10;True
+10034;2025-10-01 09:20;Pretzel;food;2;1,20;True
+10035;2025-10-01 09:36;Pretzel;food;2;1,20;False
+10036;2025-10-01 09:40;Croissant;food;1;1,80;False
+10036;2025-10-01 09:40;Water;drink;1;1,40;False
+10037;2025-10-01 09:44;Pretzel;food;1;1,20;True
+10038;2025-10-01 09:48;Filter Coffee;coffee;1;1,60;True
+10038;2025-10-01 09:48;Espresso;coffee;1;1,10;True
+10039;2025-10-01 09:50;Cappuccino;coffee;1;2,40;True
+10040;2025-10-01 09:54;Filter Coffee;coffee;1;1,60;False
+10040;2025-10-01 09:54;Muffin;food;1;2,20;False
+10041;2025-10-01 09:55;Pretzel;food;1;1,20;True
+10042;2025-10-01 09:56;Hot Chocolate;drink;1;2,50;True
+10043;2025-10-01 10:00;Croissant;food;1;1,80;False
+10044;2025-10-01 10:08;Espresso;coffee;2;1,10;True
+10044;2025-10-01 10:08;Croissant;food;1;1,80;True
+10045;2025-10-01 10:10;Croissant;food;1;1,80;False
+10045;2025-10-01 10:10;Tea;drink;1;1,50;False
+10045;2025-10-01 10:10;Pretzel;food;1;1,20;False
+10046;2025-10-01 10:25;Filter Coffee;coffee;1;1,60;True
+10046;2025-10-01 10:25;Tea;drink;1;1,50;True
+10047;2025-10-01 10:29;Croissant;food;2;1,80;True
+10047;2025-10-01 10:29;Latte Macchiato;coffee;1;2,80;True
+10048;2025-10-01 10:34;Espresso;coffee;1;1,10;True
+10049;2025-10-01 10:35;Croissant;food;1;1,80;False
+10049;2025-10-01 10:35;Cappuccino;coffee;1;2,40;False
+10050;2025-10-01 10:41;Cappuccino;coffee;1;2,40;True
+10051;2025-10-01 10:44;Cappuccino;coffee;1;2,40;False
+10051;2025-10-01 10:44;Croissant;food;1;1,80;False
+10051;2025-10-01 10:44;Latte Macchiato;coffee;1;2,80;False
+10052;2025-10-01 10:56;Croissant;food;1;1,80;False
+10052;2025-10-01 10:56;Muffin;food;1;2,20;False
+10052;2025-10-01 10:56;Espresso;coffee;1;1,10;False
+10053;2025-10-01 10:57;Espresso;coffee;1;1,10;False
+10053;2025-10-01 10:57;Cappuccino;coffee;1;2,40;False
+10054;2025-10-01 11:02;Cappuccino;coffee;1;2,40;False
+10055;2025-10-01 11:13;Sandwich;food;1;3,90;False
+10056;2025-10-01 11:17;Espresso;coffee;1;1,10;True
+10056;2025-10-01 11:17;Sandwich;food;1;3,90;True
+10057;2025-10-01 11:17;Espresso;coffee;1;1,10;True
+10057;2025-10-01 11:17;Cappuccino;coffee;1;2,40;True
+10058;2025-10-01 11:22;Pretzel;food;1;1,20;True
+10058;2025-10-01 11:22;Espresso;coffee;1;1,10;True
+10058;2025-10-01 11:22;Filter Coffee;coffee;1;1,60;True
+10059;2025-10-01 11:24;Sandwich;food;1;3,90;False
+10060;2025-10-01 11:26;Sandwich;food;1;3,90;True
+10060;2025-10-01 11:26;Espresso;coffee;1;1,10;True
+10061;2025-10-01 11:27;Pretzel;food;1;1,20;True
+10061;2025-10-01 11:27;Sandwich;food;1;3,90;True
+10062;2025-10-01 11:31;Muffin;food;1;2,20;False
+10063;2025-10-01 11:33;Pretzel;food;2;1,20;True
+10064;2025-10-01 11:35;Filter Coffee;coffee;3;1,60;True
+10064;2025-10-01 11:35;Espresso;coffee;1;1,10;True
+10065;2025-10-01 11:39;Pretzel;food;2;1,20;True
+10065;2025-10-01 11:39;Water;drink;1;1,40;True
+10066;2025-10-01 11:41;Pretzel;food;2;1,20;True
+10067;2025-10-01 11:42;Water;drink;1;1,40;True
+10068;2025-10-01 11:45;Filter Coffee;coffee;1;1,60;True
+10069;2025-10-01 11:58;Croissant;food;1;1,80;True
+10070;2025-10-01 12:01;Cappuccino;coffee;1;2,40;True
+10071;2025-10-01 12:20;Tea;drink;1;1,50;True
+10072;2025-10-01 12:20;Water;drink;1;1,40;False
+10073;2025-10-01 12:21;Latte Macchiato;coffee;1;2,80;True
+10073;2025-10-01 12:21;Sandwich;food;1;3,90;True
+10074;2025-10-01 12:21;Water;drink;2;1,40;False
+10075;2025-10-01 12:24;Water;drink;1;1,40;False
+10075;2025-10-01 12:24;Sandwich;food;1;3,90;False
+10075;2025-10-01 12:24;Cappuccino;coffee;1;2,40;False
+10076;2025-10-01 12:25;Espresso;coffee;1;1,10;True
+10076;2025-10-01 12:25;Cappuccino;coffee;1;2,40;True
+10077;2025-10-01 12:28;Espresso;coffee;1;1,10;False
+10077;2025-10-01 12:28;Sandwich;food;1;3,90;False
+10078;2025-10-01 12:30;Filter Coffee;coffee;3;1,60;False
+10078;2025-10-01 12:30;Latte Macchiato;coffee;1;2,80;False
+10079;2025-10-01 12:31;Pretzel;food;1;1,20;False
+10080;2025-10-01 12:45;Espresso;coffee;1;1,10;True
+10080;2025-10-01 12:45;Cappuccino;coffee;1;2,40;True
+10081;2025-10-01 12:46;Sandwich;food;3;3,90;False
+10081;2025-10-01 12:46;Water;drink;1;1,40;False
+10082;2025-10-01 12:46;Tea;drink;1;1,50;True
+10083;2025-10-01 12:47;Water;drink;1;1,40;True
+10084;2025-10-01 12:51;Espresso;coffee;1;1,10;True
+10084;2025-10-01 12:51;Cappuccino;coffee;1;2,40;True
+10084;2025-10-01 12:51;Pretzel;food;1;1,20;True
+10085;2025-10-01 12:53;Pretzel;food;1;1,20;False
+10085;2025-10-01 12:53;Croissant;food;1;1,80;False
+10086;2025-10-01 12:57;Latte Macchiato;coffee;1;2,80;False
+10087;2025-10-01 12:58;Sandwich;food;1;3,90;False
+10087;2025-10-01 12:58;Water;drink;1;1,40;False
+10088;2025-10-01 12:58;Water;drink;1;1,40;True
+10089;2025-10-01 12:59;Sandwich;food;1;3,90;True
+10090;2025-10-01 13:00;Cappuccino;coffee;2;2,40;True
+10091;2025-10-01 13:05;Cappuccino;coffee;1;2,40;True
+10092;2025-10-01 13:06;Muffin;food;3;2,20;True
+10093;2025-10-01 13:12;Water;drink;1;1,40;False
+10093;2025-10-01 13:12;Sandwich;food;2;3,90;False
+10094;2025-10-01 13:12;Sandwich;food;1;3,90;False
+10094;2025-10-01 13:12;Filter Coffee;coffee;1;1,60;False
+10095;2025-10-01 13:14;Sandwich;food;1;3,90;False
+10095;2025-10-01 13:14;Cappuccino;coffee;1;2,40;False
+10096;2025-10-01 13:14;Espresso;coffee;1;1,10;False
+10097;2025-10-01 13:16;Water;drink;1;1,40;False
+10097;2025-10-01 13:16;Sandwich;food;1;3,90;False
+10097;2025-10-01 13:16;Tea;drink;1;1,50;False
+10098;2025-10-01 13:22;Sandwich;food;1;3,90;True
+10098;2025-10-01 13:22;Espresso;coffee;1;1,10;True
+10098;2025-10-01 13:22;Latte Macchiato;coffee;1;2,80;True
+10099;2025-10-01 13:23;Sandwich;food;1;3,90;False
+10099;2025-10-01 13:23;Muffin;food;1;2,20;False
+10100;2025-10-01 13:24;Sandwich;food;1;3,90;True
+10100;2025-10-01 13:24;Espresso;coffee;1;1,10;True
+10101;2025-10-01 13:35;Sandwich;food;1;3,90;True
+10102;2025-10-01 13:41;Latte Macchiato;coffee;1;2,80;True
+10102;2025-10-01 13:41;Sandwich;food;1;3,90;True
+10103;2025-10-01 13:41;Sandwich;food;1;3,90;True
+10104;2025-10-01 13:42;Muffin;food;3;2,20;False
+10105;2025-10-01 13:44;Tea;drink;1;1,50;True
+10106;2025-10-01 13:50;Muffin;food;1;2,20;False
+10106;2025-10-01 13:50;Croissant;food;1;1,80;False
+10106;2025-10-01 13:50;Tea;drink;1;1,50;False
+10107;2025-10-01 13:50;Cappuccino;coffee;1;2,40;True
+10108;2025-10-01 13:51;Latte Macchiato;coffee;1;2,80;False
+10108;2025-10-01 13:51;Tea;drink;1;1,50;False
+10109;2025-10-01 13:53;Sandwich;food;1;3,90;True
+10110;2025-10-01 13:54;Water;drink;1;1,40;True
+10110;2025-10-01 13:54;Muffin;food;1;2,20;True
+10110;2025-10-01 13:54;Croissant;food;1;1,80;True
+10111;2025-10-01 13:54;Sandwich;food;1;3,90;True
+10112;2025-10-01 14:05;Pretzel;food;3;1,20;True
+10112;2025-10-01 14:05;Latte Macchiato;coffee;1;2,80;True
+10113;2025-10-01 14:12;Muffin;food;1;2,20;True
+10113;2025-10-01 14:12;Pretzel;food;1;1,20;True
+10114;2025-10-01 14:20;Muffin;food;1;2,20;True
+10114;2025-10-01 14:20;Tea;drink;2;1,50;True
+10115;2025-10-01 14:24;Espresso;coffee;1;1,10;True
+10116;2025-10-01 14:27;Tea;drink;1;1,50;True
+10117;2025-10-01 14:28;Latte Macchiato;coffee;1;2,80;True
+10118;2025-10-01 14:45;Cappuccino;coffee;1;2,40;True
+10119;2025-10-01 14:47;Espresso;coffee;1;1,10;False
+10120;2025-10-01 14:49;Latte Macchiato;coffee;1;2,80;True
+10121;2025-10-01 15:15;Muffin;food;1;2,20;True
+10121;2025-10-01 15:15;Cappuccino;coffee;1;2,40;True
+10122;2025-10-01 15:22;Cappuccino;coffee;1;2,40;True
+10122;2025-10-01 15:22;Muffin;food;1;2,20;True
+10123;2025-10-01 15:26;Espresso;coffee;2;1,10;True
+10124;2025-10-01 15:40;Filter Coffee;coffee;1;1,60;True
+10125;2025-10-01 16:10;Cappuccino;coffee;1;2,40;True
+10125;2025-10-01 16:10;Tea;drink;1;1,50;True
+10126;2025-10-01 16:17;Hot Chocolate;drink;1;2,50;False
+10126;2025-10-01 16:17;Filter Coffee;coffee;1;1,60;False
+10127;2025-10-01 16:19;Latte Macchiato;coffee;1;2,80;True
+10127;2025-10-01 16:19;Hot Chocolate;drink;1;2,50;True
+10127;2025-10-01 16:19;Sandwich;food;1;3,90;True
+10128;2025-10-01 16:21;Cappuccino;coffee;1;2,40;True
+10128;2025-10-01 16:21;Latte Macchiato;coffee;1;2,80;True
+10129;2025-10-01 16:28;Espresso;coffee;1;1,10;True
+10130;2025-10-02 07:34;Croissant;food;1;1,80;True
+10130;2025-10-02 07:34;Filter Coffee;coffee;1;1,60;True
+10131;2025-10-02 07:43;Filter Coffee;coffee;2;1,60;True
+10131;2025-10-02 07:43;Muffin;food;1;2,20;True
+10132;2025-10-02 07:48;Pretzel;food;1;1,20;True
+10133;2025-10-02 07:49;Filter Coffee;coffee;1;1,60;False
+10134;2025-10-02 07:55;Cappuccino;coffee;1;2,40;True
+10134;2025-10-02 07:55;Latte Macchiato;coffee;1;2,80;True
+10135;2025-10-02 08:06;Pretzel;food;1;1,20;True
+10135;2025-10-02 08:06;Croissant;food;1;1,80;True
+10135;2025-10-02 08:06;Latte Macchiato;coffee;1;2,80;True
+10136;2025-10-02 08:08;Espresso;coffee;1;1,10;False
+10137;2025-10-02 08:16;Filter Coffee;coffee;1;1,60;True
+10137;2025-10-02 08:16;Latte Macchiato;coffee;2;2,80;True
+10137;2025-10-02 08:16;Cappuccino;coffee;1;2,40;True
+10138;2025-10-02 08:24;Cappuccino;coffee;3;2,40;True
+10138;2025-10-02 08:24;Tea;drink;1;1,50;True
+10139;2025-10-02 08:25;Cappuccino;coffee;1;2,40;False
+10139;2025-10-02 08:25;Filter Coffee;coffee;1;1,60;False
+10140;2025-10-02 08:25;Croissant;food;1;1,80;True
+10141;2025-10-02 08:26;Filter Coffee;coffee;1;1,60;True
+10141;2025-10-02 08:26;Pretzel;food;1;1,20;True
+10142;2025-10-02 08:28;Filter Coffee;coffee;1;1,60;True
+10142;2025-10-02 08:28;Espresso;coffee;1;1,10;True
+10142;2025-10-02 08:28;Cappuccino;coffee;1;2,40;True
+10143;2025-10-02 08:30;Cappuccino;coffee;1;2,40;True
+10143;2025-10-02 08:30;Croissant;food;2;1,80;True
+10143;2025-10-02 08:30;Hot Chocolate;drink;1;2,50;True
+10144;2025-10-02 08:35;Croissant;food;1;1,80;False
+10145;2025-10-02 08:36;Pretzel;food;3;1,20;False
+10146;2025-10-02 08:37;Water;drink;2;1,40;True
+10147;2025-10-02 08:40;Croissant;food;1;1,80;True
+10148;2025-10-02 08:42;Latte Macchiato;coffee;1;2,80;True
+10148;2025-10-02 08:42;Pretzel;food;1;1,20;True
+10149;2025-10-02 08:44;Cappuccino;coffee;1;2,40;True
+10150;2025-10-02 08:48;Water;drink;1;1,40;True
+10150;2025-10-02 08:48;Espresso;coffee;1;1,10;True
+10151;2025-10-02 08:49;Filter Coffee;coffee;1;1,60;True
+10151;2025-10-02 08:49;Water;drink;1;1,40;True
+10152;2025-10-02 08:50;Croissant;food;1;1,80;False
+10153;2025-10-02 08:52;Croissant;food;1;1,80;False
+10154;2025-10-02 08:54;Hot Chocolate;drink;2;2,50;True
+10155;2025-10-02 08:57;Croissant;food;1;1,80;True
+10156;2025-10-02 09:02;Tea;drink;1;1,50;False
+10156;2025-10-02 09:02;Cappuccino;coffee;1;2,40;False
+10157;2025-10-02 09:03;Latte Macchiato;coffee;1;2,80;True
+10158;2025-10-02 09:04;Pretzel;food;1;1,20;False
+10159;2025-10-02 09:05;Croissant;food;1;1,80;True
+10159;2025-10-02 09:05;Cappuccino;coffee;1;2,40;True
+10159;2025-10-02 09:05;Filter Coffee;coffee;1;1,60;True
+10160;2025-10-02 09:09;Filter Coffee;coffee;1;1,60;False
+10161;2025-10-02 09:19;Espresso;coffee;1;1,10;True
+10162;2025-10-02 09:25;Espresso;coffee;1;1,10;True
+10162;2025-10-02 09:25;Croissant;food;3;1,80;True
+10163;2025-10-02 09:30;Filter Coffee;coffee;1;1,60;True
+10164;2025-10-02 09:30;Sandwich;food;2;3,90;True
+10164;2025-10-02 09:30;Espresso;coffee;1;1,10;True
+10164;2025-10-02 09:30;Croissant;food;1;1,80;True
+10165;2025-10-02 09:30;Filter Coffee;coffee;1;1,60;True
+10165;2025-10-02 09:30;Cappuccino;coffee;1;2,40;True
+10166;2025-10-02 09:33;Sandwich;food;1;3,90;True
+10166;2025-10-02 09:33;Latte Macchiato;coffee;2;2,80;True
+10167;2025-10-02 09:40;Cappuccino;coffee;1;2,40;True
+10168;2025-10-02 09:42;Cappuccino;coffee;1;2,40;False
+10168;2025-10-02 09:42;Croissant;food;1;1,80;False
+10169;2025-10-02 09:51;Croissant;food;1;1,80;False
+10170;2025-10-02 09:51;Filter Coffee;coffee;1;1,60;True
+10170;2025-10-02 09:51;Pretzel;food;1;1,20;True
+10171;2025-10-02 09:56;Espresso;coffee;1;1,10;True
+10172;2025-10-02 10:03;Espresso;coffee;1;1,10;False
+10172;2025-10-02 10:03;Water;drink;1;1,40;False
+10173;2025-10-02 10:04;Pretzel;food;1;1,20;False
+10173;2025-10-02 10:04;Latte Macchiato;coffee;1;2,80;False
+10174;2025-10-02 10:16;Filter Coffee;coffee;1;1,60;True
+10174;2025-10-02 10:16;Croissant;food;1;1,80;True
+10175;2025-10-02 10:38;Filter Coffee;coffee;1;1,60;True
+10176;2025-10-02 10:38;Espresso;coffee;1;1,10;True
+10177;2025-10-02 10:39;Cappuccino;coffee;1;2,40;True
+10177;2025-10-02 10:39;Sandwich;food;1;3,90;True
+10178;2025-10-02 10:48;Pretzel;food;1;1,20;False
+10179;2025-10-02 10:49;Filter Coffee;coffee;1;1,60;True
+10180;2025-10-02 10:49;Tea;drink;1;1,50;False
+10180;2025-10-02 10:49;Latte Macchiato;coffee;1;2,80;False
+10181;2025-10-02 10:50;Tea;drink;1;1,50;True
+10182;2025-10-02 10:57;Croissant;food;1;1,80;False
+10183;2025-10-02 10:57;Filter Coffee;coffee;1;1,60;True
+10184;2025-10-02 11:04;Pretzel;food;1;1,20;True
+10185;2025-10-02 11:39;Sandwich;food;1;3,90;True
+10186;2025-10-02 11:40;Water;drink;1;1,40;True
+10186;2025-10-02 11:40;Sandwich;food;1;3,90;True
+10187;2025-10-02 11:41;Pretzel;food;1;1,20;True
+10188;2025-10-02 11:49;Hot Chocolate;drink;1;2,50;True
+10189;2025-10-02 12:00;Latte Macchiato;coffee;1;2,80;True
+10189;2025-10-02 12:00;Espresso;coffee;1;1,10;True
+10190;2025-10-02 12:04;Sandwich;food;1;3,90;False
+10191;2025-10-02 12:06;Filter Coffee;coffee;1;1,60;True
+10192;2025-10-02 12:07;Muffin;food;3;2,20;True
+10192;2025-10-02 12:07;Sandwich;food;1;3,90;True
+10193;2025-10-02 12:08;Latte Macchiato;coffee;1;2,80;False
+10194;2025-10-02 12:09;Filter Coffee;coffee;1;1,60;True
+10194;2025-10-02 12:09;Sandwich;food;2;3,90;True
+10195;2025-10-02 12:14;Tea;drink;1;1,50;True
+10196;2025-10-02 12:16;Cappuccino;coffee;1;2,40;True
+10197;2025-10-02 12:19;Latte Macchiato;coffee;1;2,80;True
+10197;2025-10-02 12:19;Tea;drink;2;1,50;True
+10198;2025-10-02 12:20;Tea;drink;1;1,50;True
+10198;2025-10-02 12:20;Latte Macchiato;coffee;1;2,80;True
+10198;2025-10-02 12:20;Water;drink;1;1,40;True
+10199;2025-10-02 12:24;Latte Macchiato;coffee;1;2,80;True
+10200;2025-10-02 12:25;Muffin;food;1;2,20;True
+10201;2025-10-02 12:29;Muffin;food;1;2,20;True
+10202;2025-10-02 12:30;Croissant;food;1;1,80;False
+10202;2025-10-02 12:30;Pretzel;food;2;1,20;False
+10202;2025-10-02 12:30;Espresso;coffee;1;1,10;False
+10203;2025-10-02 12:33;Espresso;coffee;1;1,10;True
+10204;2025-10-02 12:34;Muffin;food;1;2,20;False
+10205;2025-10-02 12:34;Espresso;coffee;1;1,10;False
+10206;2025-10-02 12:36;Latte Macchiato;coffee;1;2,80;True
+10206;2025-10-02 12:36;Water;drink;1;1,40;True
+10207;2025-10-02 12:39;Water;drink;2;1,40;False
+10208;2025-10-02 12:39;Cappuccino;coffee;1;2,40;False
+10208;2025-10-02 12:39;Croissant;food;1;1,80;False
+10209;2025-10-02 12:41;Water;drink;1;1,40;True
+10209;2025-10-02 12:41;Sandwich;food;1;3,90;True
+10210;2025-10-02 12:43;Filter Coffee;coffee;1;1,60;False
+10211;2025-10-02 12:54;Cappuccino;coffee;1;2,40;False
+10212;2025-10-02 12:57;Water;drink;1;1,40;True
+10213;2025-10-02 13:03;Latte Macchiato;coffee;1;2,80;True
+10213;2025-10-02 13:03;Pretzel;food;1;1,20;True
+10214;2025-10-02 13:06;Filter Coffee;coffee;1;1,60;True
+10215;2025-10-02 13:06;Sandwich;food;1;3,90;True
+10216;2025-10-02 13:10;Espresso;coffee;1;1,10;True
+10216;2025-10-02 13:10;Pretzel;food;1;1,20;True
+10216;2025-10-02 13:10;Sandwich;food;1;3,90;True
+10217;2025-10-02 13:23;Sandwich;food;1;3,90;False
+10218;2025-10-02 13:26;Cappuccino;coffee;2;2,40;True
+10218;2025-10-02 13:26;Sandwich;food;1;3,90;True
+10219;2025-10-02 13:28;Espresso;coffee;1;1,10;False
+10220;2025-10-02 13:29;Sandwich;food;1;3,90;True
+10221;2025-10-02 13:33;Espresso;coffee;1;1,10;False
+10222;2025-10-02 13:34;Cappuccino;coffee;1;2,40;False
+10223;2025-10-02 13:39;Muffin;food;1;2,20;False
+10223;2025-10-02 13:39;Sandwich;food;2;3,90;False
+10224;2025-10-02 13:41;Sandwich;food;1;3,90;True
+10225;2025-10-02 13:44;Sandwich;food;1;3,90;True
+10225;2025-10-02 13:44;Muffin;food;1;2,20;True
+10226;2025-10-02 13:52;Tea;drink;1;1,50;True
+10227;2025-10-02 13:59;Water;drink;1;1,40;True
+10227;2025-10-02 13:59;Sandwich;food;1;3,90;True
+10228;2025-10-02 13:59;Sandwich;food;1;3,90;True
+10229;2025-10-02 14:31;Sandwich;food;1;3,90;True
+10229;2025-10-02 14:31;Cappuccino;coffee;1;2,40;True
+10229;2025-10-02 14:31;Espresso;coffee;1;1,10;True
+10230;2025-10-02 14:38;Tea;drink;1;1,50;False
+10230;2025-10-02 14:38;Hot Chocolate;drink;1;2,50;False
+10230;2025-10-02 14:38;Cappuccino;coffee;2;2,40;False
+10231;2025-10-02 14:43;Espresso;coffee;1;1,10;True
+10232;2025-10-02 14:49;Latte Macchiato;coffee;1;2,80;True
+10232;2025-10-02 14:49;Pretzel;food;1;1,20;True
+10232;2025-10-02 14:49;Tea;drink;1;1,50;True
+10233;2025-10-02 14:55;Cappuccino;coffee;1;2,40;False
+10234;2025-10-02 15:01;Filter Coffee;coffee;1;1,60;True
+10234;2025-10-02 15:01;Espresso;coffee;1;1,10;True
+10234;2025-10-02 15:01;Tea;drink;3;1,50;True
+10235;2025-10-02 15:03;Latte Macchiato;coffee;1;2,80;True
+10236;2025-10-02 15:04;Cappuccino;coffee;3;2,40;True
+10236;2025-10-02 15:04;Hot Chocolate;drink;1;2,50;True
+10237;2025-10-02 15:06;Latte Macchiato;coffee;1;2,80;False
+10237;2025-10-02 15:06;Espresso;coffee;1;1,10;False
+10238;2025-10-02 15:06;Hot Chocolate;drink;1;2,50;False
+10239;2025-10-02 15:11;Hot Chocolate;drink;2;2,50;True
+10240;2025-10-02 15:13;Latte Macchiato;coffee;1;2,80;False
+10241;2025-10-02 15:13;Latte Macchiato;coffee;1;2,80;False
+10241;2025-10-02 15:13;Cappuccino;coffee;1;2,40;False
+10242;2025-10-02 15:18;Croissant;food;1;1,80;True
+10242;2025-10-02 15:18;Muffin;food;2;2,20;True
+10243;2025-10-02 15:21;Cappuccino;coffee;1;2,40;True
+10244;2025-10-02 15:23;Croissant;food;1;1,80;True
+10244;2025-10-02 15:23;Water;drink;1;1,40;True
+10245;2025-10-02 15:29;Cappuccino;coffee;1;2,40;True
+10246;2025-10-02 15:46;Water;drink;1;1,40;True
+10247;2025-10-02 15:59;Croissant;food;1;1,80;True
+10247;2025-10-02 15:59;Muffin;food;1;2,20;True
+10248;2025-10-02 16:01;Filter Coffee;coffee;1;1,60;True
+10249;2025-10-02 16:06;Croissant;food;1;1,80;True
+10250;2025-10-02 16:09;Latte Macchiato;coffee;1;2,80;True
+10251;2025-10-02 16:32;Croissant;food;1;1,80;False
+10252;2025-10-02 16:36;Muffin;food;2;2,20;True
+10252;2025-10-02 16:36;Sandwich;food;2;3,90;True
+10253;2025-10-02 16:38;Latte Macchiato;coffee;1;2,80;True
+10253;2025-10-02 16:38;Espresso;coffee;1;1,10;True
+10254;2025-10-02 16:39;Tea;drink;1;1,50;True
+10255;2025-10-02 16:49;Cappuccino;coffee;1;2,40;False
+10256;2025-10-02 16:50;Muffin;food;1;2,20;True
+10256;2025-10-02 16:50;Cappuccino;coffee;2;2,40;True
+10256;2025-10-02 16:50;Latte Macchiato;coffee;1;2,80;True
+10257;2025-10-06 07:34;Sandwich;food;1;3,90;False
+10258;2025-10-06 08:02;Cappuccino;coffee;1;2,40;True
+10258;2025-10-06 08:02;Tea;drink;1;1,50;True
+10259;2025-10-06 08:04;Croissant;food;1;1,80;True
+10260;2025-10-06 08:08;Cappuccino;coffee;1;2,40;False
+10261;2025-10-06 08:11;Muffin;food;1;2,20;True
+10262;2025-10-06 08:22;Pretzel;food;2;1,20;False
+10263;2025-10-06 08:24;Latte Macchiato;coffee;1;2,80;False
+10264;2025-10-06 08:25;Espresso;coffee;1;1,10;False
+10265;2025-10-06 08:32;Croissant;food;1;1,80;True
+10265;2025-10-06 08:32;Latte Macchiato;coffee;1;2,80;True
+10266;2025-10-06 08:36;Pretzel;food;1;1,20;False
+10267;2025-10-06 08:39;Filter Coffee;coffee;2;1,60;False
+10268;2025-10-06 08:40;Cappuccino;coffee;1;2,40;True
+10268;2025-10-06 08:40;Filter Coffee;coffee;3;1,60;True
+10268;2025-10-06 08:40;Espresso;coffee;1;1,10;True
+10269;2025-10-06 08:48;Pretzel;food;1;1,20;True
+10270;2025-10-06 08:51;Pretzel;food;1;1,20;True
+10270;2025-10-06 08:51;Hot Chocolate;drink;1;2,50;True
+10271;2025-10-06 08:53;Cappuccino;coffee;1;2,40;True
+10272;2025-10-06 08:57;Filter Coffee;coffee;1;1,60;True
+10273;2025-10-06 08:58;Croissant;food;1;1,80;False
+10274;2025-10-06 08:58;Cappuccino;coffee;2;2,40;True
+10274;2025-10-06 08:58;Filter Coffee;coffee;1;1,60;True
+10275;2025-10-06 08:59;Filter Coffee;coffee;1;1,60;True
+10276;2025-10-06 09:01;Hot Chocolate;drink;1;2,50;True
+10276;2025-10-06 09:01;Espresso;coffee;1;1,10;True
+10277;2025-10-06 09:01;Cappuccino;coffee;1;2,40;True
+10278;2025-10-06 09:03;Cappuccino;coffee;1;2,40;False
+10279;2025-10-06 09:07;Latte Macchiato;coffee;1;2,80;True
+10279;2025-10-06 09:07;Croissant;food;1;1,80;True
+10280;2025-10-06 09:09;Latte Macchiato;coffee;1;2,80;True
+10280;2025-10-06 09:09;Tea;drink;1;1,50;True
+10280;2025-10-06 09:09;Croissant;food;2;1,80;True
+10281;2025-10-06 09:10;Cappuccino;coffee;1;2,40;False
+10282;2025-10-06 09:16;Filter Coffee;coffee;1;1,60;True
+10283;2025-10-06 09:17;Croissant;food;1;1,80;False
+10284;2025-10-06 09:21;Filter Coffee;coffee;1;1,60;False
+10285;2025-10-06 09:22;Cappuccino;coffee;1;2,40;True
+10285;2025-10-06 09:22;Water;drink;1;1,40;True
+10286;2025-10-06 09:26;Latte Macchiato;coffee;1;2,80;False
+10286;2025-10-06 09:26;Croissant;food;1;1,80;False
+10286;2025-10-06 09:26;Pretzel;food;1;1,20;False
+10287;2025-10-06 09:27;Tea;drink;3;1,50;False
+10288;2025-10-06 09:30;Hot Chocolate;drink;2;2,50;False
+10289;2025-10-06 09:31;Latte Macchiato;coffee;1;2,80;False
+10290;2025-10-06 09:36;Sandwich;food;2;3,90;False
+10291;2025-10-06 09:36;Filter Coffee;coffee;1;1,60;True
+10291;2025-10-06 09:36;Cappuccino;coffee;1;2,40;True
+10292;2025-10-06 09:36;Cappuccino;coffee;1;2,40;True
+10292;2025-10-06 09:36;Croissant;food;1;1,80;True
+10293;2025-10-06 09:40;Pretzel;food;1;1,20;True
+10294;2025-10-06 09:42;Latte Macchiato;coffee;1;2,80;True
+10294;2025-10-06 09:42;Espresso;coffee;1;1,10;True
+10295;2025-10-06 09:45;Espresso;coffee;1;1,10;True
+10296;2025-10-06 09:47;Pretzel;food;1;1,20;True
+10297;2025-10-06 09:48;Cappuccino;coffee;1;2,40;True
+10298;2025-10-06 09:56;Espresso;coffee;1;1,10;False
+10298;2025-10-06 09:56;Filter Coffee;coffee;1;1,60;False
+10299;2025-10-06 10:23;Water;drink;1;1,40;False
+10300;2025-10-06 10:35;Latte Macchiato;coffee;1;2,80;True
+10300;2025-10-06 10:35;Cappuccino;coffee;1;2,40;True
+10300;2025-10-06 10:35;Filter Coffee;coffee;1;1,60;True
+10301;2025-10-06 10:39;Cappuccino;coffee;1;2,40;True
+10302;2025-10-06 10:49;Pretzel;food;1;1,20;True
+10302;2025-10-06 10:49;Croissant;food;1;1,80;True
+10303;2025-10-06 10:49;Espresso;coffee;1;1,10;True
+10304;2025-10-06 10:51;Filter Coffee;coffee;2;1,60;False
+10305;2025-10-06 10:53;Pretzel;food;2;1,20;True
+10306;2025-10-06 10:54;Espresso;coffee;2;1,10;False
+10306;2025-10-06 10:54;Croissant;food;1;1,80;False
+10306;2025-10-06 10:54;Sandwich;food;1;3,90;False
+10307;2025-10-06 10:54;Tea;drink;1;1,50;True
+10307;2025-10-06 10:54;Cappuccino;coffee;1;2,40;True
+10308;2025-10-06 10:58;Croissant;food;1;1,80;False
+10309;2025-10-06 10:59;Cappuccino;coffee;1;2,40;False
+10310;2025-10-06 10:59;Filter Coffee;coffee;1;1,60;True
+10311;2025-10-06 11:12;Muffin;food;1;2,20;True
+10311;2025-10-06 11:12;Cappuccino;coffee;1;2,40;True
+10311;2025-10-06 11:12;Sandwich;food;1;3,90;True
+10312;2025-10-06 11:14;Cappuccino;coffee;1;2,40;True
+10312;2025-10-06 11:14;Pretzel;food;1;1,20;True
+10312;2025-10-06 11:14;Sandwich;food;1;3,90;True
+10313;2025-10-06 11:20;Water;drink;1;1,40;False
+10314;2025-10-06 11:37;Sandwich;food;1;3,90;True
+10315;2025-10-06 11:40;Sandwich;food;1;3,90;True
+10316;2025-10-06 11:44;Water;drink;1;1,40;True
+10316;2025-10-06 11:44;Filter Coffee;coffee;1;1,60;True
+10317;2025-10-06 11:48;Filter Coffee;coffee;1;1,60;True
+10318;2025-10-06 12:02;Cappuccino;coffee;1;2,40;True
+10319;2025-10-06 12:03;Pretzel;food;1;1,20;True
+10320;2025-10-06 12:08;Water;drink;1;1,40;True
+10321;2025-10-06 12:09;Water;drink;1;1,40;True
+10322;2025-10-06 12:11;Latte Macchiato;coffee;1;2,80;True
+10323;2025-10-06 12:26;Sandwich;food;1;3,90;True
+10323;2025-10-06 12:26;Espresso;coffee;1;1,10;True
+10324;2025-10-06 12:30;Pretzel;food;1;1,20;False
+10324;2025-10-06 12:30;Sandwich;food;1;3,90;False
+10325;2025-10-06 12:42;Filter Coffee;coffee;3;1,60;True
+10326;2025-10-06 12:49;Water;drink;1;1,40;False
+10327;2025-10-06 12:49;Sandwich;food;1;3,90;True
+10328;2025-10-06 12:50;Sandwich;food;1;3,90;True
+10329;2025-10-06 13:03;Hot Chocolate;drink;1;2,50;False
+10330;2025-10-06 13:03;Cappuccino;coffee;1;2,40;True
+10330;2025-10-06 13:03;Water;drink;1;1,40;True
+10330;2025-10-06 13:03;Sandwich;food;1;3,90;True
+10331;2025-10-06 13:05;Sandwich;food;1;3,90;True
+10332;2025-10-06 13:09;Tea;drink;1;1,50;True
+10333;2025-10-06 13:24;Pretzel;food;1;1,20;True
+10334;2025-10-06 13:27;Muffin;food;1;2,20;True
+10335;2025-10-06 13:28;Water;drink;1;1,40;False
+10335;2025-10-06 13:28;Cappuccino;coffee;1;2,40;False
+10336;2025-10-06 13:31;Filter Coffee;coffee;1;1,60;True
+10337;2025-10-06 13:35;Sandwich;food;1;3,90;False
+10338;2025-10-06 13:36;Muffin;food;1;2,20;True
+10338;2025-10-06 13:36;Sandwich;food;1;3,90;True
+10339;2025-10-06 13:37;Cappuccino;coffee;1;2,40;True
+10340;2025-10-06 13:39;Cappuccino;coffee;1;2,40;True
+10340;2025-10-06 13:39;Espresso;coffee;1;1,10;True
+10340;2025-10-06 13:39;Hot Chocolate;drink;1;2,50;True
+10341;2025-10-06 13:42;Tea;drink;1;1,50;True
+10342;2025-10-06 13:47;Espresso;coffee;1;1,10;True
+10343;2025-10-06 13:49;Sandwich;food;1;3,90;False
+10343;2025-10-06 13:49;Water;drink;1;1,40;False
+10343;2025-10-06 13:49;Cappuccino;coffee;2;2,40;False
+10344;2025-10-06 13:51;Sandwich;food;1;3,90;False
+10345;2025-10-06 13:52;Espresso;coffee;1;1,10;True
+10345;2025-10-06 13:52;Sandwich;food;1;3,90;True
+10345;2025-10-06 13:52;Filter Coffee;coffee;1;1,60;True
+10346;2025-10-06 13:54;Sandwich;food;1;3,90;True
+10346;2025-10-06 13:54;Espresso;coffee;1;1,10;True
+10347;2025-10-06 13:55;Cappuccino;coffee;1;2,40;True
+10348;2025-10-06 13:58;Cappuccino;coffee;1;2,40;True
+10348;2025-10-06 13:58;Sandwich;food;1;3,90;True
+10349;2025-10-06 13:59;Cappuccino;coffee;1;2,40;True
+10350;2025-10-06 14:03;Tea;drink;1;1,50;True
+10351;2025-10-06 14:09;Sandwich;food;2;3,90;False
+10352;2025-10-06 14:11;Filter Coffee;coffee;1;1,60;True
+10352;2025-10-06 14:11;Tea;drink;1;1,50;True
+10353;2025-10-06 14:13;Muffin;food;1;2,20;True
+10354;2025-10-06 14:18;Espresso;coffee;1;1,10;False
+10354;2025-10-06 14:18;Hot Chocolate;drink;1;2,50;False
+10355;2025-10-06 14:29;Hot Chocolate;drink;2;2,50;True
+10356;2025-10-06 14:30;Filter Coffee;coffee;1;1,60;True
+10356;2025-10-06 14:30;Cappuccino;coffee;1;2,40;True
+10357;2025-10-06 14:39;Espresso;coffee;1;1,10;False
+10358;2025-10-06 14:41;Latte Macchiato;coffee;1;2,80;True
+10358;2025-10-06 14:41;Muffin;food;2;2,20;True
+10359;2025-10-06 14:43;Cappuccino;coffee;2;2,40;True
+10359;2025-10-06 14:43;Latte Macchiato;coffee;1;2,80;True
+10359;2025-10-06 14:43;Hot Chocolate;drink;1;2,50;True
+10360;2025-10-06 14:52;Espresso;coffee;1;1,10;True
+10361;2025-10-06 14:56;Espresso;coffee;1;1,10;False
+10361;2025-10-06 14:56;Muffin;food;1;2,20;False
+10362;2025-10-06 15:02;Latte Macchiato;coffee;1;2,80;True
+10363;2025-10-06 15:03;Latte Macchiato;coffee;1;2,80;True
+10364;2025-10-06 15:26;Cappuccino;coffee;1;2,40;True
+10365;2025-10-06 15:30;Tea;drink;1;1,50;False
+10366;2025-10-06 15:30;Sandwich;food;1;3,90;False
+10366;2025-10-06 15:30;Tea;drink;1;1,50;False
+10367;2025-10-06 15:33;Water;drink;1;1,40;False
+10368;2025-10-06 15:33;Tea;drink;1;1,50;True
+10369;2025-10-06 15:37;Water;drink;1;1,40;False
+10370;2025-10-06 15:48;Croissant;food;1;1,80;False
+10370;2025-10-06 15:48;Muffin;food;1;2,20;False
+10371;2025-10-06 15:52;Muffin;food;1;2,20;True
+10372;2025-10-06 15:56;Cappuccino;coffee;1;2,40;False
+10373;2025-10-06 16:08;Muffin;food;1;2,20;False
+10374;2025-10-06 16:13;Sandwich;food;1;3,90;False
+10375;2025-10-06 16:37;Cappuccino;coffee;1;2,40;True
+10376;2025-10-06 16:39;Espresso;coffee;2;1,10;False
+10377;2025-10-06 16:42;Latte Macchiato;coffee;1;2,80;True
+10377;2025-10-06 16:42;Tea;drink;1;1,50;True
+10378;2025-10-06 16:52;Muffin;food;1;2,20;True
+10378;2025-10-06 16:52;Sandwich;food;1;3,90;True
+10379;2025-10-07 07:39;Tea;drink;2;1,50;True
+10379;2025-10-07 07:39;Cappuccino;coffee;1;2,40;True
+10380;2025-10-07 07:41;Cappuccino;coffee;1;2,40;False
+10380;2025-10-07 07:41;Croissant;food;1;1,80;False
+10381;2025-10-07 07:55;Latte Macchiato;coffee;1;2,80;True
+10382;2025-10-07 08:01;Tea;drink;1;1,50;True
+10383;2025-10-07 08:06;Water;drink;1;1,40;True
+10383;2025-10-07 08:06;Croissant;food;1;1,80;True
+10384;2025-10-07 08:07;Filter Coffee;coffee;1;1,60;True
+10385;2025-10-07 08:08;Espresso;coffee;1;1,10;True
+10385;2025-10-07 08:08;Tea;drink;1;1,50;True
+10386;2025-10-07 08:10;Tea;drink;1;1,50;True
+10386;2025-10-07 08:10;Cappuccino;coffee;1;2,40;True
+10387;2025-10-07 08:14;Cappuccino;coffee;1;2,40;True
+10388;2025-10-07 08:14;Cappuccino;coffee;1;2,40;False
+10389;2025-10-07 08:14;Espresso;coffee;1;1,10;True
+10390;2025-10-07 08:14;Croissant;food;1;1,80;False
+10391;2025-10-07 08:15;Muffin;food;2;2,20;True
+10391;2025-10-07 08:15;Cappuccino;coffee;2;2,40;True
+10392;2025-10-07 08:15;Latte Macchiato;coffee;1;2,80;True
+10393;2025-10-07 08:16;Espresso;coffee;2;1,10;True
+10394;2025-10-07 08:19;Filter Coffee;coffee;2;1,60;False
+10394;2025-10-07 08:19;Espresso;coffee;1;1,10;False
+10395;2025-10-07 08:22;Cappuccino;coffee;1;2,40;True
+10395;2025-10-07 08:22;Espresso;coffee;1;1,10;True
+10396;2025-10-07 08:25;Filter Coffee;coffee;1;1,60;True
+10397;2025-10-07 08:28;Tea;drink;1;1,50;True
+10398;2025-10-07 08:34;Filter Coffee;coffee;1;1,60;True
+10398;2025-10-07 08:34;Pretzel;food;1;1,20;True
+10398;2025-10-07 08:34;Croissant;food;1;1,80;True
+10399;2025-10-07 08:35;Muffin;food;1;2,20;True
+10400;2025-10-07 08:38;Espresso;coffee;1;1,10;True
+10401;2025-10-07 08:40;Cappuccino;coffee;1;2,40;True
+10402;2025-10-07 08:44;Muffin;food;1;2,20;True
+10403;2025-10-07 08:44;Latte Macchiato;coffee;1;2,80;True
+10404;2025-10-07 08:44;Filter Coffee;coffee;1;1,60;True
+10404;2025-10-07 08:44;Croissant;food;1;1,80;True
+10404;2025-10-07 08:44;Espresso;coffee;1;1,10;True
+10405;2025-10-07 08:51;Croissant;food;1;1,80;True
+10405;2025-10-07 08:51;Latte Macchiato;coffee;1;2,80;True
+10406;2025-10-07 08:53;Water;drink;1;1,40;False
+10407;2025-10-07 08:58;Croissant;food;1;1,80;False
+10408;2025-10-07 09:02;Croissant;food;2;1,80;True
+10408;2025-10-07 09:02;Pretzel;food;1;1,20;True
+10409;2025-10-07 09:02;Espresso;coffee;1;1,10;True
+10409;2025-10-07 09:02;Filter Coffee;coffee;1;1,60;True
+10410;2025-10-07 09:08;Cappuccino;coffee;1;2,40;True
+10411;2025-10-07 09:21;Water;drink;2;1,40;True
+10411;2025-10-07 09:21;Espresso;coffee;1;1,10;True
+10412;2025-10-07 09:22;Muffin;food;1;2,20;False
+10413;2025-10-07 09:22;Cappuccino;coffee;1;2,40;True
+10413;2025-10-07 09:22;Croissant;food;1;1,80;True
+10414;2025-10-07 09:27;Water;drink;2;1,40;True
+10415;2025-10-07 09:29;Latte Macchiato;coffee;1;2,80;True
+10415;2025-10-07 09:29;Croissant;food;1;1,80;True
+10416;2025-10-07 09:32;Pretzel;food;1;1,20;False
+10416;2025-10-07 09:32;Croissant;food;2;1,80;False
+10417;2025-10-07 09:35;Cappuccino;coffee;1;2,40;True
+10418;2025-10-07 09:35;Filter Coffee;coffee;1;1,60;True
+10419;2025-10-07 09:47;Hot Chocolate;drink;1;2,50;True
+10419;2025-10-07 09:47;Latte Macchiato;coffee;1;2,80;True
+10420;2025-10-07 09:52;Filter Coffee;coffee;1;1,60;False
+10420;2025-10-07 09:52;Croissant;food;1;1,80;False
+10421;2025-10-07 09:56;Pretzel;food;1;1,20;False
+10422;2025-10-07 10:08;Pretzel;food;1;1,20;True
+10422;2025-10-07 10:08;Sandwich;food;1;3,90;True
+10423;2025-10-07 10:10;Pretzel;food;1;1,20;True
+10424;2025-10-07 10:28;Filter Coffee;coffee;1;1,60;False
+10425;2025-10-07 10:31;Filter Coffee;coffee;1;1,60;True
+10426;2025-10-07 10:32;Espresso;coffee;1;1,10;True
+10426;2025-10-07 10:32;Tea;drink;1;1,50;True
+10427;2025-10-07 10:34;Cappuccino;coffee;1;2,40;True
+10428;2025-10-07 10:38;Pretzel;food;1;1,20;False
+10429;2025-10-07 10:54;Pretzel;food;1;1,20;True
+10429;2025-10-07 10:54;Filter Coffee;coffee;1;1,60;True
+10430;2025-10-07 11:02;Pretzel;food;1;1,20;True
+10431;2025-10-07 11:04;Tea;drink;1;1,50;True
+10431;2025-10-07 11:04;Sandwich;food;1;3,90;True
+10431;2025-10-07 11:04;Pretzel;food;1;1,20;True
+10432;2025-10-07 11:09;Pretzel;food;1;1,20;True
+10432;2025-10-07 11:09;Water;drink;1;1,40;True
+10433;2025-10-07 11:11;Sandwich;food;1;3,90;True
+10434;2025-10-07 11:35;Sandwich;food;1;3,90;True
+10434;2025-10-07 11:35;Cappuccino;coffee;1;2,40;True
+10435;2025-10-07 11:47;Water;drink;1;1,40;False
+10436;2025-10-07 11:53;Water;drink;1;1,40;False
+10437;2025-10-07 11:55;Filter Coffee;coffee;1;1,60;False
+10438;2025-10-07 12:00;Tea;drink;1;1,50;False
+10439;2025-10-07 12:00;Water;drink;1;1,40;True
+10440;2025-10-07 12:01;Cappuccino;coffee;1;2,40;True
+10441;2025-10-07 12:08;Espresso;coffee;1;1,10;False
+10442;2025-10-07 12:11;Latte Macchiato;coffee;1;2,80;True
+10442;2025-10-07 12:11;Sandwich;food;1;3,90;True
+10443;2025-10-07 12:14;Cappuccino;coffee;1;2,40;False
+10444;2025-10-07 12:18;Sandwich;food;1;3,90;False
+10445;2025-10-07 12:20;Pretzel;food;2;1,20;True
+10445;2025-10-07 12:20;Water;drink;1;1,40;True
+10446;2025-10-07 12:20;Espresso;coffee;1;1,10;False
+10447;2025-10-07 12:24;Sandwich;food;2;3,90;False
+10447;2025-10-07 12:24;Filter Coffee;coffee;1;1,60;False
+10448;2025-10-07 12:26;Latte Macchiato;coffee;1;2,80;True
+10448;2025-10-07 12:26;Pretzel;food;1;1,20;True
+10449;2025-10-07 12:29;Espresso;coffee;1;1,10;True
+10450;2025-10-07 12:33;Pretzel;food;1;1,20;True
+10451;2025-10-07 12:34;Tea;drink;3;1,50;False
+10451;2025-10-07 12:34;Sandwich;food;1;3,90;False
+10451;2025-10-07 12:34;Espresso;coffee;1;1,10;False
+10452;2025-10-07 12:34;Latte Macchiato;coffee;3;2,80;False
+10452;2025-10-07 12:34;Pretzel;food;1;1,20;False
+10453;2025-10-07 12:36;Croissant;food;1;1,80;True
+10454;2025-10-07 12:46;Muffin;food;1;2,20;True
+10455;2025-10-07 12:58;Sandwich;food;1;3,90;True
+10456;2025-10-07 13:05;Water;drink;1;1,40;True
+10457;2025-10-07 13:07;Sandwich;food;1;3,90;True
+10458;2025-10-07 13:09;Sandwich;food;1;3,90;False
+10459;2025-10-07 13:10;Cappuccino;coffee;1;2,40;False
+10460;2025-10-07 13:11;Water;drink;1;1,40;True
+10461;2025-10-07 13:25;Pretzel;food;1;1,20;True
+10461;2025-10-07 13:25;Cappuccino;coffee;1;2,40;True
+10462;2025-10-07 13:26;Hot Chocolate;drink;1;2,50;True
+10463;2025-10-07 13:27;Cappuccino;coffee;1;2,40;False
+10463;2025-10-07 13:27;Espresso;coffee;1;1,10;False
+10464;2025-10-07 13:36;Sandwich;food;1;3,90;True
+10465;2025-10-07 13:38;Pretzel;food;1;1,20;True
+10465;2025-10-07 13:38;Hot Chocolate;drink;1;2,50;True
+10465;2025-10-07 13:38;Muffin;food;1;2,20;True
+10466;2025-10-07 13:40;Tea;drink;1;1,50;True
+10467;2025-10-07 13:40;Sandwich;food;1;3,90;True
+10468;2025-10-07 13:43;Espresso;coffee;1;1,10;True
+10469;2025-10-07 13:44;Cappuccino;coffee;1;2,40;True
+10470;2025-10-07 13:44;Filter Coffee;coffee;1;1,60;True
+10471;2025-10-07 13:57;Water;drink;1;1,40;True
+10472;2025-10-07 13:58;Espresso;coffee;1;1,10;True
+10472;2025-10-07 13:58;Filter Coffee;coffee;3;1,60;True
+10472;2025-10-07 13:58;Sandwich;food;1;3,90;True
+10473;2025-10-07 14:06;Cappuccino;coffee;2;2,40;True
+10473;2025-10-07 14:06;Hot Chocolate;drink;1;2,50;True
+10473;2025-10-07 14:06;Latte Macchiato;coffee;3;2,80;True
+10474;2025-10-07 14:23;Hot Chocolate;drink;1;2,50;False
+10475;2025-10-07 14:24;Tea;drink;1;1,50;True
+10475;2025-10-07 14:24;Water;drink;1;1,40;True
+10475;2025-10-07 14:24;Filter Coffee;coffee;1;1,60;True
+10476;2025-10-07 14:26;Muffin;food;1;2,20;True
+10477;2025-10-07 14:30;Espresso;coffee;1;1,10;True
+10477;2025-10-07 14:30;Filter Coffee;coffee;1;1,60;True
+10477;2025-10-07 14:30;Water;drink;1;1,40;True
+10478;2025-10-07 14:40;Water;drink;1;1,40;True
+10479;2025-10-07 14:45;Muffin;food;1;2,20;True
+10480;2025-10-07 14:52;Espresso;coffee;1;1,10;True
+10481;2025-10-07 14:57;Cappuccino;coffee;1;2,40;True
+10481;2025-10-07 14:57;Muffin;food;1;2,20;True
+10481;2025-10-07 14:57;Filter Coffee;coffee;1;1,60;True
+10482;2025-10-07 15:00;Muffin;food;2;2,20;True
+10482;2025-10-07 15:00;Filter Coffee;coffee;1;1,60;True
+10482;2025-10-07 15:00;Pretzel;food;1;1,20;True
+10483;2025-10-07 15:10;Espresso;coffee;2;1,10;True
+10484;2025-10-07 15:15;Sandwich;food;1;3,90;True
+10484;2025-10-07 15:15;Espresso;coffee;1;1,10;True
+10485;2025-10-07 15:20;Cappuccino;coffee;1;2,40;True
+10486;2025-10-07 15:34;Hot Chocolate;drink;2;2,50;True
+10487;2025-10-07 15:43;Muffin;food;1;2,20;True
+10488;2025-10-07 15:43;Muffin;food;1;2,20;True
+10488;2025-10-07 15:43;Hot Chocolate;drink;1;2,50;True
+10489;2025-10-07 16:26;Cappuccino;coffee;1;2,40;True
+10490;2025-10-07 16:41;Hot Chocolate;drink;1;2,50;False
+10491;2025-10-07 16:43;Tea;drink;1;1,50;True
+10492;2025-10-07 16:45;Cappuccino;coffee;1;2,40;True
+10492;2025-10-07 16:45;Sandwich;food;1;3,90;True
+10493;2025-10-07 16:48;Croissant;food;1;1,80;True
+10494;2025-10-08 07:35;Espresso;coffee;1;1,10;False
+10494;2025-10-08 07:35;Croissant;food;1;1,80;False
+10494;2025-10-08 07:35;Pretzel;food;1;1,20;False
+10495;2025-10-08 07:47;Filter Coffee;coffee;1;1,60;False
+10496;2025-10-08 08:07;Hot Chocolate;drink;1;2,50;False
+10496;2025-10-08 08:07;Croissant;food;1;1,80;False
+10497;2025-10-08 08:13;Tea;drink;1;1,50;True
+10498;2025-10-08 08:18;Cappuccino;coffee;1;2,40;True
+10499;2025-10-08 08:20;Cappuccino;coffee;1;2,40;True
+10499;2025-10-08 08:20;Sandwich;food;1;3,90;True
+10499;2025-10-08 08:20;Muffin;food;1;2,20;True
+10500;2025-10-08 08:23;Filter Coffee;coffee;1;1,60;True
+10501;2025-10-08 08:25;Croissant;food;1;1,80;True
+10501;2025-10-08 08:25;Sandwich;food;1;3,90;True
+10501;2025-10-08 08:25;Tea;drink;1;1,50;True
+10502;2025-10-08 08:31;Muffin;food;1;2,20;True
+10503;2025-10-08 08:36;Espresso;coffee;1;1,10;True
+10504;2025-10-08 08:41;Filter Coffee;coffee;1;1,60;True
+10504;2025-10-08 08:41;Cappuccino;coffee;1;2,40;True
+10505;2025-10-08 08:45;Cappuccino;coffee;1;2,40;True
+10505;2025-10-08 08:45;Latte Macchiato;coffee;2;2,80;True
+10506;2025-10-08 08:47;Pretzel;food;1;1,20;False
+10506;2025-10-08 08:47;Tea;drink;1;1,50;False
+10507;2025-10-08 08:48;Espresso;coffee;1;1,10;True
+10508;2025-10-08 08:51;Croissant;food;1;1,80;True
+10508;2025-10-08 08:51;Tea;drink;1;1,50;True
+10509;2025-10-08 08:56;Filter Coffee;coffee;1;1,60;True
+10510;2025-10-08 08:56;Croissant;food;1;1,80;False
+10510;2025-10-08 08:56;Espresso;coffee;1;1,10;False
+10511;2025-10-08 08:57;Latte Macchiato;coffee;1;2,80;True
+10511;2025-10-08 08:57;Cappuccino;coffee;1;2,40;True
+10512;2025-10-08 08:59;Espresso;coffee;1;1,10;False
+10513;2025-10-08 09:00;Cappuccino;coffee;1;2,40;False
+10514;2025-10-08 09:01;Filter Coffee;coffee;1;1,60;True
+10514;2025-10-08 09:01;Espresso;coffee;1;1,10;True
+10514;2025-10-08 09:01;Latte Macchiato;coffee;1;2,80;True
+10515;2025-10-08 09:06;Latte Macchiato;coffee;1;2,80;False
+10515;2025-10-08 09:06;Filter Coffee;coffee;1;1,60;False
+10515;2025-10-08 09:06;Espresso;coffee;1;1,10;False
+10516;2025-10-08 09:11;Espresso;coffee;1;1,10;True
+10517;2025-10-08 09:14;Cappuccino;coffee;1;2,40;True
+10518;2025-10-08 09:18;Muffin;food;1;2,20;False
+10518;2025-10-08 09:18;Filter Coffee;coffee;1;1,60;False
+10519;2025-10-08 09:21;Croissant;food;1;1,80;True
+10519;2025-10-08 09:21;Pretzel;food;1;1,20;True
+10520;2025-10-08 09:26;Water;drink;1;1,40;True
+10521;2025-10-08 09:28;Filter Coffee;coffee;1;1,60;True
+10522;2025-10-08 09:30;Espresso;coffee;1;1,10;True
+10523;2025-10-08 09:31;Tea;drink;2;1,50;True
+10523;2025-10-08 09:31;Latte Macchiato;coffee;1;2,80;True
+10524;2025-10-08 09:32;Cappuccino;coffee;2;2,40;True
+10525;2025-10-08 09:37;Filter Coffee;coffee;1;1,60;False
+10526;2025-10-08 09:37;Espresso;coffee;1;1,10;True
+10527;2025-10-08 09:38;Muffin;food;1;2,20;False
+10528;2025-10-08 09:39;Filter Coffee;coffee;1;1,60;False
+10528;2025-10-08 09:39;Espresso;coffee;1;1,10;False
+10529;2025-10-08 09:40;Espresso;coffee;1;1,10;True
+10530;2025-10-08 09:43;Tea;drink;1;1,50;True
+10530;2025-10-08 09:43;Pretzel;food;1;1,20;True
+10531;2025-10-08 09:50;Muffin;food;1;2,20;True
+10532;2025-10-08 09:54;Cappuccino;coffee;1;2,40;True
+10533;2025-10-08 10:01;Filter Coffee;coffee;1;1,60;True
+10533;2025-10-08 10:01;Latte Macchiato;coffee;1;2,80;True
+10534;2025-10-08 10:02;Latte Macchiato;coffee;1;2,80;True
+10535;2025-10-08 10:08;Croissant;food;1;1,80;True
+10535;2025-10-08 10:08;Cappuccino;coffee;1;2,40;True
+10536;2025-10-08 10:11;Latte Macchiato;coffee;1;2,80;True
+10537;2025-10-08 10:11;Croissant;food;1;1,80;True
+10538;2025-10-08 10:12;Tea;drink;1;1,50;True
+10539;2025-10-08 10:15;Croissant;food;1;1,80;True
+10540;2025-10-08 10:36;Pretzel;food;1;1,20;True
+10541;2025-10-08 10:39;Latte Macchiato;coffee;1;2,80;True
+10542;2025-10-08 10:40;Cappuccino;coffee;2;2,40;False
+10542;2025-10-08 10:40;Muffin;food;1;2,20;False
+10542;2025-10-08 10:40;Filter Coffee;coffee;1;1,60;False
+10543;2025-10-08 10:46;Latte Macchiato;coffee;1;2,80;True
+10543;2025-10-08 10:46;Muffin;food;1;2,20;True
+10544;2025-10-08 10:48;Sandwich;food;2;3,90;False
+10544;2025-10-08 10:48;Espresso;coffee;1;1,10;False
+10545;2025-10-08 10:58;Croissant;food;1;1,80;True
+10546;2025-10-08 11:10;Water;drink;1;1,40;False
+10546;2025-10-08 11:10;Sandwich;food;1;3,90;False
+10547;2025-10-08 11:21;Water;drink;1;1,40;True
+10548;2025-10-08 11:24;Water;drink;1;1,40;True
+10549;2025-10-08 11:25;Pretzel;food;1;1,20;False
+10550;2025-10-08 11:25;Sandwich;food;1;3,90;True
+10550;2025-10-08 11:25;Latte Macchiato;coffee;1;2,80;True
+10551;2025-10-08 11:27;Espresso;coffee;2;1,10;False
+10552;2025-10-08 11:29;Water;drink;1;1,40;True
+10552;2025-10-08 11:29;Sandwich;food;1;3,90;True
+10553;2025-10-08 11:30;Latte Macchiato;coffee;1;2,80;True
+10554;2025-10-08 11:34;Cappuccino;coffee;1;2,40;True
+10555;2025-10-08 11:38;Latte Macchiato;coffee;1;2,80;False
+10555;2025-10-08 11:38;Pretzel;food;1;1,20;False
+10556;2025-10-08 11:44;Water;drink;3;1,40;True
+10556;2025-10-08 11:44;Espresso;coffee;1;1,10;True
+10557;2025-10-08 12:00;Sandwich;food;1;3,90;False
+10557;2025-10-08 12:00;Espresso;coffee;1;1,10;False
+10557;2025-10-08 12:00;Tea;drink;1;1,50;False
+10558;2025-10-08 12:15;Pretzel;food;2;1,20;True
+10558;2025-10-08 12:15;Cappuccino;coffee;1;2,40;True
+10559;2025-10-08 12:17;Water;drink;1;1,40;True
+10560;2025-10-08 12:25;Sandwich;food;2;3,90;False
+10561;2025-10-08 12:35;Hot Chocolate;drink;1;2,50;False
+10562;2025-10-08 12:36;Pretzel;food;1;1,20;False
+10563;2025-10-08 12:39;Cappuccino;coffee;1;2,40;True
+10563;2025-10-08 12:39;Water;drink;1;1,40;True
+10564;2025-10-08 12:39;Filter Coffee;coffee;1;1,60;False
+10564;2025-10-08 12:39;Sandwich;food;1;3,90;False
+10565;2025-10-08 12:41;Tea;drink;1;1,50;True
+10565;2025-10-08 12:41;Water;drink;1;1,40;True
+10566;2025-10-08 12:41;Water;drink;1;1,40;False
+10567;2025-10-08 12:42;Sandwich;food;3;3,90;False
+10568;2025-10-08 12:47;Sandwich;food;1;3,90;True
+10568;2025-10-08 12:47;Muffin;food;1;2,20;True
+10568;2025-10-08 12:47;Croissant;food;1;1,80;True
+10569;2025-10-08 12:48;Espresso;coffee;1;1,10;True
+10569;2025-10-08 12:48;Tea;drink;1;1,50;True
+10570;2025-10-08 12:50;Sandwich;food;1;3,90;True
+10571;2025-10-08 12:50;Water;drink;1;1,40;True
+10572;2025-10-08 12:51;Cappuccino;coffee;1;2,40;True
+10572;2025-10-08 12:51;Croissant;food;2;1,80;True
+10573;2025-10-08 12:52;Sandwich;food;1;3,90;True
+10574;2025-10-08 12:55;Water;drink;1;1,40;False
+10575;2025-10-08 12:56;Sandwich;food;1;3,90;True
+10575;2025-10-08 12:56;Water;drink;1;1,40;True
+10576;2025-10-08 13:01;Water;drink;1;1,40;True
+10576;2025-10-08 13:01;Sandwich;food;1;3,90;True
+10577;2025-10-08 13:02;Sandwich;food;2;3,90;True
+10578;2025-10-08 13:08;Sandwich;food;1;3,90;False
+10578;2025-10-08 13:08;Water;drink;1;1,40;False
+10579;2025-10-08 13:13;Cappuccino;coffee;1;2,40;True
+10580;2025-10-08 13:16;Sandwich;food;1;3,90;True
+10581;2025-10-08 13:18;Sandwich;food;1;3,90;False
+10582;2025-10-08 13:19;Sandwich;food;1;3,90;True
+10582;2025-10-08 13:19;Cappuccino;coffee;1;2,40;True
+10583;2025-10-08 13:25;Latte Macchiato;coffee;1;2,80;True
+10583;2025-10-08 13:25;Sandwich;food;3;3,90;True
+10584;2025-10-08 13:28;Sandwich;food;1;3,90;True
+10584;2025-10-08 13:28;Latte Macchiato;coffee;1;2,80;True
+10585;2025-10-08 13:33;Sandwich;food;1;3,90;True
+10586;2025-10-08 13:37;Cappuccino;coffee;1;2,40;True
+10587;2025-10-08 13:37;Pretzel;food;1;1,20;False
+10588;2025-10-08 13:42;Latte Macchiato;coffee;2;2,80;True
+10588;2025-10-08 13:42;Filter Coffee;coffee;1;1,60;True
+10589;2025-10-08 13:42;Water;drink;1;1,40;False
+10590;2025-10-08 13:43;Sandwich;food;1;3,90;True
+10591;2025-10-08 13:44;Espresso;coffee;1;1,10;False
+10592;2025-10-08 13:51;Croissant;food;1;1,80;True
+10593;2025-10-08 13:52;Sandwich;food;1;3,90;True
+10594;2025-10-08 13:56;Sandwich;food;1;3,90;True
+10595;2025-10-08 14:14;Cappuccino;coffee;1;2,40;True
+10595;2025-10-08 14:14;Latte Macchiato;coffee;1;2,80;True
+10596;2025-10-08 14:42;Cappuccino;coffee;1;2,40;True
+10597;2025-10-08 14:50;Filter Coffee;coffee;1;1,60;True
+10598;2025-10-08 14:57;Cappuccino;coffee;2;2,40;False
+10599;2025-10-08 15:02;Cappuccino;coffee;1;2,40;True
+10599;2025-10-08 15:02;Latte Macchiato;coffee;1;2,80;True
+10600;2025-10-08 15:08;Cappuccino;coffee;1;2,40;True
+10601;2025-10-08 15:10;Pretzel;food;1;1,20;False
+10602;2025-10-08 15:12;Cappuccino;coffee;1;2,40;True
+10603;2025-10-08 15:25;Latte Macchiato;coffee;1;2,80;True
+10604;2025-10-08 15:32;Cappuccino;coffee;1;2,40;False
+10605;2025-10-08 15:34;Espresso;coffee;1;1,10;True
+10606;2025-10-08 15:34;Croissant;food;1;1,80;True
+10607;2025-10-08 15:38;Espresso;coffee;2;1,10;True
+10608;2025-10-08 15:48;Tea;drink;1;1,50;True
+10609;2025-10-08 15:52;Cappuccino;coffee;1;2,40;True
+10610;2025-10-08 15:55;Muffin;food;1;2,20;False
+10610;2025-10-08 15:55;Croissant;food;1;1,80;False
+10611;2025-10-08 15:59;Water;drink;1;1,40;False
+10611;2025-10-08 15:59;Pretzel;food;1;1,20;False
+10612;2025-10-08 16:06;Muffin;food;1;2,20;True
+10613;2025-10-08 16:12;Sandwich;food;1;3,90;False
+10613;2025-10-08 16:12;Cappuccino;coffee;2;2,40;False
+10614;2025-10-08 16:13;Tea;drink;1;1,50;True
+10614;2025-10-08 16:13;Filter Coffee;coffee;1;1,60;True
+10614;2025-10-08 16:13;Sandwich;food;1;3,90;True
+10615;2025-10-08 16:27;Filter Coffee;coffee;1;1,60;False
+10616;2025-10-08 16:40;Water;drink;1;1,40;True
+10617;2025-10-09 07:46;Cappuccino;coffee;1;2,40;True
+10617;2025-10-09 07:46;Tea;drink;1;1,50;True
+10617;2025-10-09 07:46;Filter Coffee;coffee;1;1,60;True
+10618;2025-10-09 07:51;Espresso;coffee;1;1,10;False
+10619;2025-10-09 07:55;Muffin;food;1;2,20;True
+10620;2025-10-09 08:00;Pretzel;food;2;1,20;True
+10620;2025-10-09 08:00;Croissant;food;1;1,80;True
+10621;2025-10-09 08:01;Pretzel;food;1;1,20;True
+10621;2025-10-09 08:01;Filter Coffee;coffee;1;1,60;True
+10621;2025-10-09 08:01;Espresso;coffee;2;1,10;True
+10622;2025-10-09 08:04;Cappuccino;coffee;1;2,40;True
+10622;2025-10-09 08:04;Espresso;coffee;1;1,10;True
+10623;2025-10-09 08:11;Latte Macchiato;coffee;1;2,80;True
+10623;2025-10-09 08:11;Cappuccino;coffee;2;2,40;True
+10624;2025-10-09 08:12;Pretzel;food;1;1,20;True
+10625;2025-10-09 08:18;Cappuccino;coffee;1;2,40;True
+10625;2025-10-09 08:18;Filter Coffee;coffee;1;1,60;True
+10626;2025-10-09 08:19;Filter Coffee;coffee;1;1,60;False
+10627;2025-10-09 08:20;Filter Coffee;coffee;1;1,60;False
+10627;2025-10-09 08:20;Tea;drink;2;1,50;False
+10627;2025-10-09 08:20;Latte Macchiato;coffee;1;2,80;False
+10628;2025-10-09 08:20;Latte Macchiato;coffee;1;2,80;True
+10628;2025-10-09 08:20;Espresso;coffee;1;1,10;True
+10629;2025-10-09 08:22;Latte Macchiato;coffee;1;2,80;True
+10629;2025-10-09 08:22;Espresso;coffee;1;1,10;True
+10630;2025-10-09 08:36;Filter Coffee;coffee;1;1,60;True
+10630;2025-10-09 08:36;Pretzel;food;1;1,20;True
+10631;2025-10-09 08:39;Cappuccino;coffee;2;2,40;False
+10632;2025-10-09 08:45;Espresso;coffee;2;1,10;False
+10632;2025-10-09 08:45;Tea;drink;1;1,50;False
+10633;2025-10-09 08:47;Cappuccino;coffee;1;2,40;True
+10634;2025-10-09 08:49;Cappuccino;coffee;1;2,40;True
+10635;2025-10-09 08:54;Cappuccino;coffee;2;2,40;True
+10636;2025-10-09 09:07;Latte Macchiato;coffee;1;2,80;True
+10637;2025-10-09 09:13;Espresso;coffee;1;1,10;True
+10638;2025-10-09 09:14;Espresso;coffee;1;1,10;True
+10638;2025-10-09 09:14;Cappuccino;coffee;1;2,40;True
+10639;2025-10-09 09:16;Filter Coffee;coffee;3;1,60;True
+10640;2025-10-09 09:21;Sandwich;food;1;3,90;True
+10640;2025-10-09 09:21;Cappuccino;coffee;1;2,40;True
+10640;2025-10-09 09:21;Espresso;coffee;1;1,10;True
+10641;2025-10-09 09:28;Cappuccino;coffee;1;2,40;True
+10642;2025-10-09 09:34;Pretzel;food;1;1,20;True
+10643;2025-10-09 09:39;Latte Macchiato;coffee;1;2,80;True
+10644;2025-10-09 09:40;Filter Coffee;coffee;1;1,60;True
+10644;2025-10-09 09:40;Muffin;food;1;2,20;True
+10645;2025-10-09 09:42;Cappuccino;coffee;1;2,40;True
+10646;2025-10-09 09:43;Filter Coffee;coffee;2;1,60;True
+10647;2025-10-09 09:43;Muffin;food;1;2,20;True
+10647;2025-10-09 09:43;Water;drink;2;1,40;True
+10648;2025-10-09 09:45;Cappuccino;coffee;1;2,40;True
+10649;2025-10-09 09:45;Cappuccino;coffee;1;2,40;True
+10650;2025-10-09 09:49;Pretzel;food;1;1,20;True
+10651;2025-10-09 10:00;Pretzel;food;1;1,20;True
+10652;2025-10-09 10:07;Filter Coffee;coffee;1;1,60;True
+10653;2025-10-09 10:08;Water;drink;1;1,40;False
+10653;2025-10-09 10:08;Latte Macchiato;coffee;1;2,80;False
+10653;2025-10-09 10:08;Cappuccino;coffee;2;2,40;False
+10654;2025-10-09 10:09;Croissant;food;1;1,80;False
+10655;2025-10-09 10:14;Tea;drink;1;1,50;True
+10656;2025-10-09 10:18;Croissant;food;1;1,80;False
+10657;2025-10-09 10:18;Water;drink;1;1,40;True
+10658;2025-10-09 10:22;Cappuccino;coffee;1;2,40;True
+10659;2025-10-09 10:32;Cappuccino;coffee;1;2,40;True
+10660;2025-10-09 10:46;Cappuccino;coffee;1;2,40;False
+10660;2025-10-09 10:46;Latte Macchiato;coffee;1;2,80;False
+10661;2025-10-09 10:46;Filter Coffee;coffee;1;1,60;True
+10662;2025-10-09 11:00;Cappuccino;coffee;1;2,40;True
+10662;2025-10-09 11:00;Tea;drink;1;1,50;True
+10663;2025-10-09 11:01;Cappuccino;coffee;2;2,40;True
+10663;2025-10-09 11:01;Pretzel;food;1;1,20;True
+10663;2025-10-09 11:01;Water;drink;1;1,40;True
+10664;2025-10-09 11:08;Sandwich;food;1;3,90;True
+10664;2025-10-09 11:08;Water;drink;1;1,40;True
+10665;2025-10-09 11:10;Sandwich;food;1;3,90;True
+10666;2025-10-09 11:13;Latte Macchiato;coffee;1;2,80;False
+10666;2025-10-09 11:13;Water;drink;2;1,40;False
+10667;2025-10-09 11:17;Sandwich;food;1;3,90;True
+10668;2025-10-09 11:19;Sandwich;food;1;3,90;False
+10669;2025-10-09 11:27;Hot Chocolate;drink;1;2,50;True
+10669;2025-10-09 11:27;Water;drink;1;1,40;True
+10670;2025-10-09 11:37;Muffin;food;1;2,20;True
+10670;2025-10-09 11:37;Sandwich;food;1;3,90;True
+10671;2025-10-09 11:41;Water;drink;1;1,40;True
+10672;2025-10-09 11:41;Hot Chocolate;drink;1;2,50;True
+10672;2025-10-09 11:41;Tea;drink;1;1,50;True
+10673;2025-10-09 11:45;Croissant;food;2;1,80;True
+10674;2025-10-09 11:57;Water;drink;1;1,40;True
+10675;2025-10-09 12:04;Sandwich;food;1;3,90;True
+10676;2025-10-09 12:05;Espresso;coffee;1;1,10;True
+10677;2025-10-09 12:05;Sandwich;food;3;3,90;False
+10678;2025-10-09 12:10;Sandwich;food;1;3,90;True
+10679;2025-10-09 12:14;Pretzel;food;1;1,20;True
+10679;2025-10-09 12:14;Sandwich;food;1;3,90;True
+10679;2025-10-09 12:14;Muffin;food;2;2,20;True
+10680;2025-10-09 12:17;Espresso;coffee;1;1,10;True
+10680;2025-10-09 12:17;Filter Coffee;coffee;1;1,60;True
+10681;2025-10-09 12:23;Water;drink;1;1,40;True
+10681;2025-10-09 12:23;Sandwich;food;1;3,90;True
+10682;2025-10-09 12:23;Filter Coffee;coffee;1;1,60;True
+10682;2025-10-09 12:23;Espresso;coffee;1;1,10;True
+10683;2025-10-09 12:24;Muffin;food;1;2,20;True
+10683;2025-10-09 12:24;Cappuccino;coffee;1;2,40;True
+10684;2025-10-09 12:37;Latte Macchiato;coffee;1;2,80;True
+10684;2025-10-09 12:37;Water;drink;1;1,40;True
+10685;2025-10-09 12:38;Espresso;coffee;1;1,10;True
+10685;2025-10-09 12:38;Sandwich;food;1;3,90;True
+10686;2025-10-09 12:43;Filter Coffee;coffee;1;1,60;True
+10687;2025-10-09 12:44;Filter Coffee;coffee;2;1,60;True
+10687;2025-10-09 12:44;Water;drink;1;1,40;True
+10688;2025-10-09 12:45;Sandwich;food;1;3,90;True
+10688;2025-10-09 12:45;Espresso;coffee;1;1,10;True
+10689;2025-10-09 12:46;Pretzel;food;1;1,20;False
+10690;2025-10-09 12:46;Water;drink;1;1,40;False
+10691;2025-10-09 12:50;Espresso;coffee;1;1,10;False
+10691;2025-10-09 12:50;Cappuccino;coffee;1;2,40;False
+10692;2025-10-09 12:52;Water;drink;1;1,40;False
+10693;2025-10-09 12:54;Water;drink;1;1,40;False
+10694;2025-10-09 12:54;Sandwich;food;1;3,90;True
+10694;2025-10-09 12:54;Cappuccino;coffee;1;2,40;True
+10694;2025-10-09 12:54;Water;drink;1;1,40;True
+10695;2025-10-09 12:57;Sandwich;food;1;3,90;False
+10695;2025-10-09 12:57;Water;drink;1;1,40;False
+10696;2025-10-09 12:58;Tea;drink;1;1,50;False
+10697;2025-10-09 13:02;Espresso;coffee;1;1,10;True
+10697;2025-10-09 13:02;Latte Macchiato;coffee;2;2,80;True
+10698;2025-10-09 13:05;Sandwich;food;3;3,90;True
+10699;2025-10-09 13:05;Espresso;coffee;1;1,10;True
+10699;2025-10-09 13:05;Filter Coffee;coffee;1;1,60;True
+10700;2025-10-09 13:07;Croissant;food;1;1,80;True
+10701;2025-10-09 13:07;Muffin;food;1;2,20;False
+10702;2025-10-09 13:13;Filter Coffee;coffee;1;1,60;True
+10703;2025-10-09 13:16;Pretzel;food;1;1,20;True
+10703;2025-10-09 13:16;Water;drink;1;1,40;True
+10703;2025-10-09 13:16;Sandwich;food;1;3,90;True
+10704;2025-10-09 13:16;Sandwich;food;1;3,90;True
+10704;2025-10-09 13:16;Tea;drink;1;1,50;True
+10704;2025-10-09 13:16;Pretzel;food;1;1,20;True
+10705;2025-10-09 13:17;Espresso;coffee;1;1,10;False
+10706;2025-10-09 13:24;Espresso;coffee;1;1,10;False
+10706;2025-10-09 13:24;Sandwich;food;1;3,90;False
+10706;2025-10-09 13:24;Tea;drink;1;1,50;False
+10707;2025-10-09 13:29;Sandwich;food;1;3,90;True
+10708;2025-10-09 13:38;Cappuccino;coffee;2;2,40;False
+10709;2025-10-09 13:41;Sandwich;food;1;3,90;False
+10709;2025-10-09 13:41;Water;drink;1;1,40;False
+10710;2025-10-09 13:46;Espresso;coffee;2;1,10;True
+10710;2025-10-09 13:46;Sandwich;food;1;3,90;True
+10711;2025-10-09 13:50;Muffin;food;1;2,20;True
+10712;2025-10-09 13:56;Sandwich;food;1;3,90;True
+10712;2025-10-09 13:56;Muffin;food;1;2,20;True
+10713;2025-10-09 13:57;Hot Chocolate;drink;1;2,50;True
+10714;2025-10-09 13:58;Filter Coffee;coffee;1;1,60;True
+10715;2025-10-09 14:00;Cappuccino;coffee;1;2,40;True
+10715;2025-10-09 14:00;Muffin;food;1;2,20;True
+10716;2025-10-09 14:05;Latte Macchiato;coffee;2;2,80;False
+10717;2025-10-09 14:16;Filter Coffee;coffee;1;1,60;False
+10718;2025-10-09 14:31;Croissant;food;1;1,80;True
+10719;2025-10-09 14:34;Latte Macchiato;coffee;1;2,80;True
+10720;2025-10-09 15:40;Pretzel;food;1;1,20;False
+10721;2025-10-09 15:40;Cappuccino;coffee;1;2,40;True
+10722;2025-10-09 15:44;Latte Macchiato;coffee;1;2,80;True
+10722;2025-10-09 15:44;Muffin;food;1;2,20;True
+10722;2025-10-09 15:44;Filter Coffee;coffee;1;1,60;True
+10723;2025-10-09 15:46;Pretzel;food;1;1,20;True
+10724;2025-10-09 15:46;Tea;drink;1;1,50;True
+10725;2025-10-09 15:49;Cappuccino;coffee;1;2,40;True
+10725;2025-10-09 15:49;Hot Chocolate;drink;1;2,50;True
+10726;2025-10-09 16:06;Espresso;coffee;2;1,10;True
+10727;2025-10-09 16:07;Latte Macchiato;coffee;1;2,80;True
+10727;2025-10-09 16:07;Tea;drink;1;1,50;True
+10728;2025-10-09 16:09;Cappuccino;coffee;1;2,40;True
+10729;2025-10-09 16:10;Muffin;food;1;2,20;True
+10729;2025-10-09 16:10;Espresso;coffee;1;1,10;True
+10730;2025-10-09 16:44;Espresso;coffee;2;1,10;False
+10731;2025-10-10 07:50;Filter Coffee;coffee;1;1,60;True
+10731;2025-10-10 07:50;Espresso;coffee;1;1,10;True
+10732;2025-10-10 08:00;Croissant;food;1;1,80;False
+10733;2025-10-10 08:04;Croissant;food;1;1,80;False
+10734;2025-10-10 08:06;Pretzel;food;1;1,20;True
+10735;2025-10-10 08:07;Espresso;coffee;1;1,10;True
+10735;2025-10-10 08:07;Latte Macchiato;coffee;1;2,80;True
+10736;2025-10-10 08:20;Cappuccino;coffee;1;2,40;False
+10737;2025-10-10 08:22;Espresso;coffee;1;1,10;True
+10737;2025-10-10 08:22;Latte Macchiato;coffee;1;2,80;True
+10738;2025-10-10 08:28;Sandwich;food;1;3,90;False
+10738;2025-10-10 08:28;Croissant;food;2;1,80;False
+10739;2025-10-10 08:30;Pretzel;food;1;1,20;True
+10739;2025-10-10 08:30;Filter Coffee;coffee;1;1,60;True
+10740;2025-10-10 08:31;Sandwich;food;1;3,90;True
+10741;2025-10-10 08:34;Cappuccino;coffee;2;2,40;True
+10742;2025-10-10 08:37;Water;drink;1;1,40;False
+10742;2025-10-10 08:37;Croissant;food;1;1,80;False
+10742;2025-10-10 08:37;Cappuccino;coffee;2;2,40;False
+10743;2025-10-10 08:41;Cappuccino;coffee;1;2,40;True
+10743;2025-10-10 08:41;Croissant;food;1;1,80;True
+10744;2025-10-10 08:44;Latte Macchiato;coffee;1;2,80;True
+10745;2025-10-10 08:44;Muffin;food;2;2,20;True
+10746;2025-10-10 08:50;Hot Chocolate;drink;1;2,50;False
+10747;2025-10-10 08:53;Filter Coffee;coffee;1;1,60;True
+10748;2025-10-10 08:58;Filter Coffee;coffee;1;1,60;True
+10749;2025-10-10 09:20;Croissant;food;1;1,80;True
+10750;2025-10-10 09:21;Espresso;coffee;1;1,10;True
+10751;2025-10-10 09:22;Sandwich;food;1;3,90;False
+10752;2025-10-10 09:24;Cappuccino;coffee;1;2,40;False
+10753;2025-10-10 09:26;Espresso;coffee;1;1,10;True
+10754;2025-10-10 09:29;Espresso;coffee;1;1,10;True
+10754;2025-10-10 09:29;Tea;drink;2;1,50;True
+10755;2025-10-10 09:39;Espresso;coffee;1;1,10;True
+10756;2025-10-10 09:41;Cappuccino;coffee;1;2,40;True
+10756;2025-10-10 09:41;Pretzel;food;1;1,20;True
+10757;2025-10-10 09:43;Filter Coffee;coffee;1;1,60;True
+10758;2025-10-10 09:44;Espresso;coffee;1;1,10;True
+10759;2025-10-10 09:48;Espresso;coffee;1;1,10;True
+10759;2025-10-10 09:48;Croissant;food;1;1,80;True
+10759;2025-10-10 09:48;Sandwich;food;1;3,90;True
+10760;2025-10-10 09:53;Cappuccino;coffee;1;2,40;False
+10760;2025-10-10 09:53;Filter Coffee;coffee;1;1,60;False
+10761;2025-10-10 09:54;Cappuccino;coffee;2;2,40;False
+10761;2025-10-10 09:54;Tea;drink;1;1,50;False
+10762;2025-10-10 10:03;Cappuccino;coffee;1;2,40;True
+10763;2025-10-10 10:05;Cappuccino;coffee;1;2,40;True
+10764;2025-10-10 10:09;Filter Coffee;coffee;1;1,60;False
+10764;2025-10-10 10:09;Tea;drink;1;1,50;False
+10765;2025-10-10 10:13;Tea;drink;1;1,50;True
+10766;2025-10-10 10:25;Latte Macchiato;coffee;1;2,80;True
+10767;2025-10-10 10:27;Cappuccino;coffee;1;2,40;False
+10768;2025-10-10 10:32;Cappuccino;coffee;1;2,40;True
+10768;2025-10-10 10:32;Muffin;food;2;2,20;True
+10769;2025-10-10 10:50;Croissant;food;1;1,80;True
+10769;2025-10-10 10:50;Espresso;coffee;1;1,10;True
+10770;2025-10-10 10:59;Croissant;food;1;1,80;True
+10771;2025-10-10 11:00;Hot Chocolate;drink;1;2,50;True
+10772;2025-10-10 11:01;Cappuccino;coffee;1;2,40;True
+10773;2025-10-10 11:05;Sandwich;food;1;3,90;True
+10774;2025-10-10 11:13;Espresso;coffee;2;1,10;True
+10774;2025-10-10 11:13;Sandwich;food;1;3,90;True
+10774;2025-10-10 11:13;Water;drink;1;1,40;True
+10775;2025-10-10 11:30;Pretzel;food;1;1,20;True
+10776;2025-10-10 11:33;Pretzel;food;1;1,20;True
+10776;2025-10-10 11:33;Tea;drink;1;1,50;True
+10777;2025-10-10 11:34;Hot Chocolate;drink;1;2,50;True
+10778;2025-10-10 11:48;Cappuccino;coffee;1;2,40;False
+10778;2025-10-10 11:48;Sandwich;food;2;3,90;False
+10779;2025-10-10 11:49;Latte Macchiato;coffee;1;2,80;True
+10779;2025-10-10 11:49;Muffin;food;1;2,20;True
+10780;2025-10-10 11:58;Cappuccino;coffee;1;2,40;False
+10781;2025-10-10 11:58;Cappuccino;coffee;1;2,40;True
+10782;2025-10-10 12:00;Hot Chocolate;drink;1;2,50;True
+10782;2025-10-10 12:00;Cappuccino;coffee;1;2,40;True
+10783;2025-10-10 12:02;Tea;drink;1;1,50;True
+10783;2025-10-10 12:02;Croissant;food;1;1,80;True
+10784;2025-10-10 12:06;Water;drink;1;1,40;True
+10784;2025-10-10 12:06;Sandwich;food;1;3,90;True
+10785;2025-10-10 12:10;Water;drink;1;1,40;True
+10786;2025-10-10 12:11;Pretzel;food;1;1,20;False
+10787;2025-10-10 12:13;Cappuccino;coffee;1;2,40;True
+10788;2025-10-10 12:14;Croissant;food;1;1,80;False
+10788;2025-10-10 12:14;Cappuccino;coffee;1;2,40;False
+10788;2025-10-10 12:14;Pretzel;food;1;1,20;False
+10789;2025-10-10 12:19;Filter Coffee;coffee;1;1,60;True
+10790;2025-10-10 12:21;Cappuccino;coffee;1;2,40;True
+10791;2025-10-10 12:30;Filter Coffee;coffee;1;1,60;True
+10792;2025-10-10 12:32;Cappuccino;coffee;1;2,40;False
+10792;2025-10-10 12:32;Muffin;food;1;2,20;False
+10793;2025-10-10 12:42;Water;drink;1;1,40;True
+10793;2025-10-10 12:42;Pretzel;food;2;1,20;True
+10793;2025-10-10 12:42;Espresso;coffee;1;1,10;True
+10794;2025-10-10 12:48;Pretzel;food;1;1,20;True
+10794;2025-10-10 12:48;Filter Coffee;coffee;1;1,60;True
+10795;2025-10-10 12:52;Hot Chocolate;drink;1;2,50;True
+10795;2025-10-10 12:52;Cappuccino;coffee;1;2,40;True
+10796;2025-10-10 12:54;Cappuccino;coffee;1;2,40;True
+10797;2025-10-10 12:54;Filter Coffee;coffee;1;1,60;True
+10798;2025-10-10 12:56;Sandwich;food;1;3,90;False
+10799;2025-10-10 12:58;Tea;drink;1;1,50;True
+10799;2025-10-10 12:58;Sandwich;food;1;3,90;True
+10800;2025-10-10 13:05;Pretzel;food;1;1,20;True
+10801;2025-10-10 13:25;Sandwich;food;1;3,90;False
+10802;2025-10-10 13:29;Cappuccino;coffee;1;2,40;False
+10803;2025-10-10 13:40;Sandwich;food;1;3,90;True
+10804;2025-10-10 13:43;Filter Coffee;coffee;1;1,60;True
+10805;2025-10-10 13:47;Latte Macchiato;coffee;2;2,80;True
+10805;2025-10-10 13:47;Sandwich;food;1;3,90;True
+10805;2025-10-10 13:47;Muffin;food;1;2,20;True
+10806;2025-10-10 13:47;Cappuccino;coffee;1;2,40;False
+10807;2025-10-10 13:48;Cappuccino;coffee;1;2,40;True
+10808;2025-10-10 13:49;Sandwich;food;1;3,90;True
+10809;2025-10-10 13:56;Pretzel;food;1;1,20;True
+10810;2025-10-10 14:21;Hot Chocolate;drink;1;2,50;False
+10810;2025-10-10 14:21;Filter Coffee;coffee;1;1,60;False
+10811;2025-10-10 14:24;Tea;drink;1;1,50;False
+10811;2025-10-10 14:24;Pretzel;food;1;1,20;False
+10811;2025-10-10 14:24;Hot Chocolate;drink;1;2,50;False
+10812;2025-10-10 14:42;Cappuccino;coffee;1;2,40;True
+10812;2025-10-10 14:42;Sandwich;food;1;3,90;True
+10813;2025-10-10 14:42;Cappuccino;coffee;1;2,40;False
+10814;2025-10-10 14:47;Latte Macchiato;coffee;1;2,80;True
+10815;2025-10-10 14:54;Latte Macchiato;coffee;1;2,80;True
+10816;2025-10-10 14:55;Hot Chocolate;drink;1;2,50;True
+10816;2025-10-10 14:55;Espresso;coffee;1;1,10;True
+10817;2025-10-10 15:04;Latte Macchiato;coffee;1;2,80;True
+10818;2025-10-10 15:24;Muffin;food;1;2,20;True
+10818;2025-10-10 15:24;Cappuccino;coffee;1;2,40;True
+10818;2025-10-10 15:24;Espresso;coffee;1;1,10;True
+10819;2025-10-10 16:19;Espresso;coffee;1;1,10;True
+10819;2025-10-10 16:19;Muffin;food;1;2,20;True
+10819;2025-10-10 16:19;Hot Chocolate;drink;1;2,50;True
+10820;2025-10-10 16:20;Cappuccino;coffee;1;2,40;True
+10821;2025-10-10 16:33;Pretzel;food;1;1,20;True
+10821;2025-10-10 16:33;Filter Coffee;coffee;1;1,60;True
+10822;2025-10-10 16:46;Water;drink;1;1,40;True
+10822;2025-10-10 16:46;Latte Macchiato;coffee;1;2,80;True
+10823;2025-10-10 16:49;Cappuccino;coffee;1;2,40;True
+10823;2025-10-10 16:49;Hot Chocolate;drink;1;2,50;True
+10824;2025-10-10 16:54;Muffin;food;1;2,20;True
+10824;2025-10-10 16:54;Hot Chocolate;drink;1;2,50;True
+10824;2025-10-10 16:54;Latte Macchiato;coffee;1;2,80;True
+10825;2025-10-13 07:54;Espresso;coffee;1;1,10;False
+10825;2025-10-13 07:54;Pretzel;food;1;1,20;False
+10825;2025-10-13 07:54;Tea;drink;1;1,50;False
+10826;2025-10-13 08:06;Cappuccino;coffee;1;2,40;True
+10827;2025-10-13 08:08;Cappuccino;coffee;2;2,40;True
+10828;2025-10-13 08:10;Filter Coffee;coffee;1;1,60;True
+10828;2025-10-13 08:10;Tea;drink;1;1,50;True
+10828;2025-10-13 08:10;Pretzel;food;1;1,20;True
+10829;2025-10-13 08:33;Hot Chocolate;drink;2;2,50;True
+10829;2025-10-13 08:33;Tea;drink;1;1,50;True
+10830;2025-10-13 08:42;Pretzel;food;1;1,20;False
+10830;2025-10-13 08:42;Latte Macchiato;coffee;1;2,80;False
+10831;2025-10-13 08:44;Cappuccino;coffee;1;2,40;True
+10832;2025-10-13 08:44;Cappuccino;coffee;1;2,40;True
+10833;2025-10-13 08:47;Sandwich;food;1;3,90;False
+10834;2025-10-13 08:48;Water;drink;1;1,40;False
+10835;2025-10-13 08:49;Espresso;coffee;1;1,10;False
+10835;2025-10-13 08:49;Cappuccino;coffee;1;2,40;False
+10836;2025-10-13 08:51;Filter Coffee;coffee;1;1,60;True
+10837;2025-10-13 08:52;Latte Macchiato;coffee;1;2,80;True
+10838;2025-10-13 08:53;Espresso;coffee;1;1,10;True
+10839;2025-10-13 08:59;Espresso;coffee;1;1,10;False
+10839;2025-10-13 08:59;Latte Macchiato;coffee;1;2,80;False
+10840;2025-10-13 09:02;Espresso;coffee;2;1,10;False
+10840;2025-10-13 09:02;Croissant;food;1;1,80;False
+10841;2025-10-13 09:15;Croissant;food;1;1,80;True
+10842;2025-10-13 09:16;Filter Coffee;coffee;1;1,60;True
+10843;2025-10-13 09:18;Espresso;coffee;1;1,10;False
+10844;2025-10-13 09:24;Cappuccino;coffee;2;2,40;True
+10845;2025-10-13 09:26;Cappuccino;coffee;1;2,40;True
+10845;2025-10-13 09:26;Espresso;coffee;1;1,10;True
+10845;2025-10-13 09:26;Filter Coffee;coffee;1;1,60;True
+10846;2025-10-13 09:41;Latte Macchiato;coffee;1;2,80;True
+10847;2025-10-13 09:42;Filter Coffee;coffee;1;1,60;True
+10848;2025-10-13 09:48;Cappuccino;coffee;1;2,40;True
+10848;2025-10-13 09:48;Croissant;food;1;1,80;True
+10848;2025-10-13 09:48;Tea;drink;1;1,50;True
+10849;2025-10-13 09:49;Filter Coffee;coffee;1;1,60;True
+10850;2025-10-13 09:51;Water;drink;1;1,40;True
+10851;2025-10-13 09:51;Pretzel;food;1;1,20;True
+10852;2025-10-13 09:55;Croissant;food;1;1,80;False
+10853;2025-10-13 10:02;Cappuccino;coffee;1;2,40;True
+10853;2025-10-13 10:02;Filter Coffee;coffee;1;1,60;True
+10854;2025-10-13 10:18;Cappuccino;coffee;1;2,40;True
+10854;2025-10-13 10:18;Espresso;coffee;2;1,10;True
+10855;2025-10-13 10:18;Muffin;food;1;2,20;False
+10856;2025-10-13 10:22;Cappuccino;coffee;1;2,40;True
+10856;2025-10-13 10:22;Croissant;food;1;1,80;True
+10857;2025-10-13 10:27;Muffin;food;1;2,20;False
+10857;2025-10-13 10:27;Cappuccino;coffee;1;2,40;False
+10858;2025-10-13 10:31;Croissant;food;1;1,80;True
+10859;2025-10-13 10:51;Cappuccino;coffee;1;2,40;True
+10859;2025-10-13 10:51;Pretzel;food;1;1,20;True
+10860;2025-10-13 10:59;Filter Coffee;coffee;1;1,60;True
+10860;2025-10-13 10:59;Espresso;coffee;1;1,10;True
+10860;2025-10-13 10:59;Croissant;food;1;1,80;True
+10861;2025-10-13 11:00;Sandwich;food;1;3,90;True
+10861;2025-10-13 11:00;Cappuccino;coffee;1;2,40;True
+10862;2025-10-13 11:02;Latte Macchiato;coffee;1;2,80;True
+10863;2025-10-13 11:02;Espresso;coffee;1;1,10;False
+10864;2025-10-13 11:06;Espresso;coffee;1;1,10;True
+10865;2025-10-13 11:27;Filter Coffee;coffee;1;1,60;True
+10866;2025-10-13 11:28;Hot Chocolate;drink;1;2,50;False
+10866;2025-10-13 11:28;Latte Macchiato;coffee;1;2,80;False
+10866;2025-10-13 11:28;Sandwich;food;1;3,90;False
+10867;2025-10-13 11:54;Pretzel;food;1;1,20;True
+10867;2025-10-13 11:54;Sandwich;food;1;3,90;True
+10868;2025-10-13 12:02;Croissant;food;1;1,80;True
+10868;2025-10-13 12:02;Cappuccino;coffee;1;2,40;True
+10869;2025-10-13 12:03;Cappuccino;coffee;1;2,40;False
+10869;2025-10-13 12:03;Sandwich;food;1;3,90;False
+10870;2025-10-13 12:05;Sandwich;food;1;3,90;True
+10870;2025-10-13 12:05;Croissant;food;1;1,80;True
+10870;2025-10-13 12:05;Tea;drink;1;1,50;True
+10871;2025-10-13 12:06;Sandwich;food;2;3,90;False
+10872;2025-10-13 12:10;Sandwich;food;1;3,90;False
+10873;2025-10-13 12:18;Sandwich;food;1;3,90;True
+10874;2025-10-13 12:18;Pretzel;food;1;1,20;False
+10874;2025-10-13 12:18;Cappuccino;coffee;1;2,40;False
+10875;2025-10-13 12:20;Pretzel;food;1;1,20;False
+10876;2025-10-13 12:21;Sandwich;food;1;3,90;True
+10877;2025-10-13 12:23;Sandwich;food;1;3,90;True
+10878;2025-10-13 12:29;Water;drink;1;1,40;True
+10878;2025-10-13 12:29;Hot Chocolate;drink;1;2,50;True
+10878;2025-10-13 12:29;Tea;drink;1;1,50;True
+10879;2025-10-13 12:36;Cappuccino;coffee;1;2,40;True
+10879;2025-10-13 12:36;Tea;drink;1;1,50;True
+10880;2025-10-13 12:40;Filter Coffee;coffee;1;1,60;True
+10881;2025-10-13 12:40;Sandwich;food;1;3,90;True
+10882;2025-10-13 12:41;Water;drink;1;1,40;False
+10882;2025-10-13 12:41;Espresso;coffee;1;1,10;False
+10883;2025-10-13 12:44;Water;drink;1;1,40;False
+10884;2025-10-13 12:50;Pretzel;food;1;1,20;True
+10884;2025-10-13 12:50;Sandwich;food;1;3,90;True
+10884;2025-10-13 12:50;Muffin;food;1;2,20;True
+10885;2025-10-13 13:09;Muffin;food;1;2,20;True
+10886;2025-10-13 13:22;Sandwich;food;1;3,90;True
+10887;2025-10-13 13:39;Sandwich;food;1;3,90;False
+10887;2025-10-13 13:39;Muffin;food;1;2,20;False
+10888;2025-10-13 13:41;Water;drink;1;1,40;True
+10889;2025-10-13 13:43;Muffin;food;2;2,20;True
+10890;2025-10-13 13:53;Cappuccino;coffee;1;2,40;True
+10891;2025-10-13 14:15;Water;drink;1;1,40;True
+10892;2025-10-13 14:22;Espresso;coffee;1;1,10;False
+10892;2025-10-13 14:22;Muffin;food;1;2,20;False
+10893;2025-10-13 14:24;Hot Chocolate;drink;2;2,50;True
+10894;2025-10-13 14:26;Water;drink;1;1,40;True
+10895;2025-10-13 14:31;Tea;drink;1;1,50;False
+10896;2025-10-13 14:43;Cappuccino;coffee;2;2,40;True
+10897;2025-10-13 14:52;Muffin;food;1;2,20;False
+10897;2025-10-13 14:52;Filter Coffee;coffee;1;1,60;False
+10897;2025-10-13 14:52;Latte Macchiato;coffee;1;2,80;False
+10898;2025-10-13 15:09;Muffin;food;2;2,20;True
+10899;2025-10-13 15:17;Espresso;coffee;1;1,10;True
+10900;2025-10-13 15:36;Espresso;coffee;1;1,10;True
+10901;2025-10-13 15:44;Filter Coffee;coffee;1;1,60;True
+10902;2025-10-13 15:47;Espresso;coffee;1;1,10;True
+10902;2025-10-13 15:47;Tea;drink;1;1,50;True
+10903;2025-10-13 16:34;Filter Coffee;coffee;1;1,60;True
+10903;2025-10-13 16:34;Hot Chocolate;drink;1;2,50;True
+10903;2025-10-13 16:34;Latte Macchiato;coffee;1;2,80;True
+10904;2025-10-13 16:39;Cappuccino;coffee;1;2,40;True
+10904;2025-10-13 16:39;Muffin;food;1;2,20;True
+10904;2025-10-13 16:39;Water;drink;1;1,40;True
+10905;2025-10-13 16:53;Croissant;food;1;1,80;True
+10905;2025-10-13 16:53;Cappuccino;coffee;1;2,40;True
+10906;2025-10-13 16:58;Tea;drink;2;1,50;True
+10906;2025-10-13 16:58;Hot Chocolate;drink;1;2,50;True
+10906;2025-10-13 16:58;Latte Macchiato;coffee;1;2,80;True
+10907;2025-10-14 07:40;Pretzel;food;1;1,20;True
+10907;2025-10-14 07:40;Cappuccino;coffee;2;2,40;True
+10908;2025-10-14 07:41;Tea;drink;1;1,50;False
+10909;2025-10-14 07:46;Cappuccino;coffee;1;2,40;True
+10909;2025-10-14 07:46;Filter Coffee;coffee;1;1,60;True
+10910;2025-10-14 07:50;Filter Coffee;coffee;2;1,60;False
+10911;2025-10-14 08:07;Espresso;coffee;1;1,10;True
+10912;2025-10-14 08:07;Filter Coffee;coffee;1;1,60;False
+10912;2025-10-14 08:07;Espresso;coffee;1;1,10;False
+10913;2025-10-14 08:10;Espresso;coffee;1;1,10;True
+10913;2025-10-14 08:10;Croissant;food;2;1,80;True
+10914;2025-10-14 08:11;Espresso;coffee;1;1,10;False
+10914;2025-10-14 08:11;Tea;drink;3;1,50;False
+10915;2025-10-14 08:13;Espresso;coffee;3;1,10;False
+10915;2025-10-14 08:13;Filter Coffee;coffee;1;1,60;False
+10916;2025-10-14 08:14;Croissant;food;1;1,80;True
+10917;2025-10-14 08:14;Croissant;food;1;1,80;True
+10917;2025-10-14 08:14;Pretzel;food;2;1,20;True
+10918;2025-10-14 08:15;Filter Coffee;coffee;1;1,60;False
+10919;2025-10-14 08:19;Filter Coffee;coffee;1;1,60;True
+10919;2025-10-14 08:19;Muffin;food;2;2,20;True
+10920;2025-10-14 08:26;Croissant;food;1;1,80;True
+10921;2025-10-14 08:31;Croissant;food;2;1,80;True
+10921;2025-10-14 08:31;Espresso;coffee;2;1,10;True
+10922;2025-10-14 08:36;Espresso;coffee;1;1,10;False
+10922;2025-10-14 08:36;Cappuccino;coffee;1;2,40;False
+10922;2025-10-14 08:36;Croissant;food;1;1,80;False
+10923;2025-10-14 08:37;Filter Coffee;coffee;1;1,60;True
+10924;2025-10-14 08:38;Croissant;food;1;1,80;True
+10924;2025-10-14 08:38;Muffin;food;1;2,20;True
+10924;2025-10-14 08:38;Cappuccino;coffee;1;2,40;True
+10925;2025-10-14 08:43;Croissant;food;1;1,80;True
+10925;2025-10-14 08:43;Pretzel;food;1;1,20;True
+10926;2025-10-14 08:44;Croissant;food;1;1,80;True
+10927;2025-10-14 08:46;Sandwich;food;1;3,90;False
+10928;2025-10-14 08:53;Filter Coffee;coffee;1;1,60;False
+10928;2025-10-14 08:53;Croissant;food;1;1,80;False
+10929;2025-10-14 08:53;Pretzel;food;1;1,20;True
+10930;2025-10-14 08:55;Croissant;food;1;1,80;True
+10931;2025-10-14 08:56;Water;drink;1;1,40;False
+10931;2025-10-14 08:56;Cappuccino;coffee;1;2,40;False
+10931;2025-10-14 08:56;Croissant;food;1;1,80;False
+10932;2025-10-14 09:00;Pretzel;food;1;1,20;False
+10932;2025-10-14 09:00;Espresso;coffee;1;1,10;False
+10933;2025-10-14 09:05;Croissant;food;1;1,80;False
+10933;2025-10-14 09:05;Latte Macchiato;coffee;1;2,80;False
+10934;2025-10-14 09:08;Cappuccino;coffee;1;2,40;True
+10935;2025-10-14 09:17;Filter Coffee;coffee;1;1,60;True
+10935;2025-10-14 09:17;Cappuccino;coffee;1;2,40;True
+10936;2025-10-14 09:17;Croissant;food;1;1,80;True
+10937;2025-10-14 09:27;Water;drink;1;1,40;True
+10938;2025-10-14 09:32;Latte Macchiato;coffee;1;2,80;True
+10938;2025-10-14 09:32;Cappuccino;coffee;1;2,40;True
+10939;2025-10-14 09:35;Tea;drink;2;1,50;True
+10940;2025-10-14 09:47;Filter Coffee;coffee;1;1,60;False
+10940;2025-10-14 09:47;Espresso;coffee;1;1,10;False
+10940;2025-10-14 09:47;Croissant;food;1;1,80;False
+10941;2025-10-14 09:48;Pretzel;food;1;1,20;True
+10942;2025-10-14 09:51;Filter Coffee;coffee;1;1,60;True
+10943;2025-10-14 09:55;Croissant;food;1;1,80;False
+10943;2025-10-14 09:55;Filter Coffee;coffee;1;1,60;False
+10944;2025-10-14 09:55;Hot Chocolate;drink;1;2,50;True
+10945;2025-10-14 09:59;Filter Coffee;coffee;1;1,60;True
+10946;2025-10-14 10:07;Croissant;food;1;1,80;True
+10947;2025-10-14 10:08;Croissant;food;1;1,80;False
+10948;2025-10-14 10:12;Filter Coffee;coffee;1;1,60;True
+10949;2025-10-14 10:22;Muffin;food;1;2,20;True
+10950;2025-10-14 10:28;Espresso;coffee;1;1,10;True
+10950;2025-10-14 10:28;Croissant;food;1;1,80;True
+10951;2025-10-14 10:30;Pretzel;food;1;1,20;True
+10952;2025-10-14 10:37;Cappuccino;coffee;1;2,40;True
+10952;2025-10-14 10:37;Pretzel;food;1;1,20;True
+10953;2025-10-14 10:43;Muffin;food;1;2,20;True
+10954;2025-10-14 10:47;Filter Coffee;coffee;1;1,60;True
+10955;2025-10-14 11:00;Sandwich;food;1;3,90;True
+10955;2025-10-14 11:00;Cappuccino;coffee;1;2,40;True
+10956;2025-10-14 11:04;Water;drink;1;1,40;True
+10957;2025-10-14 11:05;Sandwich;food;1;3,90;False
+10957;2025-10-14 11:05;Espresso;coffee;1;1,10;False
+10958;2025-10-14 11:06;Cappuccino;coffee;1;2,40;True
+10959;2025-10-14 11:10;Pretzel;food;1;1,20;False
+10960;2025-10-14 11:11;Filter Coffee;coffee;1;1,60;True
+10960;2025-10-14 11:11;Sandwich;food;1;3,90;True
+10961;2025-10-14 11:15;Latte Macchiato;coffee;1;2,80;True
+10961;2025-10-14 11:15;Pretzel;food;1;1,20;True
+10962;2025-10-14 11:20;Hot Chocolate;drink;1;2,50;True
+10963;2025-10-14 11:21;Pretzel;food;1;1,20;True
+10964;2025-10-14 11:23;Water;drink;1;1,40;True
+10965;2025-10-14 11:45;Sandwich;food;1;3,90;True
+10966;2025-10-14 11:55;Tea;drink;3;1,50;True
+10966;2025-10-14 11:55;Espresso;coffee;2;1,10;True
+10967;2025-10-14 12:02;Sandwich;food;1;3,90;True
+10968;2025-10-14 12:11;Water;drink;1;1,40;True
+10968;2025-10-14 12:11;Sandwich;food;1;3,90;True
+10969;2025-10-14 12:12;Tea;drink;1;1,50;False
+10970;2025-10-14 12:18;Pretzel;food;2;1,20;False
+10971;2025-10-14 12:21;Latte Macchiato;coffee;1;2,80;True
+10972;2025-10-14 12:23;Sandwich;food;1;3,90;True
+10972;2025-10-14 12:23;Water;drink;1;1,40;True
+10973;2025-10-14 12:25;Water;drink;1;1,40;True
+10974;2025-10-14 12:25;Sandwich;food;1;3,90;True
+10974;2025-10-14 12:25;Water;drink;1;1,40;True
+10975;2025-10-14 12:27;Filter Coffee;coffee;1;1,60;False
+10976;2025-10-14 12:29;Sandwich;food;1;3,90;False
+10976;2025-10-14 12:29;Filter Coffee;coffee;1;1,60;False
+10976;2025-10-14 12:29;Pretzel;food;1;1,20;False
+10977;2025-10-14 12:30;Filter Coffee;coffee;1;1,60;True
+10977;2025-10-14 12:30;Latte Macchiato;coffee;3;2,80;True
+10977;2025-10-14 12:30;Water;drink;1;1,40;True
+10978;2025-10-14 12:32;Cappuccino;coffee;1;2,40;True
+10978;2025-10-14 12:32;Hot Chocolate;drink;3;2,50;True
+10978;2025-10-14 12:32;Water;drink;1;1,40;True
+10979;2025-10-14 12:35;Tea;drink;1;1,50;True
+10980;2025-10-14 12:37;Hot Chocolate;drink;1;2,50;True
+10981;2025-10-14 12:38;Espresso;coffee;1;1,10;True
+10982;2025-10-14 12:40;Sandwich;food;1;3,90;False
+10983;2025-10-14 12:41;Filter Coffee;coffee;1;1,60;True
+10984;2025-10-14 12:43;Water;drink;1;1,40;True
+10984;2025-10-14 12:43;Cappuccino;coffee;2;2,40;True
+10985;2025-10-14 12:45;Espresso;coffee;1;1,10;True
+10986;2025-10-14 12:47;Pretzel;food;1;1,20;True
+10987;2025-10-14 12:50;Cappuccino;coffee;1;2,40;True
+10987;2025-10-14 12:50;Espresso;coffee;1;1,10;True
+10988;2025-10-14 12:53;Water;drink;1;1,40;True
+10988;2025-10-14 12:53;Cappuccino;coffee;1;2,40;True
+10989;2025-10-14 12:55;Pretzel;food;2;1,20;True
+10990;2025-10-14 12:57;Espresso;coffee;1;1,10;True
+10991;2025-10-14 12:57;Water;drink;1;1,40;True
+10992;2025-10-14 12:59;Hot Chocolate;drink;1;2,50;False
+10992;2025-10-14 12:59;Sandwich;food;1;3,90;False
+10993;2025-10-14 13:00;Espresso;coffee;2;1,10;True
+10993;2025-10-14 13:00;Tea;drink;1;1,50;True
+10994;2025-10-14 13:03;Tea;drink;1;1,50;False
+10994;2025-10-14 13:03;Filter Coffee;coffee;1;1,60;False
+10995;2025-10-14 13:12;Pretzel;food;1;1,20;True
+10996;2025-10-14 13:13;Cappuccino;coffee;1;2,40;True
+10997;2025-10-14 13:18;Cappuccino;coffee;1;2,40;True
+10998;2025-10-14 13:19;Latte Macchiato;coffee;2;2,80;True
+10999;2025-10-14 13:19;Cappuccino;coffee;1;2,40;True
+11000;2025-10-14 13:21;Espresso;coffee;1;1,10;True
+11001;2025-10-14 13:22;Sandwich;food;1;3,90;False
+11001;2025-10-14 13:22;Latte Macchiato;coffee;1;2,80;False
+11002;2025-10-14 13:30;Latte Macchiato;coffee;1;2,80;True
+11002;2025-10-14 13:30;Cappuccino;coffee;1;2,40;True
+11003;2025-10-14 13:35;Espresso;coffee;1;1,10;False
+11004;2025-10-14 13:38;Latte Macchiato;coffee;2;2,80;True
+11005;2025-10-14 13:46;Croissant;food;1;1,80;True
+11005;2025-10-14 13:46;Water;drink;3;1,40;True
+11006;2025-10-14 13:53;Tea;drink;1;1,50;True
+11007;2025-10-14 13:56;Muffin;food;1;2,20;True
+11007;2025-10-14 13:56;Latte Macchiato;coffee;1;2,80;True
+11007;2025-10-14 13:56;Water;drink;1;1,40;True
+11008;2025-10-14 13:59;Muffin;food;1;2,20;False
+11009;2025-10-14 14:01;Hot Chocolate;drink;1;2,50;True
+11009;2025-10-14 14:01;Muffin;food;1;2,20;True
+11010;2025-10-14 14:27;Latte Macchiato;coffee;1;2,80;False
+11011;2025-10-14 14:30;Sandwich;food;1;3,90;True
+11012;2025-10-14 14:42;Filter Coffee;coffee;1;1,60;True
+11013;2025-10-14 14:52;Cappuccino;coffee;1;2,40;True
+11014;2025-10-14 15:05;Croissant;food;1;1,80;True
+11015;2025-10-14 15:05;Filter Coffee;coffee;1;1,60;True
+11016;2025-10-14 15:08;Latte Macchiato;coffee;1;2,80;True
+11017;2025-10-14 15:14;Filter Coffee;coffee;1;1,60;True
+11018;2025-10-14 15:18;Cappuccino;coffee;1;2,40;True
+11019;2025-10-14 15:28;Latte Macchiato;coffee;1;2,80;True
+11019;2025-10-14 15:28;Muffin;food;1;2,20;True
+11019;2025-10-14 15:28;Cappuccino;coffee;1;2,40;True
+11020;2025-10-14 15:29;Tea;drink;1;1,50;True
+11020;2025-10-14 15:29;Hot Chocolate;drink;1;2,50;True
+11021;2025-10-14 15:31;Espresso;coffee;2;1,10;False
+11022;2025-10-14 15:42;Latte Macchiato;coffee;1;2,80;True
+11022;2025-10-14 15:42;Muffin;food;1;2,20;True
+11023;2025-10-14 15:44;Muffin;food;1;2,20;True
+11023;2025-10-14 15:44;Hot Chocolate;drink;2;2,50;True
+11023;2025-10-14 15:44;Espresso;coffee;1;1,10;True
+11024;2025-10-14 15:57;Water;drink;1;1,40;True
+11025;2025-10-14 16:36;Pretzel;food;1;1,20;True
+11026;2025-10-15 07:58;Cappuccino;coffee;1;2,40;True
+11026;2025-10-15 07:58;Espresso;coffee;1;1,10;True
+11027;2025-10-15 08:02;Latte Macchiato;coffee;1;2,80;False
+11028;2025-10-15 08:08;Espresso;coffee;1;1,10;True
+11029;2025-10-15 08:11;Muffin;food;1;2,20;True
+11029;2025-10-15 08:11;Filter Coffee;coffee;1;1,60;True
+11030;2025-10-15 08:21;Cappuccino;coffee;1;2,40;True
+11030;2025-10-15 08:21;Muffin;food;1;2,20;True
+11031;2025-10-15 08:22;Pretzel;food;1;1,20;True
+11032;2025-10-15 08:29;Water;drink;1;1,40;False
+11033;2025-10-15 08:36;Espresso;coffee;1;1,10;True
+11034;2025-10-15 08:36;Cappuccino;coffee;1;2,40;True
+11035;2025-10-15 08:37;Tea;drink;1;1,50;True
+11035;2025-10-15 08:37;Cappuccino;coffee;1;2,40;True
+11035;2025-10-15 08:37;Latte Macchiato;coffee;1;2,80;True
+11036;2025-10-15 08:39;Pretzel;food;1;1,20;True
+11036;2025-10-15 08:39;Filter Coffee;coffee;1;1,60;True
+11036;2025-10-15 08:39;Espresso;coffee;1;1,10;True
+11037;2025-10-15 08:44;Filter Coffee;coffee;1;1,60;True
+11038;2025-10-15 08:45;Croissant;food;1;1,80;False
+11038;2025-10-15 08:45;Cappuccino;coffee;1;2,40;False
+11039;2025-10-15 08:46;Croissant;food;1;1,80;False
+11040;2025-10-15 08:48;Pretzel;food;1;1,20;True
+11041;2025-10-15 08:52;Pretzel;food;1;1,20;False
+11041;2025-10-15 08:52;Cappuccino;coffee;1;2,40;False
+11041;2025-10-15 08:52;Tea;drink;1;1,50;False
+11042;2025-10-15 08:56;Cappuccino;coffee;1;2,40;True
+11042;2025-10-15 08:56;Filter Coffee;coffee;1;1,60;True
+11043;2025-10-15 09:04;Croissant;food;1;1,80;False
+11043;2025-10-15 09:04;Sandwich;food;1;3,90;False
+11044;2025-10-15 09:05;Sandwich;food;1;3,90;True
+11045;2025-10-15 09:05;Filter Coffee;coffee;1;1,60;True
+11045;2025-10-15 09:05;Pretzel;food;1;1,20;True
+11046;2025-10-15 09:06;Tea;drink;1;1,50;False
+11047;2025-10-15 09:08;Pretzel;food;1;1,20;False
+11048;2025-10-15 09:19;Espresso;coffee;1;1,10;True
+11048;2025-10-15 09:19;Tea;drink;1;1,50;True
+11048;2025-10-15 09:19;Pretzel;food;1;1,20;True
+11049;2025-10-15 09:28;Croissant;food;1;1,80;True
+11050;2025-10-15 09:38;Muffin;food;1;2,20;True
+11051;2025-10-15 09:40;Cappuccino;coffee;1;2,40;False
+11052;2025-10-15 09:41;Latte Macchiato;coffee;1;2,80;True
+11053;2025-10-15 09:43;Croissant;food;1;1,80;True
+11053;2025-10-15 09:43;Espresso;coffee;1;1,10;True
+11053;2025-10-15 09:43;Cappuccino;coffee;1;2,40;True
+11054;2025-10-15 09:45;Pretzel;food;1;1,20;False
+11054;2025-10-15 09:45;Filter Coffee;coffee;1;1,60;False
+11055;2025-10-15 09:46;Espresso;coffee;1;1,10;False
+11055;2025-10-15 09:46;Latte Macchiato;coffee;1;2,80;False
+11056;2025-10-15 09:49;Pretzel;food;1;1,20;True
+11057;2025-10-15 09:52;Pretzel;food;1;1,20;True
+11058;2025-10-15 10:09;Cappuccino;coffee;1;2,40;True
+11059;2025-10-15 10:13;Cappuccino;coffee;1;2,40;True
+11059;2025-10-15 10:13;Croissant;food;2;1,80;True
+11059;2025-10-15 10:13;Tea;drink;1;1,50;True
+11060;2025-10-15 10:14;Water;drink;1;1,40;True
+11061;2025-10-15 10:21;Cappuccino;coffee;2;2,40;False
+11061;2025-10-15 10:21;Croissant;food;1;1,80;False
+11062;2025-10-15 10:22;Croissant;food;1;1,80;True
+11062;2025-10-15 10:22;Filter Coffee;coffee;1;1,60;True
+11063;2025-10-15 10:27;Pretzel;food;1;1,20;True
+11063;2025-10-15 10:27;Latte Macchiato;coffee;1;2,80;True
+11063;2025-10-15 10:27;Filter Coffee;coffee;3;1,60;True
+11064;2025-10-15 10:39;Filter Coffee;coffee;1;1,60;True
+11065;2025-10-15 10:39;Espresso;coffee;1;1,10;True
+11066;2025-10-15 10:46;Croissant;food;1;1,80;True
+11067;2025-10-15 10:54;Espresso;coffee;1;1,10;True
+11068;2025-10-15 11:10;Water;drink;3;1,40;True
+11069;2025-10-15 11:14;Tea;drink;1;1,50;False
+11070;2025-10-15 11:14;Sandwich;food;1;3,90;True
+11071;2025-10-15 11:17;Espresso;coffee;1;1,10;False
+11072;2025-10-15 11:28;Cappuccino;coffee;1;2,40;True
+11072;2025-10-15 11:28;Pretzel;food;2;1,20;True
+11073;2025-10-15 11:36;Sandwich;food;1;3,90;True
+11074;2025-10-15 11:41;Sandwich;food;1;3,90;True
+11074;2025-10-15 11:41;Tea;drink;1;1,50;True
+11075;2025-10-15 11:43;Pretzel;food;1;1,20;True
+11076;2025-10-15 11:55;Sandwich;food;1;3,90;True
+11077;2025-10-15 11:59;Pretzel;food;2;1,20;True
+11077;2025-10-15 11:59;Water;drink;1;1,40;True
+11077;2025-10-15 11:59;Cappuccino;coffee;1;2,40;True
+11078;2025-10-15 12:01;Sandwich;food;1;3,90;True
+11079;2025-10-15 12:01;Muffin;food;1;2,20;False
+11080;2025-10-15 12:03;Sandwich;food;1;3,90;True
+11081;2025-10-15 12:03;Hot Chocolate;drink;1;2,50;True
+11082;2025-10-15 12:04;Sandwich;food;1;3,90;True
+11083;2025-10-15 12:04;Sandwich;food;1;3,90;False
+11083;2025-10-15 12:04;Croissant;food;1;1,80;False
+11084;2025-10-15 12:08;Sandwich;food;2;3,90;True
+11084;2025-10-15 12:08;Water;drink;1;1,40;True
+11084;2025-10-15 12:08;Cappuccino;coffee;1;2,40;True
+11085;2025-10-15 12:08;Latte Macchiato;coffee;1;2,80;True
+11086;2025-10-15 12:12;Cappuccino;coffee;2;2,40;True
+11087;2025-10-15 12:19;Water;drink;1;1,40;True
+11088;2025-10-15 12:22;Croissant;food;1;1,80;True
+11089;2025-10-15 12:28;Latte Macchiato;coffee;1;2,80;True
+11089;2025-10-15 12:28;Pretzel;food;1;1,20;True
+11090;2025-10-15 12:33;Pretzel;food;1;1,20;True
+11090;2025-10-15 12:33;Water;drink;1;1,40;True
+11091;2025-10-15 12:35;Hot Chocolate;drink;1;2,50;True
+11092;2025-10-15 12:36;Muffin;food;1;2,20;True
+11093;2025-10-15 12:49;Sandwich;food;1;3,90;False
+11094;2025-10-15 12:49;Espresso;coffee;1;1,10;True
+11094;2025-10-15 12:49;Croissant;food;1;1,80;True
+11094;2025-10-15 12:49;Sandwich;food;1;3,90;True
+11095;2025-10-15 12:51;Espresso;coffee;1;1,10;True
+11096;2025-10-15 12:55;Water;drink;1;1,40;True
+11097;2025-10-15 12:56;Sandwich;food;1;3,90;False
+11098;2025-10-15 13:08;Sandwich;food;1;3,90;False
+11099;2025-10-15 13:10;Espresso;coffee;2;1,10;True
+11100;2025-10-15 13:10;Latte Macchiato;coffee;1;2,80;False
+11100;2025-10-15 13:10;Pretzel;food;1;1,20;False
+11101;2025-10-15 13:15;Latte Macchiato;coffee;1;2,80;True
+11102;2025-10-15 13:15;Water;drink;1;1,40;True
+11102;2025-10-15 13:15;Tea;drink;1;1,50;True
+11102;2025-10-15 13:15;Pretzel;food;1;1,20;True
+11103;2025-10-15 13:16;Espresso;coffee;1;1,10;True
+11103;2025-10-15 13:16;Pretzel;food;1;1,20;True
+11104;2025-10-15 13:17;Sandwich;food;1;3,90;True
+11104;2025-10-15 13:17;Latte Macchiato;coffee;1;2,80;True
+11105;2025-10-15 13:18;Water;drink;1;1,40;True
+11105;2025-10-15 13:18;Sandwich;food;1;3,90;True
+11106;2025-10-15 13:20;Pretzel;food;1;1,20;True
+11107;2025-10-15 13:23;Sandwich;food;1;3,90;False
+11107;2025-10-15 13:23;Water;drink;1;1,40;False
+11108;2025-10-15 13:24;Cappuccino;coffee;1;2,40;True
+11109;2025-10-15 13:26;Cappuccino;coffee;1;2,40;True
+11110;2025-10-15 13:26;Sandwich;food;2;3,90;True
+11111;2025-10-15 13:35;Espresso;coffee;1;1,10;True
+11112;2025-10-15 13:37;Sandwich;food;1;3,90;True
+11113;2025-10-15 13:38;Pretzel;food;2;1,20;True
+11114;2025-10-15 13:43;Filter Coffee;coffee;1;1,60;True
+11115;2025-10-15 13:46;Sandwich;food;1;3,90;True
+11115;2025-10-15 13:46;Muffin;food;1;2,20;True
+11115;2025-10-15 13:46;Water;drink;1;1,40;True
+11116;2025-10-15 13:48;Cappuccino;coffee;3;2,40;False
+11117;2025-10-15 13:58;Muffin;food;1;2,20;True
+11118;2025-10-15 14:05;Cappuccino;coffee;1;2,40;True
+11119;2025-10-15 14:33;Cappuccino;coffee;1;2,40;False
+11120;2025-10-15 14:39;Tea;drink;1;1,50;True
+11121;2025-10-15 14:39;Hot Chocolate;drink;1;2,50;True
+11122;2025-10-15 14:41;Latte Macchiato;coffee;1;2,80;True
+11123;2025-10-15 14:54;Espresso;coffee;1;1,10;True
+11124;2025-10-15 14:58;Espresso;coffee;1;1,10;True
+11125;2025-10-15 15:00;Muffin;food;1;2,20;True
+11125;2025-10-15 15:00;Sandwich;food;1;3,90;True
+11126;2025-10-15 15:01;Hot Chocolate;drink;1;2,50;True
+11126;2025-10-15 15:01;Cappuccino;coffee;1;2,40;True
+11127;2025-10-15 15:03;Muffin;food;1;2,20;True
+11128;2025-10-15 15:04;Cappuccino;coffee;1;2,40;True
+11128;2025-10-15 15:04;Tea;drink;1;1,50;True
+11128;2025-10-15 15:04;Water;drink;1;1,40;True
+11129;2025-10-15 15:06;Sandwich;food;1;3,90;False
+11129;2025-10-15 15:06;Latte Macchiato;coffee;1;2,80;False
+11130;2025-10-15 15:06;Croissant;food;1;1,80;True
+11130;2025-10-15 15:06;Muffin;food;1;2,20;True
+11131;2025-10-15 15:13;Croissant;food;1;1,80;True
+11131;2025-10-15 15:13;Pretzel;food;1;1,20;True
+11132;2025-10-15 15:24;Cappuccino;coffee;1;2,40;False
+11133;2025-10-15 15:26;Cappuccino;coffee;1;2,40;True
+11133;2025-10-15 15:26;Water;drink;1;1,40;True
+11133;2025-10-15 15:26;Tea;drink;2;1,50;True
+11134;2025-10-15 15:34;Espresso;coffee;1;1,10;True
+11135;2025-10-15 15:41;Tea;drink;1;1,50;True
+11136;2025-10-15 15:51;Water;drink;1;1,40;False
+11136;2025-10-15 15:51;Croissant;food;2;1,80;False
+11137;2025-10-15 15:58;Hot Chocolate;drink;1;2,50;False
+11138;2025-10-15 16:00;Tea;drink;2;1,50;True
+11139;2025-10-15 16:04;Filter Coffee;coffee;1;1,60;True
+11140;2025-10-15 16:14;Tea;drink;1;1,50;True
+11141;2025-10-15 16:18;Tea;drink;1;1,50;True
+11141;2025-10-15 16:18;Pretzel;food;2;1,20;True
+11142;2025-10-15 16:25;Espresso;coffee;1;1,10;False
+11143;2025-10-15 16:28;Water;drink;1;1,40;False
+11143;2025-10-15 16:28;Sandwich;food;1;3,90;False
+11144;2025-10-15 16:48;Hot Chocolate;drink;1;2,50;True
+11145;2025-10-16 07:31;Filter Coffee;coffee;1;1,60;True
+11146;2025-10-16 07:31;Tea;drink;1;1,50;True
+11147;2025-10-16 07:35;Water;drink;1;1,40;True
+11148;2025-10-16 07:43;Muffin;food;1;2,20;True
+11149;2025-10-16 07:59;Croissant;food;1;1,80;False
+11150;2025-10-16 07:59;Filter Coffee;coffee;1;1,60;True
+11150;2025-10-16 07:59;Water;drink;2;1,40;True
+11151;2025-10-16 08:09;Filter Coffee;coffee;1;1,60;True
+11151;2025-10-16 08:09;Sandwich;food;1;3,90;True
+11152;2025-10-16 08:12;Cappuccino;coffee;1;2,40;True
+11153;2025-10-16 08:16;Cappuccino;coffee;1;2,40;True
+11154;2025-10-16 08:20;Croissant;food;1;1,80;True
+11155;2025-10-16 08:26;Croissant;food;1;1,80;False
+11155;2025-10-16 08:26;Espresso;coffee;1;1,10;False
+11156;2025-10-16 08:27;Croissant;food;1;1,80;True
+11156;2025-10-16 08:27;Tea;drink;3;1,50;True
+11157;2025-10-16 08:31;Croissant;food;1;1,80;False
+11158;2025-10-16 08:35;Filter Coffee;coffee;1;1,60;True
+11158;2025-10-16 08:35;Tea;drink;2;1,50;True
+11158;2025-10-16 08:35;Latte Macchiato;coffee;1;2,80;True
+11159;2025-10-16 08:35;Filter Coffee;coffee;1;1,60;True
+11159;2025-10-16 08:35;Latte Macchiato;coffee;1;2,80;True
+11160;2025-10-16 08:40;Water;drink;1;1,40;True
+11160;2025-10-16 08:40;Cappuccino;coffee;2;2,40;True
+11161;2025-10-16 08:50;Cappuccino;coffee;1;2,40;True
+11161;2025-10-16 08:50;Filter Coffee;coffee;1;1,60;True
+11161;2025-10-16 08:50;Croissant;food;1;1,80;True
+11162;2025-10-16 08:51;Filter Coffee;coffee;1;1,60;True
+11163;2025-10-16 08:55;Latte Macchiato;coffee;1;2,80;True
+11164;2025-10-16 09:02;Espresso;coffee;1;1,10;True
+11164;2025-10-16 09:02;Pretzel;food;1;1,20;True
+11164;2025-10-16 09:02;Croissant;food;1;1,80;True
+11165;2025-10-16 09:07;Tea;drink;1;1,50;True
+11165;2025-10-16 09:07;Cappuccino;coffee;1;2,40;True
+11165;2025-10-16 09:07;Latte Macchiato;coffee;1;2,80;True
+11166;2025-10-16 09:08;Water;drink;1;1,40;False
+11166;2025-10-16 09:08;Tea;drink;1;1,50;False
+11167;2025-10-16 09:12;Filter Coffee;coffee;1;1,60;True
+11167;2025-10-16 09:12;Cappuccino;coffee;1;2,40;True
+11168;2025-10-16 09:14;Espresso;coffee;3;1,10;True
+11168;2025-10-16 09:14;Cappuccino;coffee;1;2,40;True
+11169;2025-10-16 09:17;Filter Coffee;coffee;1;1,60;True
+11170;2025-10-16 09:18;Cappuccino;coffee;1;2,40;True
+11170;2025-10-16 09:18;Hot Chocolate;drink;1;2,50;True
+11171;2025-10-16 09:19;Croissant;food;1;1,80;False
+11172;2025-10-16 09:25;Pretzel;food;1;1,20;True
+11172;2025-10-16 09:25;Filter Coffee;coffee;1;1,60;True
+11172;2025-10-16 09:25;Croissant;food;1;1,80;True
+11173;2025-10-16 09:29;Latte Macchiato;coffee;2;2,80;True
+11173;2025-10-16 09:29;Espresso;coffee;1;1,10;True
+11174;2025-10-16 09:35;Pretzel;food;1;1,20;False
+11175;2025-10-16 09:39;Tea;drink;1;1,50;True
+11176;2025-10-16 09:40;Pretzel;food;2;1,20;False
+11176;2025-10-16 09:40;Cappuccino;coffee;1;2,40;False
+11177;2025-10-16 09:49;Croissant;food;1;1,80;False
+11178;2025-10-16 09:55;Tea;drink;1;1,50;False
+11178;2025-10-16 09:55;Croissant;food;1;1,80;False
+11179;2025-10-16 10:08;Muffin;food;1;2,20;False
+11180;2025-10-16 10:09;Tea;drink;1;1,50;True
+11181;2025-10-16 10:15;Pretzel;food;1;1,20;True
+11182;2025-10-16 10:34;Croissant;food;1;1,80;True
+11182;2025-10-16 10:34;Espresso;coffee;1;1,10;True
+11182;2025-10-16 10:34;Pretzel;food;1;1,20;True
+11183;2025-10-16 10:38;Latte Macchiato;coffee;1;2,80;True
+11184;2025-10-16 10:41;Espresso;coffee;1;1,10;True
+11184;2025-10-16 10:41;Cappuccino;coffee;1;2,40;True
+11185;2025-10-16 10:41;Cappuccino;coffee;2;2,40;False
+11185;2025-10-16 10:41;Filter Coffee;coffee;1;1,60;False
+11186;2025-10-16 10:42;Espresso;coffee;1;1,10;True
+11187;2025-10-16 10:47;Croissant;food;1;1,80;True
+11187;2025-10-16 10:47;Cappuccino;coffee;1;2,40;True
+11187;2025-10-16 10:47;Muffin;food;1;2,20;True
+11188;2025-10-16 10:56;Cappuccino;coffee;2;2,40;True
+11188;2025-10-16 10:56;Water;drink;1;1,40;True
+11189;2025-10-16 11:10;Filter Coffee;coffee;1;1,60;False
+11190;2025-10-16 11:12;Sandwich;food;1;3,90;True
+11191;2025-10-16 11:30;Latte Macchiato;coffee;1;2,80;True
+11192;2025-10-16 11:35;Espresso;coffee;2;1,10;True
+11193;2025-10-16 11:47;Water;drink;1;1,40;True
+11194;2025-10-16 11:48;Cappuccino;coffee;1;2,40;True
+11195;2025-10-16 11:50;Sandwich;food;1;3,90;True
+11195;2025-10-16 11:50;Filter Coffee;coffee;1;1,60;True
+11196;2025-10-16 12:05;Sandwich;food;1;3,90;False
+11196;2025-10-16 12:05;Cappuccino;coffee;1;2,40;False
+11196;2025-10-16 12:05;Water;drink;1;1,40;False
+11197;2025-10-16 12:07;Hot Chocolate;drink;1;2,50;False
+11197;2025-10-16 12:07;Latte Macchiato;coffee;1;2,80;False
+11197;2025-10-16 12:07;Tea;drink;1;1,50;False
+11198;2025-10-16 12:09;Filter Coffee;coffee;1;1,60;True
+11199;2025-10-16 12:11;Espresso;coffee;1;1,10;True
+11200;2025-10-16 12:11;Sandwich;food;3;3,90;True
+11200;2025-10-16 12:11;Tea;drink;1;1,50;True
+11201;2025-10-16 12:11;Cappuccino;coffee;1;2,40;True
+11202;2025-10-16 12:19;Espresso;coffee;1;1,10;False
+11203;2025-10-16 12:26;Cappuccino;coffee;1;2,40;False
+11203;2025-10-16 12:26;Sandwich;food;1;3,90;False
+11204;2025-10-16 12:30;Sandwich;food;1;3,90;False
+11204;2025-10-16 12:30;Cappuccino;coffee;1;2,40;False
+11205;2025-10-16 12:35;Cappuccino;coffee;1;2,40;True
+11206;2025-10-16 12:35;Cappuccino;coffee;1;2,40;True
+11206;2025-10-16 12:35;Sandwich;food;2;3,90;True
+11207;2025-10-16 12:40;Pretzel;food;1;1,20;True
+11207;2025-10-16 12:40;Muffin;food;1;2,20;True
+11208;2025-10-16 12:44;Latte Macchiato;coffee;2;2,80;True
+11209;2025-10-16 12:47;Sandwich;food;1;3,90;True
+11209;2025-10-16 12:47;Muffin;food;1;2,20;True
+11210;2025-10-16 12:56;Latte Macchiato;coffee;1;2,80;True
+11210;2025-10-16 12:56;Water;drink;1;1,40;True
+11211;2025-10-16 12:58;Croissant;food;1;1,80;False
+11212;2025-10-16 13:03;Sandwich;food;1;3,90;True
+11212;2025-10-16 13:03;Filter Coffee;coffee;1;1,60;True
+11213;2025-10-16 13:17;Sandwich;food;1;3,90;False
+11214;2025-10-16 13:22;Cappuccino;coffee;1;2,40;False
+11215;2025-10-16 13:23;Sandwich;food;1;3,90;True
+11216;2025-10-16 13:30;Water;drink;1;1,40;True
+11217;2025-10-16 13:32;Sandwich;food;2;3,90;True
+11218;2025-10-16 13:33;Sandwich;food;1;3,90;True
+11219;2025-10-16 13:34;Espresso;coffee;1;1,10;True
+11220;2025-10-16 13:35;Sandwich;food;1;3,90;False
+11220;2025-10-16 13:35;Espresso;coffee;1;1,10;False
+11220;2025-10-16 13:35;Pretzel;food;1;1,20;False
+11221;2025-10-16 13:40;Water;drink;1;1,40;False
+11222;2025-10-16 13:46;Water;drink;2;1,40;False
+11223;2025-10-16 13:58;Pretzel;food;1;1,20;True
+11223;2025-10-16 13:58;Croissant;food;1;1,80;True
+11224;2025-10-16 13:59;Muffin;food;1;2,20;False
+11224;2025-10-16 13:59;Water;drink;1;1,40;False
+11225;2025-10-16 13:59;Espresso;coffee;1;1,10;True
+11226;2025-10-16 14:08;Filter Coffee;coffee;1;1,60;True
+11227;2025-10-16 14:09;Latte Macchiato;coffee;1;2,80;True
+11227;2025-10-16 14:09;Filter Coffee;coffee;1;1,60;True
+11228;2025-10-16 14:10;Cappuccino;coffee;1;2,40;False
+11229;2025-10-16 14:31;Filter Coffee;coffee;1;1,60;False
+11229;2025-10-16 14:31;Cappuccino;coffee;1;2,40;False
+11230;2025-10-16 14:32;Tea;drink;1;1,50;True
+11230;2025-10-16 14:32;Cappuccino;coffee;2;2,40;True
+11230;2025-10-16 14:32;Espresso;coffee;1;1,10;True
+11231;2025-10-16 14:33;Cappuccino;coffee;2;2,40;True
+11232;2025-10-16 14:47;Cappuccino;coffee;2;2,40;False
+11233;2025-10-16 14:53;Cappuccino;coffee;2;2,40;True
+11233;2025-10-16 14:53;Espresso;coffee;1;1,10;True
+11233;2025-10-16 14:53;Latte Macchiato;coffee;1;2,80;True
+11234;2025-10-16 15:11;Sandwich;food;1;3,90;True
+11234;2025-10-16 15:11;Hot Chocolate;drink;1;2,50;True
+11234;2025-10-16 15:11;Muffin;food;3;2,20;True
+11235;2025-10-16 15:13;Espresso;coffee;1;1,10;False
+11235;2025-10-16 15:13;Latte Macchiato;coffee;1;2,80;False
+11235;2025-10-16 15:13;Cappuccino;coffee;1;2,40;False
+11236;2025-10-16 15:20;Filter Coffee;coffee;1;1,60;False
+11237;2025-10-16 15:21;Latte Macchiato;coffee;1;2,80;False
+11238;2025-10-16 15:25;Hot Chocolate;drink;1;2,50;True
+11238;2025-10-16 15:25;Muffin;food;1;2,20;True
+11239;2025-10-16 15:39;Sandwich;food;2;3,90;True
+11239;2025-10-16 15:39;Latte Macchiato;coffee;3;2,80;True
+11240;2025-10-16 15:55;Espresso;coffee;1;1,10;False
+11240;2025-10-16 15:55;Cappuccino;coffee;1;2,40;False
+11241;2025-10-16 16:02;Latte Macchiato;coffee;1;2,80;True
+11241;2025-10-16 16:02;Muffin;food;1;2,20;True
+11242;2025-10-16 16:10;Cappuccino;coffee;1;2,40;True
+11242;2025-10-16 16:10;Croissant;food;1;1,80;True
+11243;2025-10-16 16:10;Muffin;food;1;2,20;False
+11244;2025-10-16 16:17;Tea;drink;1;1,50;False
+11244;2025-10-16 16:17;Water;drink;1;1,40;False
+11245;2025-10-16 16:29;Tea;drink;1;1,50;False
+11246;2025-10-16 16:33;Espresso;coffee;1;1,10;False
+11247;2025-10-16 16:33;Water;drink;1;1,40;True
+11247;2025-10-16 16:33;Cappuccino;coffee;1;2,40;True
+11248;2025-10-16 16:42;Muffin;food;1;2,20;True
+11248;2025-10-16 16:42;Cappuccino;coffee;1;2,40;True
+11249;2025-10-16 16:51;Pretzel;food;1;1,20;True
+11249;2025-10-16 16:51;Filter Coffee;coffee;3;1,60;True
+11250;2025-10-17 07:55;Tea;drink;2;1,50;True
+11251;2025-10-17 08:00;Filter Coffee;coffee;1;1,60;True
+11252;2025-10-17 08:01;Cappuccino;coffee;1;2,40;True
+11252;2025-10-17 08:01;Sandwich;food;1;3,90;True
+11253;2025-10-17 08:06;Muffin;food;1;2,20;True
+11254;2025-10-17 08:10;Pretzel;food;1;1,20;True
+11255;2025-10-17 08:23;Filter Coffee;coffee;1;1,60;True
+11255;2025-10-17 08:23;Latte Macchiato;coffee;2;2,80;True
+11256;2025-10-17 08:30;Pretzel;food;1;1,20;True
+11256;2025-10-17 08:30;Latte Macchiato;coffee;1;2,80;True
+11257;2025-10-17 08:32;Cappuccino;coffee;1;2,40;True
+11258;2025-10-17 08:33;Pretzel;food;1;1,20;True
+11259;2025-10-17 08:42;Croissant;food;1;1,80;True
+11260;2025-10-17 08:45;Croissant;food;1;1,80;False
+11261;2025-10-17 08:48;Espresso;coffee;1;1,10;True
+11261;2025-10-17 08:48;Tea;drink;1;1,50;True
+11261;2025-10-17 08:48;Croissant;food;1;1,80;True
+11262;2025-10-17 08:53;Sandwich;food;1;3,90;True
+11262;2025-10-17 08:53;Cappuccino;coffee;1;2,40;True
+11263;2025-10-17 08:55;Sandwich;food;1;3,90;True
+11264;2025-10-17 09:01;Croissant;food;2;1,80;True
+11265;2025-10-17 09:16;Espresso;coffee;1;1,10;True
+11265;2025-10-17 09:16;Croissant;food;1;1,80;True
+11266;2025-10-17 09:21;Croissant;food;1;1,80;False
+11266;2025-10-17 09:21;Cappuccino;coffee;1;2,40;False
+11267;2025-10-17 09:24;Espresso;coffee;1;1,10;True
+11267;2025-10-17 09:24;Filter Coffee;coffee;1;1,60;True
+11268;2025-10-17 09:27;Latte Macchiato;coffee;1;2,80;True
+11268;2025-10-17 09:27;Pretzel;food;1;1,20;True
+11269;2025-10-17 09:36;Filter Coffee;coffee;1;1,60;False
+11269;2025-10-17 09:36;Pretzel;food;1;1,20;False
+11270;2025-10-17 09:36;Latte Macchiato;coffee;1;2,80;False
+11271;2025-10-17 09:37;Filter Coffee;coffee;1;1,60;True
+11272;2025-10-17 09:40;Espresso;coffee;1;1,10;True
+11273;2025-10-17 09:47;Espresso;coffee;1;1,10;True
+11274;2025-10-17 10:03;Muffin;food;1;2,20;True
+11274;2025-10-17 10:03;Filter Coffee;coffee;1;1,60;True
+11274;2025-10-17 10:03;Espresso;coffee;1;1,10;True
+11275;2025-10-17 10:13;Filter Coffee;coffee;1;1,60;False
+11276;2025-10-17 10:33;Pretzel;food;1;1,20;True
+11277;2025-10-17 10:33;Water;drink;1;1,40;True
+11278;2025-10-17 10:36;Cappuccino;coffee;2;2,40;True
+11278;2025-10-17 10:36;Hot Chocolate;drink;1;2,50;True
+11278;2025-10-17 10:36;Muffin;food;1;2,20;True
+11279;2025-10-17 10:36;Latte Macchiato;coffee;1;2,80;False
+11279;2025-10-17 10:36;Cappuccino;coffee;1;2,40;False
+11280;2025-10-17 10:48;Pretzel;food;1;1,20;False
+11280;2025-10-17 10:48;Sandwich;food;2;3,90;False
+11281;2025-10-17 10:50;Water;drink;1;1,40;True
+11282;2025-10-17 10:51;Pretzel;food;1;1,20;True
+11283;2025-10-17 10:53;Espresso;coffee;1;1,10;True
+11284;2025-10-17 10:57;Espresso;coffee;1;1,10;True
+11285;2025-10-17 11:07;Cappuccino;coffee;1;2,40;True
+11286;2025-10-17 11:08;Filter Coffee;coffee;1;1,60;True
+11286;2025-10-17 11:08;Latte Macchiato;coffee;1;2,80;True
+11287;2025-10-17 11:09;Sandwich;food;1;3,90;True
+11288;2025-10-17 11:10;Pretzel;food;1;1,20;False
+11288;2025-10-17 11:10;Sandwich;food;1;3,90;False
+11288;2025-10-17 11:10;Espresso;coffee;1;1,10;False
+11289;2025-10-17 11:15;Sandwich;food;1;3,90;True
+11290;2025-10-17 11:18;Muffin;food;1;2,20;False
+11290;2025-10-17 11:18;Filter Coffee;coffee;1;1,60;False
+11291;2025-10-17 11:18;Espresso;coffee;1;1,10;True
+11292;2025-10-17 11:19;Espresso;coffee;2;1,10;False
+11293;2025-10-17 11:20;Sandwich;food;2;3,90;True
+11293;2025-10-17 11:20;Latte Macchiato;coffee;2;2,80;True
+11294;2025-10-17 11:27;Sandwich;food;1;3,90;True
+11294;2025-10-17 11:27;Cappuccino;coffee;1;2,40;True
+11294;2025-10-17 11:27;Muffin;food;2;2,20;True
+11295;2025-10-17 11:28;Sandwich;food;1;3,90;True
+11296;2025-10-17 11:32;Water;drink;2;1,40;True
+11297;2025-10-17 11:36;Sandwich;food;1;3,90;True
+11298;2025-10-17 11:40;Muffin;food;1;2,20;False
+11298;2025-10-17 11:40;Water;drink;1;1,40;False
+11299;2025-10-17 12:00;Muffin;food;1;2,20;True
+11299;2025-10-17 12:00;Pretzel;food;1;1,20;True
+11299;2025-10-17 12:00;Latte Macchiato;coffee;1;2,80;True
+11300;2025-10-17 12:04;Pretzel;food;1;1,20;True
+11301;2025-10-17 12:04;Tea;drink;1;1,50;True
+11301;2025-10-17 12:04;Cappuccino;coffee;2;2,40;True
+11301;2025-10-17 12:04;Water;drink;1;1,40;True
+11302;2025-10-17 12:05;Latte Macchiato;coffee;1;2,80;True
+11302;2025-10-17 12:05;Water;drink;1;1,40;True
+11303;2025-10-17 12:11;Water;drink;1;1,40;True
+11304;2025-10-17 12:11;Tea;drink;1;1,50;False
+11305;2025-10-17 12:15;Cappuccino;coffee;1;2,40;True
+11305;2025-10-17 12:15;Muffin;food;1;2,20;True
+11305;2025-10-17 12:15;Sandwich;food;1;3,90;True
+11306;2025-10-17 12:15;Muffin;food;1;2,20;True
+11306;2025-10-17 12:15;Sandwich;food;1;3,90;True
+11306;2025-10-17 12:15;Croissant;food;2;1,80;True
+11307;2025-10-17 12:19;Cappuccino;coffee;2;2,40;False
+11307;2025-10-17 12:19;Water;drink;1;1,40;False
+11308;2025-10-17 12:28;Tea;drink;3;1,50;True
+11309;2025-10-17 12:30;Water;drink;1;1,40;True
+11310;2025-10-17 12:30;Water;drink;3;1,40;False
+11310;2025-10-17 12:30;Espresso;coffee;1;1,10;False
+11310;2025-10-17 12:30;Cappuccino;coffee;1;2,40;False
+11311;2025-10-17 12:36;Water;drink;1;1,40;True
+11312;2025-10-17 12:47;Filter Coffee;coffee;1;1,60;True
+11312;2025-10-17 12:47;Water;drink;1;1,40;True
+11312;2025-10-17 12:47;Espresso;coffee;3;1,10;True
+11313;2025-10-17 12:50;Sandwich;food;1;3,90;True
+11314;2025-10-17 12:51;Sandwich;food;1;3,90;True
+11315;2025-10-17 12:54;Muffin;food;1;2,20;True
+11315;2025-10-17 12:54;Pretzel;food;1;1,20;True
+11316;2025-10-17 12:58;Croissant;food;2;1,80;True
+11316;2025-10-17 12:58;Cappuccino;coffee;1;2,40;True
+11317;2025-10-17 13:00;Sandwich;food;1;3,90;True
+11318;2025-10-17 13:01;Muffin;food;1;2,20;True
+11319;2025-10-17 13:32;Cappuccino;coffee;1;2,40;True
+11319;2025-10-17 13:32;Sandwich;food;1;3,90;True
+11320;2025-10-17 13:46;Hot Chocolate;drink;1;2,50;False
+11320;2025-10-17 13:46;Pretzel;food;1;1,20;False
+11321;2025-10-17 13:47;Tea;drink;1;1,50;True
+11322;2025-10-17 13:51;Latte Macchiato;coffee;1;2,80;True
+11322;2025-10-17 13:51;Cappuccino;coffee;1;2,40;True
+11323;2025-10-17 13:54;Croissant;food;1;1,80;True
+11323;2025-10-17 13:54;Cappuccino;coffee;1;2,40;True
+11324;2025-10-17 14:11;Tea;drink;2;1,50;True
+11325;2025-10-17 14:14;Sandwich;food;1;3,90;True
+11325;2025-10-17 14:14;Muffin;food;1;2,20;True
+11326;2025-10-17 14:20;Tea;drink;1;1,50;True
+11327;2025-10-17 14:26;Water;drink;2;1,40;True
+11328;2025-10-17 14:26;Latte Macchiato;coffee;1;2,80;False
+11329;2025-10-17 14:29;Tea;drink;1;1,50;False
+11329;2025-10-17 14:29;Espresso;coffee;1;1,10;False
+11330;2025-10-17 14:41;Latte Macchiato;coffee;1;2,80;True
+11331;2025-10-17 14:42;Espresso;coffee;2;1,10;True
+11332;2025-10-17 14:47;Latte Macchiato;coffee;1;2,80;True
+11333;2025-10-17 14:47;Muffin;food;2;2,20;False
+11333;2025-10-17 14:47;Espresso;coffee;1;1,10;False
+11334;2025-10-17 14:53;Cappuccino;coffee;1;2,40;True
+11334;2025-10-17 14:53;Latte Macchiato;coffee;3;2,80;True
+11335;2025-10-17 15:22;Hot Chocolate;drink;1;2,50;True
+11336;2025-10-17 15:27;Cappuccino;coffee;2;2,40;True
+11337;2025-10-17 15:28;Sandwich;food;1;3,90;True
+11338;2025-10-17 15:29;Espresso;coffee;1;1,10;False
+11339;2025-10-17 15:46;Muffin;food;1;2,20;True
+11340;2025-10-17 16:12;Muffin;food;1;2,20;True
+11341;2025-10-17 16:24;Filter Coffee;coffee;1;1,60;True
+11341;2025-10-17 16:24;Muffin;food;1;2,20;True
+11342;2025-10-17 16:49;Hot Chocolate;drink;1;2,50;False
+11342;2025-10-17 16:49;Muffin;food;1;2,20;False
+11342;2025-10-17 16:49;Espresso;coffee;1;1,10;False
+11343;2025-10-17 16:55;Sandwich;food;1;3,90;False
+11344;2025-10-20 07:32;Water;drink;1;1,40;True
+11345;2025-10-20 07:39;Espresso;coffee;1;1,10;True
+11345;2025-10-20 07:39;Latte Macchiato;coffee;3;2,80;True
+11346;2025-10-20 07:55;Latte Macchiato;coffee;1;2,80;True
+11346;2025-10-20 07:55;Filter Coffee;coffee;2;1,60;True
+11347;2025-10-20 08:01;Filter Coffee;coffee;1;1,60;False
+11347;2025-10-20 08:01;Croissant;food;1;1,80;False
+11348;2025-10-20 08:03;Hot Chocolate;drink;1;2,50;True
+11349;2025-10-20 08:08;Muffin;food;1;2,20;True
+11349;2025-10-20 08:08;Pretzel;food;1;1,20;True
+11350;2025-10-20 08:09;Water;drink;1;1,40;True
+11350;2025-10-20 08:09;Muffin;food;1;2,20;True
+11351;2025-10-20 08:13;Muffin;food;1;2,20;True
+11352;2025-10-20 08:16;Pretzel;food;1;1,20;True
+11353;2025-10-20 08:19;Cappuccino;coffee;1;2,40;False
+11353;2025-10-20 08:19;Croissant;food;1;1,80;False
+11354;2025-10-20 08:20;Cappuccino;coffee;1;2,40;True
+11355;2025-10-20 08:28;Cappuccino;coffee;1;2,40;True
+11356;2025-10-20 08:29;Muffin;food;2;2,20;True
+11356;2025-10-20 08:29;Espresso;coffee;1;1,10;True
+11357;2025-10-20 08:29;Muffin;food;1;2,20;False
+11358;2025-10-20 08:31;Pretzel;food;1;1,20;True
+11359;2025-10-20 08:32;Water;drink;1;1,40;True
+11359;2025-10-20 08:32;Latte Macchiato;coffee;1;2,80;True
+11360;2025-10-20 08:33;Cappuccino;coffee;1;2,40;False
+11361;2025-10-20 08:33;Filter Coffee;coffee;1;1,60;True
+11362;2025-10-20 08:40;Filter Coffee;coffee;1;1,60;False
+11363;2025-10-20 08:41;Pretzel;food;1;1,20;True
+11364;2025-10-20 08:46;Muffin;food;1;2,20;False
+11364;2025-10-20 08:46;Espresso;coffee;1;1,10;False
+11365;2025-10-20 08:47;Cappuccino;coffee;1;2,40;True
+11365;2025-10-20 08:47;Pretzel;food;2;1,20;True
+11365;2025-10-20 08:47;Tea;drink;1;1,50;True
+11366;2025-10-20 08:48;Espresso;coffee;1;1,10;False
+11367;2025-10-20 08:49;Croissant;food;1;1,80;True
+11367;2025-10-20 08:49;Filter Coffee;coffee;2;1,60;True
+11368;2025-10-20 08:50;Filter Coffee;coffee;2;1,60;True
+11368;2025-10-20 08:50;Latte Macchiato;coffee;1;2,80;True
+11369;2025-10-20 08:52;Pretzel;food;1;1,20;True
+11370;2025-10-20 08:52;Tea;drink;2;1,50;True
+11371;2025-10-20 08:59;Espresso;coffee;1;1,10;False
+11372;2025-10-20 09:00;Croissant;food;1;1,80;True
+11372;2025-10-20 09:00;Filter Coffee;coffee;1;1,60;True
+11373;2025-10-20 09:03;Croissant;food;1;1,80;False
+11373;2025-10-20 09:03;Filter Coffee;coffee;1;1,60;False
+11373;2025-10-20 09:03;Espresso;coffee;1;1,10;False
+11374;2025-10-20 09:03;Cappuccino;coffee;1;2,40;False
+11375;2025-10-20 09:06;Croissant;food;1;1,80;True
+11376;2025-10-20 09:06;Tea;drink;1;1,50;False
+11376;2025-10-20 09:06;Water;drink;1;1,40;False
+11377;2025-10-20 09:10;Croissant;food;1;1,80;False
+11378;2025-10-20 09:10;Cappuccino;coffee;1;2,40;False
+11378;2025-10-20 09:10;Filter Coffee;coffee;1;1,60;False
+11379;2025-10-20 09:13;Pretzel;food;1;1,20;True
+11380;2025-10-20 09:28;Hot Chocolate;drink;1;2,50;False
+11380;2025-10-20 09:28;Muffin;food;2;2,20;False
+11381;2025-10-20 09:28;Espresso;coffee;1;1,10;True
+11382;2025-10-20 09:37;Tea;drink;1;1,50;True
+11383;2025-10-20 09:42;Pretzel;food;1;1,20;True
+11384;2025-10-20 09:56;Latte Macchiato;coffee;1;2,80;True
+11385;2025-10-20 09:58;Pretzel;food;1;1,20;True
+11386;2025-10-20 10:00;Water;drink;1;1,40;True
+11386;2025-10-20 10:00;Cappuccino;coffee;1;2,40;True
+11387;2025-10-20 10:02;Sandwich;food;1;3,90;True
+11388;2025-10-20 10:05;Croissant;food;1;1,80;True
+11389;2025-10-20 10:13;Croissant;food;1;1,80;True
+11390;2025-10-20 10:19;Hot Chocolate;drink;1;2,50;True
+11391;2025-10-20 10:22;Croissant;food;1;1,80;False
+11392;2025-10-20 10:22;Croissant;food;1;1,80;True
+11393;2025-10-20 10:25;Pretzel;food;1;1,20;True
+11394;2025-10-20 10:32;Latte Macchiato;coffee;1;2,80;True
+11395;2025-10-20 10:34;Cappuccino;coffee;1;2,40;True
+11396;2025-10-20 10:35;Espresso;coffee;3;1,10;True
+11397;2025-10-20 10:36;Cappuccino;coffee;1;2,40;True
+11398;2025-10-20 10:43;Filter Coffee;coffee;1;1,60;True
+11398;2025-10-20 10:43;Cappuccino;coffee;2;2,40;True
+11399;2025-10-20 10:47;Espresso;coffee;1;1,10;True
+11399;2025-10-20 10:47;Cappuccino;coffee;1;2,40;True
+11399;2025-10-20 10:47;Filter Coffee;coffee;1;1,60;True
+11400;2025-10-20 10:48;Filter Coffee;coffee;2;1,60;False
+11401;2025-10-20 10:48;Water;drink;1;1,40;True
+11402;2025-10-20 10:49;Pretzel;food;3;1,20;True
+11402;2025-10-20 10:49;Espresso;coffee;1;1,10;True
+11403;2025-10-20 10:52;Croissant;food;1;1,80;False
+11404;2025-10-20 10:53;Croissant;food;1;1,80;True
+11404;2025-10-20 10:53;Espresso;coffee;1;1,10;True
+11405;2025-10-20 10:55;Espresso;coffee;1;1,10;False
+11406;2025-10-20 10:57;Pretzel;food;1;1,20;True
+11407;2025-10-20 11:01;Espresso;coffee;1;1,10;False
+11408;2025-10-20 11:06;Latte Macchiato;coffee;1;2,80;True
+11409;2025-10-20 11:07;Water;drink;1;1,40;True
+11410;2025-10-20 11:07;Tea;drink;1;1,50;True
+11411;2025-10-20 11:11;Latte Macchiato;coffee;1;2,80;False
+11412;2025-10-20 11:12;Muffin;food;1;2,20;True
+11412;2025-10-20 11:12;Espresso;coffee;1;1,10;True
+11413;2025-10-20 11:33;Espresso;coffee;1;1,10;False
+11414;2025-10-20 11:37;Muffin;food;3;2,20;False
+11414;2025-10-20 11:37;Water;drink;1;1,40;False
+11415;2025-10-20 11:43;Latte Macchiato;coffee;1;2,80;True
+11416;2025-10-20 11:45;Water;drink;1;1,40;False
+11417;2025-10-20 11:52;Latte Macchiato;coffee;1;2,80;False
+11418;2025-10-20 11:54;Pretzel;food;1;1,20;True
+11419;2025-10-20 12:00;Tea;drink;1;1,50;True
+11420;2025-10-20 12:03;Water;drink;1;1,40;True
+11420;2025-10-20 12:03;Muffin;food;1;2,20;True
+11421;2025-10-20 12:05;Cappuccino;coffee;1;2,40;True
+11422;2025-10-20 12:10;Cappuccino;coffee;1;2,40;True
+11423;2025-10-20 12:16;Pretzel;food;1;1,20;True
+11424;2025-10-20 12:17;Sandwich;food;1;3,90;True
+11424;2025-10-20 12:17;Water;drink;2;1,40;True
+11425;2025-10-20 12:18;Muffin;food;1;2,20;True
+11425;2025-10-20 12:18;Pretzel;food;1;1,20;True
+11426;2025-10-20 12:20;Cappuccino;coffee;2;2,40;True
+11426;2025-10-20 12:20;Croissant;food;1;1,80;True
+11427;2025-10-20 12:24;Cappuccino;coffee;1;2,40;True
+11427;2025-10-20 12:24;Pretzel;food;1;1,20;True
+11428;2025-10-20 12:24;Sandwich;food;1;3,90;False
+11428;2025-10-20 12:24;Latte Macchiato;coffee;1;2,80;False
+11429;2025-10-20 12:24;Croissant;food;1;1,80;True
+11430;2025-10-20 12:24;Cappuccino;coffee;1;2,40;True
+11431;2025-10-20 12:27;Water;drink;2;1,40;False
+11431;2025-10-20 12:27;Espresso;coffee;2;1,10;False
+11432;2025-10-20 12:30;Sandwich;food;2;3,90;False
+11432;2025-10-20 12:30;Croissant;food;1;1,80;False
+11433;2025-10-20 12:30;Sandwich;food;1;3,90;True
+11433;2025-10-20 12:30;Pretzel;food;1;1,20;True
+11434;2025-10-20 12:33;Sandwich;food;1;3,90;False
+11434;2025-10-20 12:33;Water;drink;2;1,40;False
+11435;2025-10-20 12:45;Water;drink;1;1,40;True
+11436;2025-10-20 12:48;Espresso;coffee;1;1,10;True
+11437;2025-10-20 12:49;Pretzel;food;1;1,20;True
+11438;2025-10-20 12:58;Croissant;food;1;1,80;False
+11439;2025-10-20 12:59;Croissant;food;1;1,80;False
+11439;2025-10-20 12:59;Sandwich;food;1;3,90;False
+11440;2025-10-20 13:00;Croissant;food;1;1,80;True
+11441;2025-10-20 13:01;Sandwich;food;1;3,90;True
+11441;2025-10-20 13:01;Cappuccino;coffee;1;2,40;True
+11442;2025-10-20 13:02;Croissant;food;1;1,80;True
+11442;2025-10-20 13:02;Espresso;coffee;1;1,10;True
+11443;2025-10-20 13:07;Pretzel;food;1;1,20;True
+11444;2025-10-20 13:08;Sandwich;food;1;3,90;True
+11445;2025-10-20 13:08;Pretzel;food;1;1,20;True
+11445;2025-10-20 13:08;Filter Coffee;coffee;2;1,60;True
+11446;2025-10-20 13:10;Espresso;coffee;1;1,10;True
+11446;2025-10-20 13:10;Water;drink;1;1,40;True
+11447;2025-10-20 13:13;Espresso;coffee;1;1,10;False
+11447;2025-10-20 13:13;Sandwich;food;1;3,90;False
+11448;2025-10-20 13:16;Filter Coffee;coffee;1;1,60;True
+11449;2025-10-20 13:24;Filter Coffee;coffee;2;1,60;True
+11450;2025-10-20 13:26;Latte Macchiato;coffee;1;2,80;True
+11450;2025-10-20 13:26;Sandwich;food;1;3,90;True
+11451;2025-10-20 13:28;Cappuccino;coffee;1;2,40;True
+11452;2025-10-20 13:28;Tea;drink;1;1,50;True
+11452;2025-10-20 13:28;Hot Chocolate;drink;1;2,50;True
+11453;2025-10-20 13:29;Muffin;food;1;2,20;False
+11453;2025-10-20 13:29;Tea;drink;1;1,50;False
+11454;2025-10-20 13:34;Water;drink;2;1,40;False
+11455;2025-10-20 13:36;Latte Macchiato;coffee;1;2,80;True
+11456;2025-10-20 13:38;Sandwich;food;2;3,90;False
+11457;2025-10-20 13:40;Espresso;coffee;2;1,10;True
+11458;2025-10-20 13:41;Filter Coffee;coffee;1;1,60;True
+11459;2025-10-20 13:45;Pretzel;food;1;1,20;False
+11459;2025-10-20 13:45;Espresso;coffee;1;1,10;False
+11460;2025-10-20 13:59;Water;drink;2;1,40;True
+11461;2025-10-20 14:02;Latte Macchiato;coffee;1;2,80;True
+11462;2025-10-20 14:07;Hot Chocolate;drink;1;2,50;True
+11463;2025-10-20 14:23;Tea;drink;1;1,50;True
+11463;2025-10-20 14:23;Latte Macchiato;coffee;1;2,80;True
+11464;2025-10-20 14:24;Tea;drink;1;1,50;False
+11464;2025-10-20 14:24;Muffin;food;1;2,20;False
+11464;2025-10-20 14:24;Latte Macchiato;coffee;1;2,80;False
+11465;2025-10-20 14:27;Muffin;food;1;2,20;False
+11466;2025-10-20 14:28;Tea;drink;1;1,50;True
+11467;2025-10-20 14:31;Croissant;food;1;1,80;False
+11467;2025-10-20 14:31;Cappuccino;coffee;1;2,40;False
+11468;2025-10-20 14:56;Filter Coffee;coffee;2;1,60;True
+11468;2025-10-20 14:56;Latte Macchiato;coffee;1;2,80;True
+11469;2025-10-20 14:59;Sandwich;food;1;3,90;True
+11470;2025-10-20 15:08;Latte Macchiato;coffee;1;2,80;True
+11471;2025-10-20 15:16;Espresso;coffee;1;1,10;True
+11471;2025-10-20 15:16;Tea;drink;1;1,50;True
+11472;2025-10-20 15:17;Muffin;food;1;2,20;False
+11472;2025-10-20 15:17;Cappuccino;coffee;1;2,40;False
+11473;2025-10-20 15:21;Water;drink;1;1,40;False
+11474;2025-10-20 15:23;Muffin;food;1;2,20;True
+11474;2025-10-20 15:23;Latte Macchiato;coffee;1;2,80;True
+11474;2025-10-20 15:23;Water;drink;1;1,40;True
+11475;2025-10-20 15:31;Cappuccino;coffee;1;2,40;False
+11476;2025-10-20 15:34;Latte Macchiato;coffee;1;2,80;False
+11476;2025-10-20 15:34;Cappuccino;coffee;1;2,40;False
+11477;2025-10-20 15:39;Espresso;coffee;1;1,10;True
+11478;2025-10-20 15:45;Cappuccino;coffee;1;2,40;True
+11478;2025-10-20 15:45;Espresso;coffee;3;1,10;True
+11479;2025-10-20 15:48;Espresso;coffee;2;1,10;True
+11480;2025-10-20 15:49;Muffin;food;1;2,20;False
+11480;2025-10-20 15:49;Tea;drink;1;1,50;False
+11481;2025-10-20 15:56;Muffin;food;1;2,20;False
+11481;2025-10-20 15:56;Latte Macchiato;coffee;1;2,80;False
+11482;2025-10-20 16:13;Hot Chocolate;drink;1;2,50;True
+11483;2025-10-20 16:21;Cappuccino;coffee;1;2,40;True
+11484;2025-10-20 16:25;Espresso;coffee;1;1,10;True
+11484;2025-10-20 16:25;Muffin;food;1;2,20;True
+11485;2025-10-20 16:27;Cappuccino;coffee;1;2,40;True
+11486;2025-10-20 16:35;Espresso;coffee;1;1,10;True
+11487;2025-10-21 07:56;Espresso;coffee;1;1,10;True
+11488;2025-10-21 07:58;Sandwich;food;2;3,90;True
+11488;2025-10-21 07:58;Croissant;food;1;1,80;True
+11489;2025-10-21 08:00;Croissant;food;1;1,80;True
+11490;2025-10-21 08:03;Croissant;food;1;1,80;False
+11490;2025-10-21 08:03;Cappuccino;coffee;2;2,40;False
+11490;2025-10-21 08:03;Espresso;coffee;1;1,10;False
+11491;2025-10-21 08:08;Cappuccino;coffee;1;2,40;True
+11492;2025-10-21 08:24;Filter Coffee;coffee;1;1,60;True
+11492;2025-10-21 08:24;Latte Macchiato;coffee;1;2,80;True
+11492;2025-10-21 08:24;Espresso;coffee;1;1,10;True
+11493;2025-10-21 08:26;Hot Chocolate;drink;1;2,50;False
+11494;2025-10-21 08:29;Croissant;food;1;1,80;False
+11495;2025-10-21 08:30;Latte Macchiato;coffee;1;2,80;False
+11496;2025-10-21 08:35;Sandwich;food;1;3,90;True
+11497;2025-10-21 08:37;Filter Coffee;coffee;1;1,60;True
+11497;2025-10-21 08:37;Croissant;food;2;1,80;True
+11498;2025-10-21 08:42;Espresso;coffee;1;1,10;False
+11498;2025-10-21 08:42;Croissant;food;1;1,80;False
+11499;2025-10-21 08:43;Pretzel;food;1;1,20;True
+11500;2025-10-21 08:46;Muffin;food;1;2,20;True
+11500;2025-10-21 08:46;Sandwich;food;1;3,90;True
+11500;2025-10-21 08:46;Cappuccino;coffee;1;2,40;True
+11501;2025-10-21 08:48;Cappuccino;coffee;1;2,40;True
+11502;2025-10-21 08:49;Croissant;food;1;1,80;True
+11502;2025-10-21 08:49;Espresso;coffee;1;1,10;True
+11503;2025-10-21 08:49;Water;drink;1;1,40;True
+11503;2025-10-21 08:49;Espresso;coffee;1;1,10;True
+11503;2025-10-21 08:49;Croissant;food;1;1,80;True
+11504;2025-10-21 08:52;Pretzel;food;1;1,20;False
+11505;2025-10-21 09:04;Filter Coffee;coffee;1;1,60;True
+11505;2025-10-21 09:04;Tea;drink;1;1,50;True
+11506;2025-10-21 09:15;Pretzel;food;1;1,20;True
+11506;2025-10-21 09:15;Cappuccino;coffee;1;2,40;True
+11506;2025-10-21 09:15;Croissant;food;1;1,80;True
+11507;2025-10-21 09:15;Cappuccino;coffee;1;2,40;True
+11507;2025-10-21 09:15;Latte Macchiato;coffee;1;2,80;True
+11508;2025-10-21 09:17;Hot Chocolate;drink;1;2,50;True
+11508;2025-10-21 09:17;Espresso;coffee;1;1,10;True
+11509;2025-10-21 09:18;Cappuccino;coffee;1;2,40;True
+11509;2025-10-21 09:18;Latte Macchiato;coffee;1;2,80;True
+11510;2025-10-21 09:23;Pretzel;food;1;1,20;True
+11511;2025-10-21 09:26;Cappuccino;coffee;1;2,40;False
+11512;2025-10-21 09:26;Croissant;food;1;1,80;True
+11513;2025-10-21 09:32;Croissant;food;1;1,80;False
+11513;2025-10-21 09:32;Cappuccino;coffee;1;2,40;False
+11514;2025-10-21 09:33;Filter Coffee;coffee;1;1,60;True
+11515;2025-10-21 09:44;Croissant;food;1;1,80;True
+11516;2025-10-21 09:50;Croissant;food;1;1,80;True
+11516;2025-10-21 09:50;Pretzel;food;2;1,20;True
+11517;2025-10-21 09:50;Filter Coffee;coffee;1;1,60;False
+11518;2025-10-21 09:55;Filter Coffee;coffee;1;1,60;True
+11519;2025-10-21 10:01;Pretzel;food;1;1,20;True
+11520;2025-10-21 10:02;Pretzel;food;1;1,20;True
+11520;2025-10-21 10:02;Filter Coffee;coffee;1;1,60;True
+11521;2025-10-21 10:07;Filter Coffee;coffee;1;1,60;False
+11522;2025-10-21 10:20;Pretzel;food;1;1,20;False
+11523;2025-10-21 10:21;Water;drink;1;1,40;True
+11523;2025-10-21 10:21;Latte Macchiato;coffee;1;2,80;True
+11524;2025-10-21 10:22;Espresso;coffee;1;1,10;False
+11525;2025-10-21 10:23;Cappuccino;coffee;2;2,40;True
+11526;2025-10-21 10:31;Tea;drink;1;1,50;False
+11526;2025-10-21 10:31;Cappuccino;coffee;2;2,40;False
+11527;2025-10-21 10:33;Espresso;coffee;1;1,10;True
+11528;2025-10-21 10:41;Croissant;food;1;1,80;True
+11528;2025-10-21 10:41;Espresso;coffee;1;1,10;True
+11529;2025-10-21 10:44;Filter Coffee;coffee;1;1,60;True
+11530;2025-10-21 10:50;Latte Macchiato;coffee;1;2,80;False
+11530;2025-10-21 10:50;Filter Coffee;coffee;1;1,60;False
+11531;2025-10-21 10:52;Muffin;food;1;2,20;False
+11532;2025-10-21 10:56;Filter Coffee;coffee;1;1,60;True
+11532;2025-10-21 10:56;Latte Macchiato;coffee;1;2,80;True
+11533;2025-10-21 11:02;Cappuccino;coffee;1;2,40;True
+11533;2025-10-21 11:02;Sandwich;food;1;3,90;True
+11533;2025-10-21 11:02;Pretzel;food;1;1,20;True
+11534;2025-10-21 11:05;Sandwich;food;1;3,90;True
+11534;2025-10-21 11:05;Espresso;coffee;2;1,10;True
+11535;2025-10-21 11:10;Cappuccino;coffee;1;2,40;True
+11536;2025-10-21 11:15;Pretzel;food;1;1,20;True
+11537;2025-10-21 11:16;Latte Macchiato;coffee;1;2,80;False
+11538;2025-10-21 11:24;Latte Macchiato;coffee;1;2,80;False
+11538;2025-10-21 11:24;Muffin;food;3;2,20;False
+11539;2025-10-21 11:26;Muffin;food;1;2,20;True
+11539;2025-10-21 11:26;Cappuccino;coffee;2;2,40;True
+11540;2025-10-21 11:28;Tea;drink;1;1,50;True
+11540;2025-10-21 11:28;Sandwich;food;1;3,90;True
+11540;2025-10-21 11:28;Water;drink;1;1,40;True
+11541;2025-10-21 11:35;Cappuccino;coffee;1;2,40;True
+11541;2025-10-21 11:35;Pretzel;food;1;1,20;True
+11541;2025-10-21 11:35;Muffin;food;1;2,20;True
+11542;2025-10-21 11:35;Muffin;food;1;2,20;True
+11543;2025-10-21 11:37;Cappuccino;coffee;1;2,40;False
+11544;2025-10-21 11:41;Sandwich;food;2;3,90;True
+11544;2025-10-21 11:41;Latte Macchiato;coffee;1;2,80;True
+11544;2025-10-21 11:41;Cappuccino;coffee;1;2,40;True
+11545;2025-10-21 11:44;Espresso;coffee;1;1,10;True
+11546;2025-10-21 11:49;Sandwich;food;1;3,90;True
+11547;2025-10-21 11:53;Sandwich;food;1;3,90;False
+11547;2025-10-21 11:53;Water;drink;1;1,40;False
+11548;2025-10-21 11:54;Muffin;food;3;2,20;True
+11549;2025-10-21 11:56;Hot Chocolate;drink;1;2,50;True
+11549;2025-10-21 11:56;Water;drink;1;1,40;True
+11549;2025-10-21 11:56;Croissant;food;1;1,80;True
+11550;2025-10-21 11:59;Sandwich;food;1;3,90;True
+11551;2025-10-21 12:00;Filter Coffee;coffee;1;1,60;True
+11552;2025-10-21 12:00;Water;drink;1;1,40;True
+11552;2025-10-21 12:00;Pretzel;food;1;1,20;True
+11553;2025-10-21 12:01;Pretzel;food;1;1,20;True
+11553;2025-10-21 12:01;Water;drink;1;1,40;True
+11554;2025-10-21 12:08;Filter Coffee;coffee;1;1,60;True
+11554;2025-10-21 12:08;Pretzel;food;1;1,20;True
+11555;2025-10-21 12:08;Filter Coffee;coffee;1;1,60;True
+11556;2025-10-21 12:09;Muffin;food;1;2,20;True
+11557;2025-10-21 12:15;Sandwich;food;1;3,90;True
+11557;2025-10-21 12:15;Cappuccino;coffee;1;2,40;True
+11558;2025-10-21 12:21;Espresso;coffee;1;1,10;True
+11558;2025-10-21 12:21;Sandwich;food;1;3,90;True
+11559;2025-10-21 12:24;Latte Macchiato;coffee;1;2,80;False
+11560;2025-10-21 12:24;Cappuccino;coffee;1;2,40;True
+11561;2025-10-21 12:28;Sandwich;food;1;3,90;True
+11562;2025-10-21 12:31;Latte Macchiato;coffee;1;2,80;True
+11562;2025-10-21 12:31;Sandwich;food;1;3,90;True
+11562;2025-10-21 12:31;Pretzel;food;1;1,20;True
+11563;2025-10-21 12:35;Espresso;coffee;1;1,10;True
+11564;2025-10-21 12:38;Muffin;food;1;2,20;False
+11565;2025-10-21 12:39;Muffin;food;2;2,20;True
+11565;2025-10-21 12:39;Cappuccino;coffee;1;2,40;True
+11566;2025-10-21 12:39;Sandwich;food;1;3,90;True
+11566;2025-10-21 12:39;Cappuccino;coffee;1;2,40;True
+11567;2025-10-21 12:40;Sandwich;food;1;3,90;True
+11568;2025-10-21 12:42;Filter Coffee;coffee;1;1,60;True
+11568;2025-10-21 12:42;Sandwich;food;1;3,90;True
+11569;2025-10-21 12:44;Water;drink;1;1,40;True
+11570;2025-10-21 12:44;Sandwich;food;1;3,90;True
+11570;2025-10-21 12:44;Filter Coffee;coffee;1;1,60;True
+11571;2025-10-21 12:53;Espresso;coffee;1;1,10;False
+11572;2025-10-21 12:56;Sandwich;food;1;3,90;True
+11573;2025-10-21 12:57;Muffin;food;3;2,20;False
+11574;2025-10-21 13:02;Sandwich;food;1;3,90;True
+11574;2025-10-21 13:02;Cappuccino;coffee;1;2,40;True
+11574;2025-10-21 13:02;Muffin;food;1;2,20;True
+11575;2025-10-21 13:03;Tea;drink;2;1,50;True
+11575;2025-10-21 13:03;Croissant;food;1;1,80;True
+11576;2025-10-21 13:04;Espresso;coffee;1;1,10;False
+11577;2025-10-21 13:12;Filter Coffee;coffee;1;1,60;True
+11578;2025-10-21 13:21;Espresso;coffee;1;1,10;True
+11578;2025-10-21 13:21;Water;drink;1;1,40;True
+11579;2025-10-21 13:22;Cappuccino;coffee;1;2,40;True
+11580;2025-10-21 13:27;Cappuccino;coffee;1;2,40;False
+11580;2025-10-21 13:27;Filter Coffee;coffee;1;1,60;False
+11580;2025-10-21 13:27;Sandwich;food;1;3,90;False
+11581;2025-10-21 13:28;Sandwich;food;1;3,90;False
+11582;2025-10-21 13:30;Cappuccino;coffee;1;2,40;True
+11583;2025-10-21 13:35;Muffin;food;1;2,20;False
+11584;2025-10-21 13:35;Croissant;food;1;1,80;False
+11585;2025-10-21 13:39;Croissant;food;1;1,80;False
+11586;2025-10-21 13:39;Sandwich;food;1;3,90;True
+11587;2025-10-21 13:48;Espresso;coffee;1;1,10;True
+11587;2025-10-21 13:48;Cappuccino;coffee;1;2,40;True
+11588;2025-10-21 14:10;Tea;drink;1;1,50;True
+11589;2025-10-21 14:36;Hot Chocolate;drink;1;2,50;False
+11589;2025-10-21 14:36;Muffin;food;2;2,20;False
+11590;2025-10-21 14:38;Cappuccino;coffee;1;2,40;True
+11590;2025-10-21 14:38;Espresso;coffee;1;1,10;True
+11591;2025-10-21 14:43;Espresso;coffee;2;1,10;True
+11592;2025-10-21 14:50;Croissant;food;1;1,80;True
+11593;2025-10-21 14:55;Cappuccino;coffee;1;2,40;True
+11594;2025-10-21 15:00;Latte Macchiato;coffee;1;2,80;False
+11595;2025-10-21 15:22;Pretzel;food;1;1,20;True
+11596;2025-10-21 15:31;Water;drink;1;1,40;True
+11596;2025-10-21 15:31;Muffin;food;1;2,20;True
+11597;2025-10-21 15:52;Tea;drink;1;1,50;True
+11598;2025-10-21 15:53;Cappuccino;coffee;1;2,40;False
+11599;2025-10-21 16:05;Espresso;coffee;1;1,10;True
+11600;2025-10-21 16:07;Espresso;coffee;1;1,10;True
+11600;2025-10-21 16:07;Cappuccino;coffee;1;2,40;True
+11601;2025-10-21 16:10;Water;drink;1;1,40;True
+11601;2025-10-21 16:10;Croissant;food;1;1,80;True
+11602;2025-10-21 16:20;Latte Macchiato;coffee;1;2,80;False
+11603;2025-10-21 16:23;Hot Chocolate;drink;2;2,50;True
+11604;2025-10-21 16:38;Espresso;coffee;1;1,10;True
+11605;2025-10-21 16:39;Muffin;food;1;2,20;True
+11605;2025-10-21 16:39;Latte Macchiato;coffee;1;2,80;True
+11606;2025-10-21 16:40;Tea;drink;1;1,50;True
+11606;2025-10-21 16:40;Latte Macchiato;coffee;1;2,80;True
+11606;2025-10-21 16:40;Muffin;food;1;2,20;True
+11607;2025-10-21 16:56;Filter Coffee;coffee;1;1,60;True
+11608;2025-10-22 07:30;Croissant;food;1;1,80;True
+11609;2025-10-22 07:34;Cappuccino;coffee;1;2,40;True
+11610;2025-10-22 07:41;Filter Coffee;coffee;1;1,60;False
+11611;2025-10-22 08:02;Cappuccino;coffee;1;2,40;True
+11612;2025-10-22 08:02;Croissant;food;3;1,80;True
+11613;2025-10-22 08:03;Water;drink;1;1,40;True
+11614;2025-10-22 08:04;Espresso;coffee;3;1,10;True
+11614;2025-10-22 08:04;Cappuccino;coffee;1;2,40;True
+11615;2025-10-22 08:04;Muffin;food;1;2,20;False
+11615;2025-10-22 08:04;Pretzel;food;1;1,20;False
+11616;2025-10-22 08:05;Cappuccino;coffee;1;2,40;True
+11617;2025-10-22 08:11;Cappuccino;coffee;1;2,40;True
+11618;2025-10-22 08:11;Latte Macchiato;coffee;1;2,80;False
+11619;2025-10-22 08:17;Espresso;coffee;1;1,10;True
+11620;2025-10-22 08:24;Sandwich;food;1;3,90;True
+11621;2025-10-22 08:24;Latte Macchiato;coffee;2;2,80;True
+11621;2025-10-22 08:24;Espresso;coffee;1;1,10;True
+11622;2025-10-22 08:28;Croissant;food;1;1,80;False
+11622;2025-10-22 08:28;Filter Coffee;coffee;1;1,60;False
+11623;2025-10-22 08:29;Sandwich;food;1;3,90;True
+11624;2025-10-22 08:29;Filter Coffee;coffee;1;1,60;True
+11624;2025-10-22 08:29;Pretzel;food;1;1,20;True
+11624;2025-10-22 08:29;Water;drink;1;1,40;True
+11625;2025-10-22 08:34;Muffin;food;1;2,20;True
+11625;2025-10-22 08:34;Pretzel;food;1;1,20;True
+11625;2025-10-22 08:34;Hot Chocolate;drink;1;2,50;True
+11626;2025-10-22 08:45;Water;drink;1;1,40;True
+11626;2025-10-22 08:45;Cappuccino;coffee;1;2,40;True
+11627;2025-10-22 08:47;Croissant;food;1;1,80;True
+11627;2025-10-22 08:47;Espresso;coffee;1;1,10;True
+11627;2025-10-22 08:47;Hot Chocolate;drink;1;2,50;True
+11628;2025-10-22 08:50;Croissant;food;2;1,80;False
+11629;2025-10-22 08:53;Pretzel;food;1;1,20;True
+11630;2025-10-22 09:04;Cappuccino;coffee;1;2,40;True
+11630;2025-10-22 09:04;Muffin;food;2;2,20;True
+11630;2025-10-22 09:04;Filter Coffee;coffee;1;1,60;True
+11631;2025-10-22 09:04;Filter Coffee;coffee;1;1,60;True
+11631;2025-10-22 09:04;Croissant;food;1;1,80;True
+11632;2025-10-22 09:06;Latte Macchiato;coffee;2;2,80;True
+11632;2025-10-22 09:06;Filter Coffee;coffee;1;1,60;True
+11633;2025-10-22 09:06;Croissant;food;1;1,80;True
+11633;2025-10-22 09:06;Pretzel;food;1;1,20;True
+11634;2025-10-22 09:08;Filter Coffee;coffee;1;1,60;True
+11635;2025-10-22 09:16;Espresso;coffee;1;1,10;True
+11635;2025-10-22 09:16;Sandwich;food;2;3,90;True
+11636;2025-10-22 09:16;Muffin;food;1;2,20;True
+11636;2025-10-22 09:16;Croissant;food;1;1,80;True
+11637;2025-10-22 09:18;Pretzel;food;1;1,20;True
+11637;2025-10-22 09:18;Cappuccino;coffee;1;2,40;True
+11637;2025-10-22 09:18;Filter Coffee;coffee;1;1,60;True
+11638;2025-10-22 09:22;Latte Macchiato;coffee;1;2,80;True
+11638;2025-10-22 09:22;Cappuccino;coffee;1;2,40;True
+11638;2025-10-22 09:22;Espresso;coffee;1;1,10;True
+11639;2025-10-22 09:24;Espresso;coffee;1;1,10;False
+11640;2025-10-22 09:28;Pretzel;food;1;1,20;True
+11641;2025-10-22 09:30;Latte Macchiato;coffee;1;2,80;False
+11641;2025-10-22 09:30;Filter Coffee;coffee;1;1,60;False
+11642;2025-10-22 09:30;Espresso;coffee;1;1,10;False
+11643;2025-10-22 09:40;Latte Macchiato;coffee;1;2,80;False
+11644;2025-10-22 09:46;Cappuccino;coffee;1;2,40;True
+11645;2025-10-22 09:49;Espresso;coffee;1;1,10;True
+11645;2025-10-22 09:49;Cappuccino;coffee;1;2,40;True
+11646;2025-10-22 09:56;Cappuccino;coffee;1;2,40;True
+11646;2025-10-22 09:56;Croissant;food;1;1,80;True
+11647;2025-10-22 09:58;Espresso;coffee;2;1,10;False
+11648;2025-10-22 10:04;Pretzel;food;1;1,20;True
+11648;2025-10-22 10:04;Filter Coffee;coffee;2;1,60;True
+11649;2025-10-22 10:08;Filter Coffee;coffee;1;1,60;True
+11650;2025-10-22 10:20;Filter Coffee;coffee;1;1,60;False
+11650;2025-10-22 10:20;Water;drink;1;1,40;False
+11651;2025-10-22 10:24;Espresso;coffee;1;1,10;True
+11652;2025-10-22 10:27;Filter Coffee;coffee;2;1,60;True
+11653;2025-10-22 10:28;Cappuccino;coffee;1;2,40;True
+11654;2025-10-22 10:39;Espresso;coffee;1;1,10;False
+11654;2025-10-22 10:39;Croissant;food;1;1,80;False
+11654;2025-10-22 10:39;Hot Chocolate;drink;1;2,50;False
+11655;2025-10-22 10:46;Croissant;food;1;1,80;True
+11656;2025-10-22 11:00;Cappuccino;coffee;1;2,40;True
+11657;2025-10-22 11:07;Espresso;coffee;1;1,10;True
+11658;2025-10-22 12:01;Pretzel;food;1;1,20;True
+11659;2025-10-22 12:01;Sandwich;food;1;3,90;True
+11659;2025-10-22 12:01;Muffin;food;1;2,20;True
+11660;2025-10-22 12:01;Muffin;food;1;2,20;True
+11660;2025-10-22 12:01;Espresso;coffee;1;1,10;True
+11661;2025-10-22 12:02;Latte Macchiato;coffee;1;2,80;False
+11661;2025-10-22 12:02;Cappuccino;coffee;1;2,40;False
+11662;2025-10-22 12:02;Latte Macchiato;coffee;1;2,80;True
+11663;2025-10-22 12:04;Cappuccino;coffee;1;2,40;True
+11664;2025-10-22 12:07;Espresso;coffee;2;1,10;True
+11664;2025-10-22 12:07;Tea;drink;1;1,50;True
+11665;2025-10-22 12:13;Sandwich;food;2;3,90;True
+11665;2025-10-22 12:13;Latte Macchiato;coffee;1;2,80;True
+11665;2025-10-22 12:13;Pretzel;food;1;1,20;True
+11666;2025-10-22 12:16;Sandwich;food;1;3,90;True
+11666;2025-10-22 12:16;Espresso;coffee;1;1,10;True
+11666;2025-10-22 12:16;Cappuccino;coffee;1;2,40;True
+11667;2025-10-22 12:17;Cappuccino;coffee;1;2,40;False
+11667;2025-10-22 12:17;Pretzel;food;1;1,20;False
+11668;2025-10-22 12:18;Filter Coffee;coffee;1;1,60;False
+11669;2025-10-22 12:19;Sandwich;food;1;3,90;True
+11670;2025-10-22 12:23;Sandwich;food;1;3,90;True
+11671;2025-10-22 12:26;Sandwich;food;1;3,90;True
+11671;2025-10-22 12:26;Water;drink;1;1,40;True
+11672;2025-10-22 12:27;Latte Macchiato;coffee;1;2,80;True
+11672;2025-10-22 12:27;Espresso;coffee;1;1,10;True
+11673;2025-10-22 12:34;Sandwich;food;1;3,90;True
+11673;2025-10-22 12:34;Cappuccino;coffee;1;2,40;True
+11674;2025-10-22 12:35;Croissant;food;1;1,80;True
+11674;2025-10-22 12:35;Water;drink;1;1,40;True
+11675;2025-10-22 12:40;Water;drink;3;1,40;True
+11676;2025-10-22 12:46;Sandwich;food;2;3,90;True
+11676;2025-10-22 12:46;Latte Macchiato;coffee;1;2,80;True
+11677;2025-10-22 12:47;Water;drink;1;1,40;True
+11677;2025-10-22 12:47;Cappuccino;coffee;1;2,40;True
+11678;2025-10-22 12:49;Cappuccino;coffee;2;2,40;True
+11679;2025-10-22 12:51;Sandwich;food;1;3,90;True
+11680;2025-10-22 12:55;Sandwich;food;2;3,90;True
+11681;2025-10-22 12:55;Muffin;food;2;2,20;False
+11682;2025-10-22 12:56;Sandwich;food;1;3,90;True
+11683;2025-10-22 12:58;Water;drink;1;1,40;True
+11684;2025-10-22 13:05;Water;drink;1;1,40;True
+11685;2025-10-22 13:10;Pretzel;food;1;1,20;True
+11686;2025-10-22 13:13;Muffin;food;1;2,20;True
+11686;2025-10-22 13:13;Sandwich;food;1;3,90;True
+11687;2025-10-22 13:17;Cappuccino;coffee;1;2,40;False
+11688;2025-10-22 13:18;Sandwich;food;1;3,90;True
+11689;2025-10-22 13:20;Cappuccino;coffee;1;2,40;False
+11690;2025-10-22 13:36;Cappuccino;coffee;1;2,40;True
+11691;2025-10-22 13:45;Pretzel;food;1;1,20;False
+11691;2025-10-22 13:45;Espresso;coffee;1;1,10;False
+11692;2025-10-22 13:48;Croissant;food;1;1,80;True
+11692;2025-10-22 13:48;Filter Coffee;coffee;2;1,60;True
+11693;2025-10-22 13:54;Water;drink;1;1,40;True
+11694;2025-10-22 13:54;Tea;drink;1;1,50;False
+11695;2025-10-22 13:55;Filter Coffee;coffee;1;1,60;True
+11695;2025-10-22 13:55;Water;drink;1;1,40;True
+11695;2025-10-22 13:55;Croissant;food;1;1,80;True
+11696;2025-10-22 13:58;Cappuccino;coffee;1;2,40;True
+11696;2025-10-22 13:58;Water;drink;1;1,40;True
+11697;2025-10-22 13:59;Sandwich;food;1;3,90;True
+11698;2025-10-22 14:13;Water;drink;1;1,40;True
+11699;2025-10-22 14:16;Cappuccino;coffee;1;2,40;True
+11700;2025-10-22 14:18;Pretzel;food;1;1,20;True
+11701;2025-10-22 14:22;Hot Chocolate;drink;1;2,50;True
+11702;2025-10-22 14:24;Sandwich;food;2;3,90;True
+11703;2025-10-22 14:29;Latte Macchiato;coffee;1;2,80;True
+11703;2025-10-22 14:29;Cappuccino;coffee;1;2,40;True
+11703;2025-10-22 14:29;Sandwich;food;1;3,90;True
+11704;2025-10-22 14:49;Espresso;coffee;1;1,10;True
+11705;2025-10-22 14:52;Pretzel;food;1;1,20;True
+11705;2025-10-22 14:52;Cappuccino;coffee;1;2,40;True
+11706;2025-10-22 14:55;Latte Macchiato;coffee;2;2,80;True
+11707;2025-10-22 15:04;Espresso;coffee;1;1,10;True
+11707;2025-10-22 15:04;Water;drink;1;1,40;True
+11708;2025-10-22 15:13;Latte Macchiato;coffee;1;2,80;True
+11709;2025-10-22 15:14;Pretzel;food;1;1,20;False
+11710;2025-10-22 15:18;Latte Macchiato;coffee;1;2,80;True
+11711;2025-10-22 15:22;Sandwich;food;1;3,90;False
+11711;2025-10-22 15:22;Espresso;coffee;1;1,10;False
+11712;2025-10-22 15:31;Espresso;coffee;1;1,10;True
+11712;2025-10-22 15:31;Sandwich;food;1;3,90;True
+11713;2025-10-22 15:35;Latte Macchiato;coffee;1;2,80;True
+11713;2025-10-22 15:35;Muffin;food;1;2,20;True
+11713;2025-10-22 15:35;Cappuccino;coffee;1;2,40;True
+11714;2025-10-22 15:38;Filter Coffee;coffee;1;1,60;True
+11715;2025-10-22 15:39;Tea;drink;1;1,50;True
+11715;2025-10-22 15:39;Espresso;coffee;1;1,10;True
+11716;2025-10-22 16:22;Filter Coffee;coffee;1;1,60;False
+11716;2025-10-22 16:22;Latte Macchiato;coffee;1;2,80;False
+11717;2025-10-22 16:52;Hot Chocolate;drink;1;2,50;False
+11717;2025-10-22 16:52;Muffin;food;1;2,20;False
+11718;2025-10-23 08:01;Cappuccino;coffee;1;2,40;False
+11718;2025-10-23 08:01;Latte Macchiato;coffee;1;2,80;False
+11719;2025-10-23 08:12;Cappuccino;coffee;1;2,40;True
+11719;2025-10-23 08:12;Pretzel;food;1;1,20;True
+11720;2025-10-23 08:13;Croissant;food;1;1,80;True
+11720;2025-10-23 08:13;Cappuccino;coffee;1;2,40;True
+11721;2025-10-23 08:13;Croissant;food;1;1,80;True
+11721;2025-10-23 08:13;Filter Coffee;coffee;1;1,60;True
+11721;2025-10-23 08:13;Hot Chocolate;drink;1;2,50;True
+11722;2025-10-23 08:15;Croissant;food;1;1,80;True
+11723;2025-10-23 08:16;Tea;drink;1;1,50;True
+11723;2025-10-23 08:16;Latte Macchiato;coffee;1;2,80;True
+11723;2025-10-23 08:16;Croissant;food;1;1,80;True
+11724;2025-10-23 08:16;Pretzel;food;1;1,20;True
+11724;2025-10-23 08:16;Croissant;food;1;1,80;True
+11725;2025-10-23 08:21;Sandwich;food;1;3,90;False
+11726;2025-10-23 08:29;Filter Coffee;coffee;1;1,60;False
+11727;2025-10-23 08:33;Tea;drink;1;1,50;False
+11728;2025-10-23 08:40;Cappuccino;coffee;1;2,40;True
+11728;2025-10-23 08:40;Filter Coffee;coffee;1;1,60;True
+11729;2025-10-23 08:41;Latte Macchiato;coffee;1;2,80;False
+11729;2025-10-23 08:41;Water;drink;1;1,40;False
+11729;2025-10-23 08:41;Croissant;food;1;1,80;False
+11730;2025-10-23 08:47;Filter Coffee;coffee;1;1,60;False
+11730;2025-10-23 08:47;Latte Macchiato;coffee;1;2,80;False
+11731;2025-10-23 08:48;Filter Coffee;coffee;1;1,60;True
+11732;2025-10-23 08:49;Sandwich;food;2;3,90;False
+11732;2025-10-23 08:49;Croissant;food;1;1,80;False
+11732;2025-10-23 08:49;Tea;drink;1;1,50;False
+11733;2025-10-23 08:53;Sandwich;food;1;3,90;True
+11733;2025-10-23 08:53;Filter Coffee;coffee;1;1,60;True
+11734;2025-10-23 08:59;Cappuccino;coffee;1;2,40;False
+11734;2025-10-23 08:59;Muffin;food;1;2,20;False
+11735;2025-10-23 09:00;Latte Macchiato;coffee;1;2,80;True
+11735;2025-10-23 09:00;Pretzel;food;1;1,20;True
+11736;2025-10-23 09:05;Croissant;food;1;1,80;True
+11737;2025-10-23 09:10;Pretzel;food;2;1,20;True
+11738;2025-10-23 09:17;Filter Coffee;coffee;1;1,60;True
+11738;2025-10-23 09:17;Croissant;food;1;1,80;True
+11738;2025-10-23 09:17;Pretzel;food;1;1,20;True
+11739;2025-10-23 09:22;Croissant;food;1;1,80;True
+11739;2025-10-23 09:22;Espresso;coffee;1;1,10;True
+11740;2025-10-23 09:25;Cappuccino;coffee;1;2,40;False
+11741;2025-10-23 09:34;Latte Macchiato;coffee;1;2,80;True
+11741;2025-10-23 09:34;Cappuccino;coffee;1;2,40;True
+11742;2025-10-23 09:53;Pretzel;food;1;1,20;True
+11742;2025-10-23 09:53;Croissant;food;2;1,80;True
+11742;2025-10-23 09:53;Espresso;coffee;1;1,10;True
+11743;2025-10-23 09:55;Muffin;food;1;2,20;True
+11744;2025-10-23 09:58;Cappuccino;coffee;1;2,40;False
+11745;2025-10-23 10:07;Filter Coffee;coffee;1;1,60;True
+11746;2025-10-23 10:14;Tea;drink;1;1,50;True
+11747;2025-10-23 10:19;Muffin;food;1;2,20;True
+11748;2025-10-23 10:21;Croissant;food;1;1,80;True
+11749;2025-10-23 10:36;Croissant;food;2;1,80;True
+11749;2025-10-23 10:36;Filter Coffee;coffee;1;1,60;True
+11750;2025-10-23 10:39;Cappuccino;coffee;1;2,40;True
+11751;2025-10-23 10:48;Latte Macchiato;coffee;1;2,80;True
+11751;2025-10-23 10:48;Tea;drink;1;1,50;True
+11752;2025-10-23 10:48;Croissant;food;1;1,80;True
+11753;2025-10-23 10:52;Croissant;food;1;1,80;True
+11754;2025-10-23 11:01;Pretzel;food;1;1,20;False
+11754;2025-10-23 11:01;Cappuccino;coffee;2;2,40;False
+11755;2025-10-23 11:05;Espresso;coffee;1;1,10;True
+11755;2025-10-23 11:05;Sandwich;food;1;3,90;True
+11756;2025-10-23 11:07;Muffin;food;1;2,20;True
+11756;2025-10-23 11:07;Sandwich;food;1;3,90;True
+11757;2025-10-23 11:11;Water;drink;1;1,40;False
+11757;2025-10-23 11:11;Tea;drink;1;1,50;False
+11758;2025-10-23 11:12;Cappuccino;coffee;1;2,40;True
+11759;2025-10-23 11:13;Sandwich;food;1;3,90;True
+11759;2025-10-23 11:13;Water;drink;1;1,40;True
+11760;2025-10-23 11:13;Water;drink;1;1,40;False
+11760;2025-10-23 11:13;Cappuccino;coffee;1;2,40;False
+11760;2025-10-23 11:13;Tea;drink;1;1,50;False
+11761;2025-10-23 11:15;Sandwich;food;1;3,90;True
+11761;2025-10-23 11:15;Cappuccino;coffee;1;2,40;True
+11762;2025-10-23 11:20;Cappuccino;coffee;1;2,40;True
+11763;2025-10-23 11:30;Pretzel;food;1;1,20;False
+11764;2025-10-23 11:41;Espresso;coffee;1;1,10;True
+11764;2025-10-23 11:41;Cappuccino;coffee;1;2,40;True
+11765;2025-10-23 11:43;Espresso;coffee;1;1,10;True
+11766;2025-10-23 11:44;Sandwich;food;1;3,90;True
+11766;2025-10-23 11:44;Muffin;food;1;2,20;True
+11767;2025-10-23 11:53;Sandwich;food;1;3,90;False
+11767;2025-10-23 11:53;Hot Chocolate;drink;1;2,50;False
+11767;2025-10-23 11:53;Pretzel;food;1;1,20;False
+11768;2025-10-23 12:00;Latte Macchiato;coffee;1;2,80;True
+11768;2025-10-23 12:00;Cappuccino;coffee;2;2,40;True
+11769;2025-10-23 12:04;Latte Macchiato;coffee;1;2,80;False
+11769;2025-10-23 12:04;Cappuccino;coffee;1;2,40;False
+11770;2025-10-23 12:04;Filter Coffee;coffee;1;1,60;False
+11771;2025-10-23 12:06;Sandwich;food;2;3,90;True
+11772;2025-10-23 12:07;Water;drink;2;1,40;False
+11773;2025-10-23 12:07;Sandwich;food;2;3,90;True
+11773;2025-10-23 12:07;Water;drink;1;1,40;True
+11773;2025-10-23 12:07;Cappuccino;coffee;1;2,40;True
+11774;2025-10-23 12:12;Sandwich;food;1;3,90;False
+11774;2025-10-23 12:12;Water;drink;1;1,40;False
+11774;2025-10-23 12:12;Cappuccino;coffee;2;2,40;False
+11775;2025-10-23 12:18;Water;drink;2;1,40;True
+11775;2025-10-23 12:18;Filter Coffee;coffee;1;1,60;True
+11776;2025-10-23 12:20;Water;drink;2;1,40;False
+11777;2025-10-23 12:25;Croissant;food;1;1,80;True
+11778;2025-10-23 12:26;Water;drink;1;1,40;True
+11779;2025-10-23 12:28;Filter Coffee;coffee;1;1,60;True
+11780;2025-10-23 12:30;Filter Coffee;coffee;1;1,60;False
+11781;2025-10-23 12:31;Croissant;food;1;1,80;True
+11781;2025-10-23 12:31;Muffin;food;1;2,20;True
+11782;2025-10-23 12:38;Latte Macchiato;coffee;2;2,80;True
+11782;2025-10-23 12:38;Sandwich;food;1;3,90;True
+11783;2025-10-23 12:39;Sandwich;food;1;3,90;False
+11784;2025-10-23 12:41;Sandwich;food;1;3,90;True
+11785;2025-10-23 12:45;Water;drink;1;1,40;True
+11785;2025-10-23 12:45;Sandwich;food;2;3,90;True
+11786;2025-10-23 12:47;Water;drink;1;1,40;True
+11787;2025-10-23 12:48;Hot Chocolate;drink;1;2,50;False
+11787;2025-10-23 12:48;Sandwich;food;1;3,90;False
+11788;2025-10-23 12:54;Espresso;coffee;2;1,10;True
+11788;2025-10-23 12:54;Sandwich;food;1;3,90;True
+11789;2025-10-23 13:03;Sandwich;food;1;3,90;True
+11790;2025-10-23 13:03;Water;drink;1;1,40;False
+11790;2025-10-23 13:03;Sandwich;food;1;3,90;False
+11790;2025-10-23 13:03;Cappuccino;coffee;1;2,40;False
+11791;2025-10-23 13:06;Water;drink;1;1,40;True
+11791;2025-10-23 13:06;Latte Macchiato;coffee;1;2,80;True
+11792;2025-10-23 13:06;Tea;drink;1;1,50;False
+11792;2025-10-23 13:06;Latte Macchiato;coffee;1;2,80;False
+11793;2025-10-23 13:09;Espresso;coffee;1;1,10;True
+11793;2025-10-23 13:09;Tea;drink;1;1,50;True
+11793;2025-10-23 13:09;Water;drink;1;1,40;True
+11794;2025-10-23 13:12;Hot Chocolate;drink;2;2,50;True
+11794;2025-10-23 13:12;Tea;drink;1;1,50;True
+11795;2025-10-23 13:13;Latte Macchiato;coffee;1;2,80;True
+11795;2025-10-23 13:13;Sandwich;food;1;3,90;True
+11796;2025-10-23 13:22;Muffin;food;1;2,20;True
+11797;2025-10-23 13:28;Muffin;food;3;2,20;True
+11798;2025-10-23 13:42;Croissant;food;1;1,80;True
+11798;2025-10-23 13:42;Sandwich;food;1;3,90;True
+11799;2025-10-23 13:45;Latte Macchiato;coffee;1;2,80;False
+11799;2025-10-23 13:45;Espresso;coffee;1;1,10;False
+11800;2025-10-23 13:46;Hot Chocolate;drink;1;2,50;False
+11801;2025-10-23 13:48;Pretzel;food;1;1,20;True
+11801;2025-10-23 13:48;Sandwich;food;1;3,90;True
+11802;2025-10-23 13:48;Latte Macchiato;coffee;1;2,80;True
+11803;2025-10-23 13:49;Hot Chocolate;drink;1;2,50;True
+11804;2025-10-23 13:49;Latte Macchiato;coffee;1;2,80;True
+11805;2025-10-23 13:50;Water;drink;1;1,40;False
+11805;2025-10-23 13:50;Pretzel;food;1;1,20;False
+11805;2025-10-23 13:50;Espresso;coffee;1;1,10;False
+11806;2025-10-23 13:54;Sandwich;food;1;3,90;True
+11807;2025-10-23 13:56;Sandwich;food;2;3,90;False
+11808;2025-10-23 14:03;Muffin;food;1;2,20;True
+11808;2025-10-23 14:03;Latte Macchiato;coffee;1;2,80;True
+11809;2025-10-23 14:05;Espresso;coffee;1;1,10;True
+11809;2025-10-23 14:05;Filter Coffee;coffee;1;1,60;True
+11810;2025-10-23 14:07;Water;drink;1;1,40;True
+11811;2025-10-23 14:09;Croissant;food;1;1,80;True
+11812;2025-10-23 14:16;Muffin;food;1;2,20;True
+11812;2025-10-23 14:16;Filter Coffee;coffee;1;1,60;True
+11812;2025-10-23 14:16;Cappuccino;coffee;2;2,40;True
+11813;2025-10-23 14:27;Tea;drink;1;1,50;False
+11813;2025-10-23 14:27;Espresso;coffee;1;1,10;False
+11814;2025-10-23 14:28;Water;drink;2;1,40;False
+11815;2025-10-23 14:36;Tea;drink;2;1,50;False
+11815;2025-10-23 14:36;Latte Macchiato;coffee;1;2,80;False
+11816;2025-10-23 14:36;Espresso;coffee;1;1,10;True
+11817;2025-10-23 14:46;Latte Macchiato;coffee;1;2,80;False
+11818;2025-10-23 15:02;Cappuccino;coffee;1;2,40;True
+11819;2025-10-23 15:05;Hot Chocolate;drink;1;2,50;True
+11819;2025-10-23 15:05;Tea;drink;1;1,50;True
+11820;2025-10-23 15:15;Croissant;food;1;1,80;True
+11821;2025-10-23 15:19;Espresso;coffee;1;1,10;True
+11822;2025-10-23 15:26;Muffin;food;1;2,20;True
+11822;2025-10-23 15:26;Espresso;coffee;1;1,10;True
+11823;2025-10-23 15:34;Filter Coffee;coffee;2;1,60;True
+11824;2025-10-23 15:38;Tea;drink;1;1,50;False
+11825;2025-10-23 15:39;Espresso;coffee;1;1,10;True
+11825;2025-10-23 15:39;Latte Macchiato;coffee;1;2,80;True
+11826;2025-10-23 15:41;Water;drink;3;1,40;True
+11826;2025-10-23 15:41;Croissant;food;1;1,80;True
+11827;2025-10-23 15:45;Croissant;food;1;1,80;True
+11827;2025-10-23 15:45;Hot Chocolate;drink;1;2,50;True
+11828;2025-10-23 15:45;Pretzel;food;1;1,20;True
+11829;2025-10-23 15:56;Muffin;food;1;2,20;True
+11829;2025-10-23 15:56;Latte Macchiato;coffee;1;2,80;True
+11830;2025-10-23 16:03;Latte Macchiato;coffee;1;2,80;False
+11831;2025-10-23 16:07;Latte Macchiato;coffee;1;2,80;True
+11832;2025-10-23 16:10;Latte Macchiato;coffee;1;2,80;True
+11833;2025-10-23 16:19;Tea;drink;1;1,50;True
+11833;2025-10-23 16:19;Cappuccino;coffee;1;2,40;True
+11834;2025-10-23 16:23;Espresso;coffee;1;1,10;True
+11834;2025-10-23 16:23;Filter Coffee;coffee;2;1,60;True
+11835;2025-10-23 16:29;Espresso;coffee;1;1,10;True
+11836;2025-10-23 16:46;Latte Macchiato;coffee;1;2,80;True
+11837;2025-10-24 07:41;Cappuccino;coffee;1;2,40;True
+11837;2025-10-24 07:41;Tea;drink;1;1,50;True
+11838;2025-10-24 07:45;Latte Macchiato;coffee;1;2,80;True
+11839;2025-10-24 08:02;Croissant;food;1;1,80;True
+11840;2025-10-24 08:04;Cappuccino;coffee;1;2,40;False
+11841;2025-10-24 08:06;Croissant;food;1;1,80;False
+11841;2025-10-24 08:06;Pretzel;food;2;1,20;False
+11842;2025-10-24 08:09;Tea;drink;1;1,50;True
+11842;2025-10-24 08:09;Filter Coffee;coffee;1;1,60;True
+11843;2025-10-24 08:10;Cappuccino;coffee;1;2,40;True
+11843;2025-10-24 08:10;Latte Macchiato;coffee;1;2,80;True
+11844;2025-10-24 08:12;Latte Macchiato;coffee;1;2,80;False
+11844;2025-10-24 08:12;Muffin;food;1;2,20;False
+11845;2025-10-24 08:13;Muffin;food;1;2,20;True
+11845;2025-10-24 08:13;Croissant;food;1;1,80;True
+11846;2025-10-24 08:18;Croissant;food;1;1,80;False
+11847;2025-10-24 08:28;Pretzel;food;1;1,20;True
+11848;2025-10-24 08:28;Pretzel;food;1;1,20;True
+11848;2025-10-24 08:28;Latte Macchiato;coffee;1;2,80;True
+11849;2025-10-24 08:28;Pretzel;food;1;1,20;True
+11849;2025-10-24 08:28;Cappuccino;coffee;1;2,40;True
+11850;2025-10-24 08:36;Espresso;coffee;1;1,10;False
+11851;2025-10-24 08:43;Latte Macchiato;coffee;1;2,80;False
+11851;2025-10-24 08:43;Pretzel;food;1;1,20;False
+11852;2025-10-24 08:44;Espresso;coffee;2;1,10;True
+11852;2025-10-24 08:44;Filter Coffee;coffee;1;1,60;True
+11853;2025-10-24 08:47;Cappuccino;coffee;1;2,40;True
+11854;2025-10-24 08:49;Croissant;food;1;1,80;True
+11854;2025-10-24 08:49;Cappuccino;coffee;1;2,40;True
+11855;2025-10-24 08:52;Cappuccino;coffee;1;2,40;True
+11856;2025-10-24 08:52;Espresso;coffee;1;1,10;True
+11857;2025-10-24 08:53;Pretzel;food;1;1,20;True
+11857;2025-10-24 08:53;Hot Chocolate;drink;1;2,50;True
+11858;2025-10-24 08:55;Latte Macchiato;coffee;1;2,80;False
+11859;2025-10-24 09:01;Croissant;food;1;1,80;True
+11860;2025-10-24 09:03;Filter Coffee;coffee;1;1,60;True
+11861;2025-10-24 09:12;Sandwich;food;1;3,90;True
+11862;2025-10-24 09:14;Latte Macchiato;coffee;1;2,80;True
+11863;2025-10-24 09:17;Cappuccino;coffee;1;2,40;True
+11863;2025-10-24 09:17;Latte Macchiato;coffee;1;2,80;True
+11864;2025-10-24 09:18;Sandwich;food;1;3,90;True
+11865;2025-10-24 09:26;Cappuccino;coffee;1;2,40;False
+11866;2025-10-24 09:27;Tea;drink;1;1,50;True
+11867;2025-10-24 09:33;Espresso;coffee;1;1,10;False
+11867;2025-10-24 09:33;Pretzel;food;1;1,20;False
+11868;2025-10-24 09:46;Tea;drink;1;1,50;True
+11868;2025-10-24 09:46;Espresso;coffee;1;1,10;True
+11869;2025-10-24 09:57;Latte Macchiato;coffee;1;2,80;True
+11870;2025-10-24 10:08;Pretzel;food;1;1,20;True
+11870;2025-10-24 10:08;Espresso;coffee;1;1,10;True
+11871;2025-10-24 10:13;Tea;drink;1;1,50;True
+11871;2025-10-24 10:13;Cappuccino;coffee;1;2,40;True
+11872;2025-10-24 10:17;Tea;drink;1;1,50;False
+11872;2025-10-24 10:17;Espresso;coffee;1;1,10;False
+11873;2025-10-24 10:21;Croissant;food;1;1,80;True
+11873;2025-10-24 10:21;Tea;drink;1;1,50;True
+11873;2025-10-24 10:21;Pretzel;food;1;1,20;True
+11874;2025-10-24 10:23;Cappuccino;coffee;1;2,40;False
+11875;2025-10-24 10:29;Pretzel;food;2;1,20;True
+11875;2025-10-24 10:29;Sandwich;food;1;3,90;True
+11876;2025-10-24 10:54;Cappuccino;coffee;1;2,40;True
+11877;2025-10-24 11:00;Water;drink;1;1,40;False
+11878;2025-10-24 11:01;Sandwich;food;1;3,90;False
+11879;2025-10-24 11:04;Filter Coffee;coffee;1;1,60;True
+11880;2025-10-24 11:09;Sandwich;food;1;3,90;True
+11881;2025-10-24 11:15;Tea;drink;1;1,50;True
+11882;2025-10-24 11:15;Sandwich;food;1;3,90;True
+11883;2025-10-24 11:34;Cappuccino;coffee;1;2,40;True
+11883;2025-10-24 11:34;Espresso;coffee;1;1,10;True
+11883;2025-10-24 11:34;Pretzel;food;1;1,20;True
+11884;2025-10-24 11:36;Cappuccino;coffee;1;2,40;False
+11885;2025-10-24 11:47;Latte Macchiato;coffee;1;2,80;True
+11886;2025-10-24 11:55;Sandwich;food;1;3,90;True
+11887;2025-10-24 12:01;Sandwich;food;2;3,90;True
+11887;2025-10-24 12:01;Cappuccino;coffee;1;2,40;True
+11888;2025-10-24 12:04;Pretzel;food;1;1,20;True
+11888;2025-10-24 12:04;Water;drink;1;1,40;True
+11889;2025-10-24 12:05;Sandwich;food;2;3,90;False
+11890;2025-10-24 12:07;Muffin;food;1;2,20;True
+11890;2025-10-24 12:07;Espresso;coffee;1;1,10;True
+11890;2025-10-24 12:07;Tea;drink;1;1,50;True
+11891;2025-10-24 12:08;Latte Macchiato;coffee;1;2,80;False
+11892;2025-10-24 12:19;Water;drink;1;1,40;True
+11893;2025-10-24 12:22;Latte Macchiato;coffee;3;2,80;True
+11893;2025-10-24 12:22;Pretzel;food;1;1,20;True
+11894;2025-10-24 12:28;Cappuccino;coffee;1;2,40;True
+11895;2025-10-24 12:31;Muffin;food;1;2,20;True
+11895;2025-10-24 12:31;Sandwich;food;1;3,90;True
+11896;2025-10-24 12:38;Water;drink;1;1,40;True
+11896;2025-10-24 12:38;Sandwich;food;1;3,90;True
+11897;2025-10-24 12:40;Water;drink;1;1,40;True
+11897;2025-10-24 12:40;Latte Macchiato;coffee;2;2,80;True
+11897;2025-10-24 12:40;Tea;drink;1;1,50;True
+11898;2025-10-24 12:45;Cappuccino;coffee;1;2,40;True
+11898;2025-10-24 12:45;Pretzel;food;1;1,20;True
+11899;2025-10-24 12:46;Cappuccino;coffee;1;2,40;True
+11900;2025-10-24 12:50;Water;drink;1;1,40;False
+11900;2025-10-24 12:50;Sandwich;food;1;3,90;False
+11901;2025-10-24 13:10;Water;drink;1;1,40;True
+11902;2025-10-24 13:10;Espresso;coffee;1;1,10;True
+11903;2025-10-24 13:12;Espresso;coffee;1;1,10;False
+11903;2025-10-24 13:12;Hot Chocolate;drink;1;2,50;False
+11904;2025-10-24 13:27;Water;drink;1;1,40;True
+11904;2025-10-24 13:27;Sandwich;food;1;3,90;True
+11905;2025-10-24 13:30;Espresso;coffee;1;1,10;True
+11906;2025-10-24 13:31;Muffin;food;1;2,20;False
+11906;2025-10-24 13:31;Cappuccino;coffee;2;2,40;False
+11907;2025-10-24 13:49;Sandwich;food;1;3,90;False
+11908;2025-10-24 14:02;Cappuccino;coffee;1;2,40;True
+11908;2025-10-24 14:02;Water;drink;3;1,40;True
+11909;2025-10-24 14:12;Latte Macchiato;coffee;1;2,80;False
+11910;2025-10-24 14:22;Cappuccino;coffee;1;2,40;False
+11911;2025-10-24 14:26;Hot Chocolate;drink;1;2,50;True
+11912;2025-10-24 14:29;Sandwich;food;1;3,90;True
+11912;2025-10-24 14:29;Cappuccino;coffee;1;2,40;True
+11913;2025-10-24 14:41;Espresso;coffee;2;1,10;True
+11914;2025-10-24 14:42;Tea;drink;1;1,50;False
+11915;2025-10-24 14:50;Latte Macchiato;coffee;1;2,80;True
+11916;2025-10-24 14:52;Cappuccino;coffee;1;2,40;True
+11916;2025-10-24 14:52;Espresso;coffee;1;1,10;True
+11917;2025-10-24 15:02;Espresso;coffee;1;1,10;True
+11917;2025-10-24 15:02;Tea;drink;1;1,50;True
+11917;2025-10-24 15:02;Pretzel;food;1;1,20;True
+11918;2025-10-24 15:03;Filter Coffee;coffee;1;1,60;True
+11918;2025-10-24 15:03;Water;drink;1;1,40;True
+11919;2025-10-24 15:08;Croissant;food;1;1,80;True
+11919;2025-10-24 15:08;Latte Macchiato;coffee;1;2,80;True
+11920;2025-10-24 15:37;Latte Macchiato;coffee;1;2,80;False
+11920;2025-10-24 15:37;Water;drink;1;1,40;False
+11921;2025-10-24 15:37;Tea;drink;2;1,50;False
+11921;2025-10-24 15:37;Cappuccino;coffee;1;2,40;False
+11922;2025-10-24 15:43;Sandwich;food;1;3,90;True
+11922;2025-10-24 15:43;Latte Macchiato;coffee;1;2,80;True
+11922;2025-10-24 15:43;Water;drink;1;1,40;True
+11923;2025-10-24 16:03;Cappuccino;coffee;1;2,40;True
+11923;2025-10-24 16:03;Pretzel;food;1;1,20;True
+11924;2025-10-24 16:06;Filter Coffee;coffee;1;1,60;True
+11925;2025-10-24 16:07;Cappuccino;coffee;1;2,40;True
+11926;2025-10-24 16:09;Muffin;food;2;2,20;True
+11927;2025-10-24 16:10;Espresso;coffee;1;1,10;False
+11927;2025-10-24 16:10;Muffin;food;1;2,20;False
+11928;2025-10-24 16:16;Latte Macchiato;coffee;1;2,80;False
+11929;2025-10-24 16:43;Espresso;coffee;1;1,10;True
+11930;2025-10-27 07:33;Filter Coffee;coffee;1;1,60;True
+11930;2025-10-27 07:33;Muffin;food;1;2,20;True
+11931;2025-10-27 07:42;Cappuccino;coffee;2;2,40;True
+11932;2025-10-27 08:02;Filter Coffee;coffee;1;1,60;True
+11933;2025-10-27 08:04;Cappuccino;coffee;1;2,40;True
+11934;2025-10-27 08:04;Water;drink;1;1,40;False
+11934;2025-10-27 08:04;Pretzel;food;1;1,20;False
+11934;2025-10-27 08:04;Filter Coffee;coffee;1;1,60;False
+11935;2025-10-27 08:07;Cappuccino;coffee;1;2,40;False
+11936;2025-10-27 08:20;Cappuccino;coffee;3;2,40;True
+11937;2025-10-27 08:26;Filter Coffee;coffee;2;1,60;True
+11938;2025-10-27 08:29;Cappuccino;coffee;2;2,40;True
+11938;2025-10-27 08:29;Muffin;food;1;2,20;True
+11939;2025-10-27 08:29;Espresso;coffee;2;1,10;False
+11940;2025-10-27 08:36;Filter Coffee;coffee;1;1,60;True
+11940;2025-10-27 08:36;Latte Macchiato;coffee;1;2,80;True
+11941;2025-10-27 08:40;Pretzel;food;1;1,20;True
+11941;2025-10-27 08:40;Cappuccino;coffee;1;2,40;True
+11942;2025-10-27 08:41;Croissant;food;1;1,80;True
+11942;2025-10-27 08:41;Filter Coffee;coffee;1;1,60;True
+11943;2025-10-27 08:45;Croissant;food;1;1,80;True
+11944;2025-10-27 08:49;Pretzel;food;1;1,20;True
+11944;2025-10-27 08:49;Espresso;coffee;1;1,10;True
+11945;2025-10-27 08:52;Latte Macchiato;coffee;1;2,80;False
+11946;2025-10-27 08:54;Espresso;coffee;2;1,10;True
+11947;2025-10-27 08:57;Cappuccino;coffee;1;2,40;False
+11948;2025-10-27 08:59;Espresso;coffee;1;1,10;False
+11949;2025-10-27 09:07;Cappuccino;coffee;1;2,40;False
+11949;2025-10-27 09:07;Espresso;coffee;1;1,10;False
+11950;2025-10-27 09:12;Filter Coffee;coffee;1;1,60;True
+11950;2025-10-27 09:12;Cappuccino;coffee;3;2,40;True
+11951;2025-10-27 09:15;Sandwich;food;1;3,90;True
+11952;2025-10-27 09:23;Pretzel;food;1;1,20;False
+11952;2025-10-27 09:23;Cappuccino;coffee;1;2,40;False
+11952;2025-10-27 09:23;Croissant;food;1;1,80;False
+11953;2025-10-27 09:23;Tea;drink;1;1,50;True
+11954;2025-10-27 09:26;Cappuccino;coffee;1;2,40;True
+11955;2025-10-27 09:26;Espresso;coffee;1;1,10;False
+11956;2025-10-27 09:30;Cappuccino;coffee;1;2,40;True
+11957;2025-10-27 09:31;Water;drink;1;1,40;True
+11957;2025-10-27 09:31;Croissant;food;1;1,80;True
+11958;2025-10-27 09:38;Cappuccino;coffee;1;2,40;False
+11959;2025-10-27 09:43;Cappuccino;coffee;1;2,40;True
+11959;2025-10-27 09:43;Croissant;food;1;1,80;True
+11960;2025-10-27 09:44;Filter Coffee;coffee;1;1,60;False
+11960;2025-10-27 09:44;Muffin;food;1;2,20;False
+11961;2025-10-27 09:51;Espresso;coffee;1;1,10;True
+11961;2025-10-27 09:51;Pretzel;food;1;1,20;True
+11962;2025-10-27 10:01;Pretzel;food;1;1,20;True
+11962;2025-10-27 10:01;Latte Macchiato;coffee;1;2,80;True
+11963;2025-10-27 10:04;Cappuccino;coffee;1;2,40;False
+11963;2025-10-27 10:04;Water;drink;1;1,40;False
+11964;2025-10-27 10:12;Cappuccino;coffee;1;2,40;False
+11965;2025-10-27 10:18;Espresso;coffee;1;1,10;False
+11966;2025-10-27 10:22;Croissant;food;1;1,80;True
+11967;2025-10-27 10:23;Espresso;coffee;1;1,10;True
+11967;2025-10-27 10:23;Sandwich;food;1;3,90;True
+11968;2025-10-27 10:28;Espresso;coffee;1;1,10;False
+11968;2025-10-27 10:28;Latte Macchiato;coffee;1;2,80;False
+11969;2025-10-27 10:32;Pretzel;food;1;1,20;True
+11970;2025-10-27 10:38;Cappuccino;coffee;1;2,40;True
+11970;2025-10-27 10:38;Pretzel;food;1;1,20;True
+11970;2025-10-27 10:38;Filter Coffee;coffee;2;1,60;True
+11971;2025-10-27 10:42;Hot Chocolate;drink;1;2,50;True
+11971;2025-10-27 10:42;Cappuccino;coffee;1;2,40;True
+11972;2025-10-27 10:47;Water;drink;1;1,40;True
+11973;2025-10-27 10:51;Filter Coffee;coffee;1;1,60;True
+11974;2025-10-27 10:55;Latte Macchiato;coffee;1;2,80;False
+11975;2025-10-27 11:07;Pretzel;food;1;1,20;True
+11975;2025-10-27 11:07;Sandwich;food;1;3,90;True
+11976;2025-10-27 11:13;Latte Macchiato;coffee;1;2,80;True
+11977;2025-10-27 11:18;Pretzel;food;1;1,20;False
+11978;2025-10-27 11:20;Hot Chocolate;drink;3;2,50;True
+11979;2025-10-27 11:22;Muffin;food;1;2,20;False
+11979;2025-10-27 11:22;Water;drink;1;1,40;False
+11980;2025-10-27 11:30;Espresso;coffee;1;1,10;True
+11981;2025-10-27 11:32;Water;drink;1;1,40;True
+11981;2025-10-27 11:32;Sandwich;food;2;3,90;True
+11982;2025-10-27 11:53;Pretzel;food;1;1,20;False
+11982;2025-10-27 11:53;Cappuccino;coffee;1;2,40;False
+11982;2025-10-27 11:53;Sandwich;food;1;3,90;False
+11983;2025-10-27 11:55;Sandwich;food;1;3,90;True
+11983;2025-10-27 11:55;Water;drink;1;1,40;True
+11984;2025-10-27 12:05;Espresso;coffee;1;1,10;True
+11985;2025-10-27 12:07;Espresso;coffee;1;1,10;False
+11986;2025-10-27 12:09;Latte Macchiato;coffee;1;2,80;False
+11987;2025-10-27 12:12;Water;drink;1;1,40;True
+11988;2025-10-27 12:15;Water;drink;1;1,40;True
+11989;2025-10-27 12:17;Sandwich;food;1;3,90;True
+11990;2025-10-27 12:29;Muffin;food;2;2,20;True
+11991;2025-10-27 12:33;Water;drink;2;1,40;True
+11991;2025-10-27 12:33;Pretzel;food;2;1,20;True
+11992;2025-10-27 12:33;Pretzel;food;1;1,20;True
+11993;2025-10-27 12:34;Sandwich;food;1;3,90;True
+11993;2025-10-27 12:34;Latte Macchiato;coffee;1;2,80;True
+11994;2025-10-27 12:35;Pretzel;food;1;1,20;False
+11994;2025-10-27 12:35;Sandwich;food;1;3,90;False
+11995;2025-10-27 12:38;Filter Coffee;coffee;1;1,60;True
+11996;2025-10-27 12:39;Pretzel;food;1;1,20;True
+11997;2025-10-27 12:41;Pretzel;food;1;1,20;False
+11997;2025-10-27 12:41;Latte Macchiato;coffee;1;2,80;False
+11998;2025-10-27 12:42;Pretzel;food;1;1,20;True
+11999;2025-10-27 12:42;Water;drink;1;1,40;False
+12000;2025-10-27 12:46;Espresso;coffee;1;1,10;True
+12001;2025-10-27 12:48;Croissant;food;1;1,80;True
+12002;2025-10-27 12:50;Cappuccino;coffee;1;2,40;True
+12003;2025-10-27 12:56;Espresso;coffee;1;1,10;True
+12004;2025-10-27 12:59;Muffin;food;1;2,20;True
+12005;2025-10-27 13:08;Espresso;coffee;1;1,10;True
+12005;2025-10-27 13:08;Sandwich;food;2;3,90;True
+12005;2025-10-27 13:08;Tea;drink;1;1,50;True
+12006;2025-10-27 13:13;Water;drink;1;1,40;True
+12006;2025-10-27 13:13;Pretzel;food;2;1,20;True
+12007;2025-10-27 13:21;Sandwich;food;1;3,90;False
+12008;2025-10-27 13:21;Filter Coffee;coffee;3;1,60;True
+12009;2025-10-27 13:23;Sandwich;food;1;3,90;True
+12009;2025-10-27 13:23;Cappuccino;coffee;2;2,40;True
+12010;2025-10-27 13:25;Filter Coffee;coffee;1;1,60;True
+12011;2025-10-27 13:29;Espresso;coffee;1;1,10;False
+12012;2025-10-27 13:33;Sandwich;food;1;3,90;True
+12013;2025-10-27 13:36;Water;drink;1;1,40;True
+12014;2025-10-27 13:38;Muffin;food;1;2,20;True
+12014;2025-10-27 13:38;Latte Macchiato;coffee;1;2,80;True
+12015;2025-10-27 13:39;Latte Macchiato;coffee;1;2,80;True
+12016;2025-10-27 13:40;Croissant;food;1;1,80;True
+12017;2025-10-27 13:44;Tea;drink;1;1,50;False
+12017;2025-10-27 13:44;Sandwich;food;1;3,90;False
+12018;2025-10-27 13:53;Croissant;food;2;1,80;False
+12018;2025-10-27 13:53;Pretzel;food;2;1,20;False
+12019;2025-10-27 13:55;Sandwich;food;1;3,90;True
+12019;2025-10-27 13:55;Espresso;coffee;1;1,10;True
+12020;2025-10-27 13:57;Water;drink;1;1,40;True
+12021;2025-10-27 13:58;Pretzel;food;3;1,20;False
+12022;2025-10-27 13:58;Cappuccino;coffee;1;2,40;False
+12023;2025-10-27 14:00;Water;drink;1;1,40;True
+12023;2025-10-27 14:00;Tea;drink;1;1,50;True
+12023;2025-10-27 14:00;Espresso;coffee;1;1,10;True
+12024;2025-10-27 14:05;Latte Macchiato;coffee;1;2,80;True
+12024;2025-10-27 14:05;Cappuccino;coffee;1;2,40;True
+12025;2025-10-27 14:11;Muffin;food;1;2,20;True
+12025;2025-10-27 14:11;Latte Macchiato;coffee;1;2,80;True
+12026;2025-10-27 14:14;Tea;drink;1;1,50;True
+12026;2025-10-27 14:14;Muffin;food;1;2,20;True
+12027;2025-10-27 14:26;Muffin;food;1;2,20;True
+12028;2025-10-27 14:28;Muffin;food;1;2,20;False
+12029;2025-10-27 14:32;Cappuccino;coffee;1;2,40;True
+12030;2025-10-27 14:38;Cappuccino;coffee;1;2,40;True
+12031;2025-10-27 14:43;Hot Chocolate;drink;1;2,50;False
+12031;2025-10-27 14:43;Tea;drink;1;1,50;False
+12032;2025-10-27 14:46;Espresso;coffee;1;1,10;True
+12032;2025-10-27 14:46;Muffin;food;1;2,20;True
+12033;2025-10-27 15:11;Muffin;food;1;2,20;True
+12034;2025-10-27 15:16;Latte Macchiato;coffee;1;2,80;False
+12035;2025-10-27 15:17;Latte Macchiato;coffee;1;2,80;False
+12035;2025-10-27 15:17;Cappuccino;coffee;1;2,40;False
+12035;2025-10-27 15:17;Filter Coffee;coffee;2;1,60;False
+12036;2025-10-27 15:35;Espresso;coffee;1;1,10;False
+12037;2025-10-27 15:56;Water;drink;1;1,40;True
+12037;2025-10-27 15:56;Espresso;coffee;1;1,10;True
+12038;2025-10-27 15:58;Croissant;food;1;1,80;True
+12039;2025-10-27 15:58;Cappuccino;coffee;1;2,40;True
+12040;2025-10-27 16:30;Cappuccino;coffee;1;2,40;False
+12040;2025-10-27 16:30;Hot Chocolate;drink;1;2,50;False
+12040;2025-10-27 16:30;Filter Coffee;coffee;1;1,60;False
+12041;2025-10-27 16:38;Tea;drink;1;1,50;True
+12042;2025-10-27 16:40;Muffin;food;1;2,20;True
+12043;2025-10-27 16:49;Hot Chocolate;drink;1;2,50;True
+12043;2025-10-27 16:49;Cappuccino;coffee;1;2,40;True
+12044;2025-10-27 16:53;Croissant;food;1;1,80;False
+12045;2025-10-27 16:58;Latte Macchiato;coffee;1;2,80;True
+12046;2025-10-28 07:40;Tea;drink;1;1,50;False
+12047;2025-10-28 08:11;Filter Coffee;coffee;1;1,60;True
+12048;2025-10-28 08:14;Filter Coffee;coffee;1;1,60;True
+12048;2025-10-28 08:14;Croissant;food;2;1,80;True
+12049;2025-10-28 08:19;Latte Macchiato;coffee;1;2,80;False
+12050;2025-10-28 08:24;Croissant;food;1;1,80;True
+12050;2025-10-28 08:24;Latte Macchiato;coffee;1;2,80;True
+12051;2025-10-28 08:25;Cappuccino;coffee;1;2,40;True
+12051;2025-10-28 08:25;Pretzel;food;1;1,20;True
+12052;2025-10-28 08:27;Water;drink;1;1,40;True
+12053;2025-10-28 08:35;Filter Coffee;coffee;1;1,60;True
+12054;2025-10-28 08:38;Cappuccino;coffee;1;2,40;True
+12054;2025-10-28 08:38;Filter Coffee;coffee;1;1,60;True
+12055;2025-10-28 08:39;Espresso;coffee;1;1,10;True
+12055;2025-10-28 08:39;Pretzel;food;2;1,20;True
+12055;2025-10-28 08:39;Hot Chocolate;drink;1;2,50;True
+12056;2025-10-28 08:41;Pretzel;food;3;1,20;False
+12057;2025-10-28 08:47;Muffin;food;1;2,20;True
+12058;2025-10-28 08:47;Filter Coffee;coffee;1;1,60;False
+12058;2025-10-28 08:47;Water;drink;1;1,40;False
+12059;2025-10-28 08:48;Cappuccino;coffee;2;2,40;True
+12060;2025-10-28 08:54;Tea;drink;2;1,50;True
+12061;2025-10-28 08:56;Filter Coffee;coffee;1;1,60;True
+12061;2025-10-28 08:56;Latte Macchiato;coffee;1;2,80;True
+12062;2025-10-28 08:59;Croissant;food;1;1,80;True
+12063;2025-10-28 09:01;Cappuccino;coffee;1;2,40;True
+12064;2025-10-28 09:01;Filter Coffee;coffee;1;1,60;True
+12065;2025-10-28 09:03;Espresso;coffee;1;1,10;True
+12066;2025-10-28 09:03;Croissant;food;1;1,80;True
+12067;2025-10-28 09:05;Latte Macchiato;coffee;1;2,80;True
+12067;2025-10-28 09:05;Tea;drink;1;1,50;True
+12068;2025-10-28 09:14;Filter Coffee;coffee;1;1,60;True
+12068;2025-10-28 09:14;Water;drink;1;1,40;True
+12069;2025-10-28 09:28;Hot Chocolate;drink;1;2,50;False
+12070;2025-10-28 09:31;Hot Chocolate;drink;1;2,50;False
+12071;2025-10-28 09:37;Filter Coffee;coffee;1;1,60;True
+12072;2025-10-28 09:38;Pretzel;food;1;1,20;False
+12072;2025-10-28 09:38;Muffin;food;1;2,20;False
+12072;2025-10-28 09:38;Filter Coffee;coffee;1;1,60;False
+12073;2025-10-28 09:40;Cappuccino;coffee;1;2,40;False
+12074;2025-10-28 09:40;Latte Macchiato;coffee;1;2,80;True
+12075;2025-10-28 09:41;Water;drink;1;1,40;True
+12076;2025-10-28 09:43;Filter Coffee;coffee;1;1,60;True
+12076;2025-10-28 09:43;Croissant;food;1;1,80;True
+12077;2025-10-28 09:44;Filter Coffee;coffee;1;1,60;True
+12078;2025-10-28 09:44;Filter Coffee;coffee;1;1,60;True
+12078;2025-10-28 09:44;Latte Macchiato;coffee;2;2,80;True
+12078;2025-10-28 09:44;Sandwich;food;1;3,90;True
+12079;2025-10-28 09:54;Latte Macchiato;coffee;1;2,80;True
+12080;2025-10-28 09:57;Tea;drink;2;1,50;False
+12081;2025-10-28 10:01;Filter Coffee;coffee;1;1,60;False
+12082;2025-10-28 10:07;Espresso;coffee;1;1,10;False
+12083;2025-10-28 10:07;Pretzel;food;1;1,20;True
+12084;2025-10-28 10:07;Pretzel;food;1;1,20;True
+12084;2025-10-28 10:07;Filter Coffee;coffee;1;1,60;True
+12085;2025-10-28 10:10;Espresso;coffee;1;1,10;True
+12085;2025-10-28 10:10;Croissant;food;1;1,80;True
+12085;2025-10-28 10:10;Cappuccino;coffee;1;2,40;True
+12086;2025-10-28 10:13;Espresso;coffee;1;1,10;True
+12087;2025-10-28 10:16;Pretzel;food;2;1,20;True
+12087;2025-10-28 10:16;Filter Coffee;coffee;1;1,60;True
+12088;2025-10-28 10:22;Pretzel;food;1;1,20;True
+12088;2025-10-28 10:22;Filter Coffee;coffee;1;1,60;True
+12089;2025-10-28 10:23;Tea;drink;1;1,50;False
+12090;2025-10-28 10:32;Croissant;food;2;1,80;False
+12091;2025-10-28 10:48;Pretzel;food;1;1,20;False
+12092;2025-10-28 10:53;Espresso;coffee;1;1,10;True
+12093;2025-10-28 10:57;Pretzel;food;2;1,20;True
+12094;2025-10-28 11:01;Sandwich;food;1;3,90;True
+12095;2025-10-28 11:02;Sandwich;food;1;3,90;True
+12096;2025-10-28 11:05;Espresso;coffee;1;1,10;True
+12096;2025-10-28 11:05;Pretzel;food;1;1,20;True
+12096;2025-10-28 11:05;Filter Coffee;coffee;1;1,60;True
+12097;2025-10-28 11:06;Sandwich;food;1;3,90;True
+12097;2025-10-28 11:06;Cappuccino;coffee;1;2,40;True
+12098;2025-10-28 11:06;Pretzel;food;1;1,20;True
+12099;2025-10-28 11:10;Water;drink;1;1,40;True
+12099;2025-10-28 11:10;Cappuccino;coffee;1;2,40;True
+12100;2025-10-28 11:19;Filter Coffee;coffee;1;1,60;True
+12101;2025-10-28 11:23;Cappuccino;coffee;1;2,40;False
+12101;2025-10-28 11:23;Tea;drink;1;1,50;False
+12101;2025-10-28 11:23;Sandwich;food;1;3,90;False
+12102;2025-10-28 11:37;Water;drink;1;1,40;True
+12102;2025-10-28 11:37;Muffin;food;1;2,20;True
+12103;2025-10-28 11:40;Espresso;coffee;1;1,10;True
+12104;2025-10-28 11:41;Espresso;coffee;1;1,10;True
+12104;2025-10-28 11:41;Muffin;food;1;2,20;True
+12105;2025-10-28 11:43;Espresso;coffee;1;1,10;False
+12106;2025-10-28 11:46;Pretzel;food;1;1,20;False
+12107;2025-10-28 11:55;Cappuccino;coffee;1;2,40;True
+12107;2025-10-28 11:55;Water;drink;1;1,40;True
+12108;2025-10-28 12:03;Tea;drink;1;1,50;True
+12108;2025-10-28 12:03;Sandwich;food;1;3,90;True
+12109;2025-10-28 12:07;Muffin;food;1;2,20;False
+12110;2025-10-28 12:08;Water;drink;1;1,40;True
+12111;2025-10-28 12:10;Tea;drink;3;1,50;True
+12111;2025-10-28 12:10;Water;drink;1;1,40;True
+12112;2025-10-28 12:21;Filter Coffee;coffee;1;1,60;True
+12113;2025-10-28 12:21;Cappuccino;coffee;1;2,40;False
+12114;2025-10-28 12:25;Filter Coffee;coffee;1;1,60;True
+12114;2025-10-28 12:25;Espresso;coffee;1;1,10;True
+12115;2025-10-28 12:30;Latte Macchiato;coffee;1;2,80;True
+12116;2025-10-28 12:30;Filter Coffee;coffee;1;1,60;True
+12117;2025-10-28 12:37;Pretzel;food;1;1,20;False
+12117;2025-10-28 12:37;Espresso;coffee;1;1,10;False
+12117;2025-10-28 12:37;Sandwich;food;1;3,90;False
+12118;2025-10-28 12:38;Sandwich;food;1;3,90;False
+12118;2025-10-28 12:38;Pretzel;food;1;1,20;False
+12118;2025-10-28 12:38;Croissant;food;1;1,80;False
+12119;2025-10-28 12:38;Tea;drink;1;1,50;True
+12120;2025-10-28 12:38;Water;drink;1;1,40;True
+12121;2025-10-28 12:46;Sandwich;food;2;3,90;True
+12122;2025-10-28 12:46;Espresso;coffee;1;1,10;False
+12123;2025-10-28 12:47;Pretzel;food;1;1,20;True
+12124;2025-10-28 12:48;Cappuccino;coffee;1;2,40;True
+12125;2025-10-28 12:49;Sandwich;food;3;3,90;False
+12126;2025-10-28 12:52;Hot Chocolate;drink;1;2,50;True
+12127;2025-10-28 12:55;Muffin;food;1;2,20;True
+12128;2025-10-28 12:58;Sandwich;food;1;3,90;True
+12128;2025-10-28 12:58;Latte Macchiato;coffee;1;2,80;True
+12129;2025-10-28 12:58;Water;drink;1;1,40;True
+12130;2025-10-28 13:04;Tea;drink;1;1,50;True
+12130;2025-10-28 13:04;Espresso;coffee;1;1,10;True
+12131;2025-10-28 13:06;Muffin;food;1;2,20;False
+12132;2025-10-28 13:12;Filter Coffee;coffee;1;1,60;True
+12132;2025-10-28 13:12;Tea;drink;1;1,50;True
+12133;2025-10-28 13:14;Sandwich;food;2;3,90;True
+12134;2025-10-28 13:15;Pretzel;food;1;1,20;True
+12135;2025-10-28 13:24;Sandwich;food;1;3,90;False
+12136;2025-10-28 13:27;Pretzel;food;1;1,20;True
+12136;2025-10-28 13:27;Water;drink;1;1,40;True
+12137;2025-10-28 13:28;Water;drink;2;1,40;True
+12138;2025-10-28 13:31;Cappuccino;coffee;1;2,40;True
+12139;2025-10-28 13:31;Espresso;coffee;1;1,10;False
+12139;2025-10-28 13:31;Cappuccino;coffee;1;2,40;False
+12140;2025-10-28 13:35;Filter Coffee;coffee;1;1,60;False
+12140;2025-10-28 13:35;Water;drink;1;1,40;False
+12140;2025-10-28 13:35;Cappuccino;coffee;1;2,40;False
+12141;2025-10-28 13:36;Sandwich;food;1;3,90;False
+12141;2025-10-28 13:36;Tea;drink;1;1,50;False
+12141;2025-10-28 13:36;Hot Chocolate;drink;1;2,50;False
+12142;2025-10-28 13:37;Filter Coffee;coffee;1;1,60;True
+12142;2025-10-28 13:37;Cappuccino;coffee;1;2,40;True
+12143;2025-10-28 13:39;Cappuccino;coffee;1;2,40;False
+12144;2025-10-28 13:42;Water;drink;1;1,40;True
+12144;2025-10-28 13:42;Filter Coffee;coffee;1;1,60;True
+12145;2025-10-28 13:46;Sandwich;food;2;3,90;True
+12146;2025-10-28 13:47;Cappuccino;coffee;1;2,40;True
+12147;2025-10-28 13:50;Espresso;coffee;1;1,10;True
+12148;2025-10-28 13:52;Sandwich;food;1;3,90;True
+12149;2025-10-28 13:54;Water;drink;1;1,40;False
+12150;2025-10-28 13:58;Tea;drink;1;1,50;False
+12151;2025-10-28 14:40;Cappuccino;coffee;1;2,40;True
+12152;2025-10-28 14:59;Muffin;food;2;2,20;True
+12153;2025-10-28 15:14;Cappuccino;coffee;1;2,40;True
+12153;2025-10-28 15:14;Latte Macchiato;coffee;1;2,80;True
+12154;2025-10-28 15:16;Tea;drink;1;1,50;True
+12154;2025-10-28 15:16;Hot Chocolate;drink;1;2,50;True
+12154;2025-10-28 15:16;Latte Macchiato;coffee;1;2,80;True
+12155;2025-10-28 15:24;Hot Chocolate;drink;1;2,50;True
+12156;2025-10-28 15:29;Latte Macchiato;coffee;1;2,80;True
+12156;2025-10-28 15:29;Tea;drink;1;1,50;True
+12157;2025-10-28 15:30;Espresso;coffee;1;1,10;True
+12158;2025-10-28 15:34;Filter Coffee;coffee;3;1,60;True
+12159;2025-10-28 15:37;Cappuccino;coffee;2;2,40;False
+12160;2025-10-28 15:47;Muffin;food;1;2,20;True
+12161;2025-10-28 15:49;Latte Macchiato;coffee;1;2,80;True
+12162;2025-10-28 15:49;Latte Macchiato;coffee;1;2,80;True
+12163;2025-10-28 15:55;Cappuccino;coffee;1;2,40;True
+12163;2025-10-28 15:55;Filter Coffee;coffee;1;1,60;True
+12164;2025-10-28 15:58;Hot Chocolate;drink;1;2,50;True
+12165;2025-10-28 15:59;Cappuccino;coffee;1;2,40;False
+12165;2025-10-28 15:59;Hot Chocolate;drink;1;2,50;False
+12166;2025-10-28 16:03;Tea;drink;1;1,50;True
+12166;2025-10-28 16:03;Sandwich;food;1;3,90;True
+12166;2025-10-28 16:03;Cappuccino;coffee;3;2,40;True
+12167;2025-10-28 16:32;Sandwich;food;2;3,90;True
+12168;2025-10-28 16:38;Tea;drink;1;1,50;True
+12168;2025-10-28 16:38;Sandwich;food;1;3,90;True
+12168;2025-10-28 16:38;Pretzel;food;1;1,20;True
+12169;2025-10-28 16:46;Latte Macchiato;coffee;1;2,80;True
+12170;2025-10-29 07:44;Latte Macchiato;coffee;1;2,80;False
+12170;2025-10-29 07:44;Filter Coffee;coffee;1;1,60;False
+12170;2025-10-29 07:44;Muffin;food;1;2,20;False
+12171;2025-10-29 07:54;Latte Macchiato;coffee;1;2,80;True
+12171;2025-10-29 07:54;Cappuccino;coffee;1;2,40;True
+12172;2025-10-29 07:55;Espresso;coffee;1;1,10;False
+12172;2025-10-29 07:55;Cappuccino;coffee;1;2,40;False
+12173;2025-10-29 07:56;Espresso;coffee;1;1,10;True
+12173;2025-10-29 07:56;Pretzel;food;1;1,20;True
+12173;2025-10-29 07:56;Cappuccino;coffee;1;2,40;True
+12174;2025-10-29 07:59;Espresso;coffee;1;1,10;False
+12175;2025-10-29 08:03;Espresso;coffee;1;1,10;True
+12176;2025-10-29 08:04;Croissant;food;1;1,80;True
+12177;2025-10-29 08:05;Filter Coffee;coffee;1;1,60;False
+12177;2025-10-29 08:05;Croissant;food;1;1,80;False
+12178;2025-10-29 08:11;Tea;drink;1;1,50;True
+12179;2025-10-29 08:12;Muffin;food;1;2,20;True
+12179;2025-10-29 08:12;Cappuccino;coffee;1;2,40;True
+12180;2025-10-29 08:13;Pretzel;food;1;1,20;True
+12181;2025-10-29 08:14;Sandwich;food;1;3,90;True
+12182;2025-10-29 08:17;Cappuccino;coffee;1;2,40;True
+12182;2025-10-29 08:17;Tea;drink;1;1,50;True
+12183;2025-10-29 08:20;Croissant;food;1;1,80;False
+12184;2025-10-29 08:23;Filter Coffee;coffee;1;1,60;True
+12185;2025-10-29 08:25;Croissant;food;1;1,80;True
+12186;2025-10-29 08:28;Cappuccino;coffee;1;2,40;False
+12187;2025-10-29 08:31;Pretzel;food;1;1,20;True
+12188;2025-10-29 08:32;Tea;drink;1;1,50;True
+12189;2025-10-29 08:32;Filter Coffee;coffee;1;1,60;True
+12190;2025-10-29 08:40;Espresso;coffee;1;1,10;True
+12190;2025-10-29 08:40;Tea;drink;1;1,50;True
+12191;2025-10-29 08:45;Pretzel;food;1;1,20;True
+12192;2025-10-29 08:47;Pretzel;food;1;1,20;False
+12192;2025-10-29 08:47;Filter Coffee;coffee;2;1,60;False
+12193;2025-10-29 08:51;Filter Coffee;coffee;1;1,60;True
+12194;2025-10-29 08:53;Filter Coffee;coffee;1;1,60;False
+12194;2025-10-29 08:53;Cappuccino;coffee;2;2,40;False
+12194;2025-10-29 08:53;Espresso;coffee;2;1,10;False
+12195;2025-10-29 08:53;Latte Macchiato;coffee;1;2,80;False
+12196;2025-10-29 08:53;Espresso;coffee;1;1,10;True
+12196;2025-10-29 08:53;Pretzel;food;1;1,20;True
+12197;2025-10-29 09:01;Filter Coffee;coffee;1;1,60;True
+12198;2025-10-29 09:02;Espresso;coffee;1;1,10;False
+12199;2025-10-29 09:06;Pretzel;food;3;1,20;True
+12200;2025-10-29 09:06;Filter Coffee;coffee;1;1,60;True
+12200;2025-10-29 09:06;Cappuccino;coffee;1;2,40;True
+12201;2025-10-29 09:09;Muffin;food;1;2,20;True
+12202;2025-10-29 09:10;Latte Macchiato;coffee;1;2,80;True
+12202;2025-10-29 09:10;Espresso;coffee;1;1,10;True
+12203;2025-10-29 09:14;Cappuccino;coffee;1;2,40;True
+12203;2025-10-29 09:14;Pretzel;food;1;1,20;True
+12204;2025-10-29 09:16;Cappuccino;coffee;1;2,40;True
+12205;2025-10-29 09:21;Espresso;coffee;1;1,10;True
+12205;2025-10-29 09:21;Muffin;food;2;2,20;True
+12206;2025-10-29 09:21;Tea;drink;1;1,50;True
+12207;2025-10-29 09:24;Espresso;coffee;1;1,10;False
+12208;2025-10-29 09:25;Tea;drink;3;1,50;False
+12208;2025-10-29 09:25;Latte Macchiato;coffee;1;2,80;False
+12209;2025-10-29 09:27;Croissant;food;1;1,80;False
+12209;2025-10-29 09:27;Cappuccino;coffee;1;2,40;False
+12210;2025-10-29 09:31;Muffin;food;1;2,20;False
+12210;2025-10-29 09:31;Espresso;coffee;1;1,10;False
+12211;2025-10-29 09:33;Pretzel;food;1;1,20;True
+12212;2025-10-29 09:34;Cappuccino;coffee;1;2,40;True
+12212;2025-10-29 09:34;Filter Coffee;coffee;1;1,60;True
+12213;2025-10-29 09:40;Espresso;coffee;1;1,10;False
+12213;2025-10-29 09:40;Cappuccino;coffee;1;2,40;False
+12214;2025-10-29 09:52;Cappuccino;coffee;2;2,40;True
+12215;2025-10-29 09:53;Tea;drink;1;1,50;True
+12216;2025-10-29 09:54;Muffin;food;1;2,20;True
+12217;2025-10-29 09:54;Tea;drink;1;1,50;False
+12218;2025-10-29 10:03;Pretzel;food;1;1,20;True
+12218;2025-10-29 10:03;Filter Coffee;coffee;3;1,60;True
+12219;2025-10-29 10:04;Cappuccino;coffee;1;2,40;True
+12220;2025-10-29 10:06;Filter Coffee;coffee;1;1,60;True
+12221;2025-10-29 10:12;Filter Coffee;coffee;1;1,60;True
+12222;2025-10-29 10:18;Cappuccino;coffee;1;2,40;True
+12223;2025-10-29 10:29;Filter Coffee;coffee;1;1,60;True
+12224;2025-10-29 10:39;Cappuccino;coffee;1;2,40;True
+12225;2025-10-29 10:40;Cappuccino;coffee;1;2,40;True
+12225;2025-10-29 10:40;Espresso;coffee;1;1,10;True
+12226;2025-10-29 10:43;Cappuccino;coffee;1;2,40;False
+12227;2025-10-29 10:47;Tea;drink;1;1,50;False
+12228;2025-10-29 10:50;Filter Coffee;coffee;1;1,60;True
+12228;2025-10-29 10:50;Water;drink;1;1,40;True
+12229;2025-10-29 10:54;Filter Coffee;coffee;1;1,60;True
+12230;2025-10-29 11:04;Sandwich;food;1;3,90;True
+12230;2025-10-29 11:04;Water;drink;2;1,40;True
+12231;2025-10-29 11:13;Tea;drink;1;1,50;False
+12231;2025-10-29 11:13;Hot Chocolate;drink;1;2,50;False
+12232;2025-10-29 11:27;Latte Macchiato;coffee;1;2,80;False
+12233;2025-10-29 11:27;Croissant;food;1;1,80;True
+12234;2025-10-29 11:28;Sandwich;food;1;3,90;False
+12235;2025-10-29 11:31;Water;drink;1;1,40;True
+12236;2025-10-29 11:38;Espresso;coffee;2;1,10;False
+12236;2025-10-29 11:38;Cappuccino;coffee;1;2,40;False
+12237;2025-10-29 11:53;Tea;drink;1;1,50;True
+12238;2025-10-29 11:55;Latte Macchiato;coffee;1;2,80;True
+12239;2025-10-29 12:00;Latte Macchiato;coffee;1;2,80;False
+12239;2025-10-29 12:00;Tea;drink;1;1,50;False
+12240;2025-10-29 12:05;Sandwich;food;1;3,90;True
+12241;2025-10-29 12:05;Filter Coffee;coffee;3;1,60;True
+12241;2025-10-29 12:05;Croissant;food;1;1,80;True
+12242;2025-10-29 12:10;Sandwich;food;1;3,90;False
+12243;2025-10-29 12:14;Filter Coffee;coffee;1;1,60;True
+12244;2025-10-29 12:20;Cappuccino;coffee;1;2,40;True
+12244;2025-10-29 12:20;Pretzel;food;1;1,20;True
+12245;2025-10-29 12:26;Filter Coffee;coffee;1;1,60;True
+12246;2025-10-29 12:32;Filter Coffee;coffee;1;1,60;True
+12246;2025-10-29 12:32;Water;drink;1;1,40;True
+12247;2025-10-29 12:38;Croissant;food;1;1,80;False
+12248;2025-10-29 12:39;Pretzel;food;1;1,20;False
+12248;2025-10-29 12:39;Water;drink;1;1,40;False
+12249;2025-10-29 12:41;Sandwich;food;2;3,90;False
+12250;2025-10-29 12:42;Sandwich;food;1;3,90;True
+12251;2025-10-29 12:47;Pretzel;food;1;1,20;True
+12252;2025-10-29 12:56;Espresso;coffee;1;1,10;True
+12253;2025-10-29 12:56;Sandwich;food;1;3,90;True
+12253;2025-10-29 12:56;Cappuccino;coffee;1;2,40;True
+12254;2025-10-29 13:01;Muffin;food;1;2,20;False
+12254;2025-10-29 13:01;Croissant;food;1;1,80;False
+12255;2025-10-29 13:03;Sandwich;food;1;3,90;True
+12256;2025-10-29 13:03;Cappuccino;coffee;1;2,40;True
+12257;2025-10-29 13:05;Sandwich;food;1;3,90;True
+12258;2025-10-29 13:14;Water;drink;1;1,40;True
+12258;2025-10-29 13:14;Sandwich;food;1;3,90;True
+12259;2025-10-29 13:25;Pretzel;food;1;1,20;False
+12260;2025-10-29 13:29;Latte Macchiato;coffee;1;2,80;False
+12260;2025-10-29 13:29;Hot Chocolate;drink;1;2,50;False
+12260;2025-10-29 13:29;Sandwich;food;1;3,90;False
+12261;2025-10-29 13:31;Sandwich;food;1;3,90;True
+12262;2025-10-29 13:31;Water;drink;1;1,40;True
+12263;2025-10-29 13:32;Sandwich;food;1;3,90;False
+12264;2025-10-29 13:34;Sandwich;food;2;3,90;False
+12265;2025-10-29 13:42;Filter Coffee;coffee;1;1,60;False
+12266;2025-10-29 13:48;Tea;drink;1;1,50;True
+12267;2025-10-29 13:50;Pretzel;food;2;1,20;True
+12267;2025-10-29 13:50;Water;drink;1;1,40;True
+12268;2025-10-29 13:50;Water;drink;1;1,40;True
+12269;2025-10-29 13:52;Sandwich;food;3;3,90;True
+12270;2025-10-29 13:56;Espresso;coffee;2;1,10;True
+12270;2025-10-29 13:56;Water;drink;1;1,40;True
+12271;2025-10-29 13:57;Hot Chocolate;drink;1;2,50;False
+12272;2025-10-29 13:57;Tea;drink;1;1,50;True
+12273;2025-10-29 14:04;Muffin;food;1;2,20;True
+12273;2025-10-29 14:04;Tea;drink;1;1,50;True
+12274;2025-10-29 14:04;Muffin;food;1;2,20;True
+12275;2025-10-29 14:24;Pretzel;food;1;1,20;False
+12275;2025-10-29 14:24;Cappuccino;coffee;1;2,40;False
+12276;2025-10-29 14:40;Muffin;food;1;2,20;False
+12276;2025-10-29 14:40;Espresso;coffee;2;1,10;False
+12277;2025-10-29 14:40;Muffin;food;1;2,20;True
+12277;2025-10-29 14:40;Sandwich;food;1;3,90;True
+12278;2025-10-29 14:54;Filter Coffee;coffee;1;1,60;True
+12278;2025-10-29 14:54;Muffin;food;1;2,20;True
+12279;2025-10-29 14:56;Sandwich;food;1;3,90;True
+12279;2025-10-29 14:56;Latte Macchiato;coffee;1;2,80;True
+12280;2025-10-29 14:58;Cappuccino;coffee;1;2,40;True
+12280;2025-10-29 14:58;Espresso;coffee;1;1,10;True
+12281;2025-10-29 15:06;Muffin;food;2;2,20;False
+12282;2025-10-29 15:12;Cappuccino;coffee;2;2,40;False
+12282;2025-10-29 15:12;Muffin;food;1;2,20;False
+12283;2025-10-29 15:13;Sandwich;food;1;3,90;False
+12284;2025-10-29 15:16;Espresso;coffee;1;1,10;True
+12284;2025-10-29 15:16;Tea;drink;1;1,50;True
+12285;2025-10-29 15:26;Latte Macchiato;coffee;1;2,80;True
+12286;2025-10-29 15:26;Water;drink;1;1,40;True
+12287;2025-10-29 15:31;Muffin;food;2;2,20;False
+12288;2025-10-29 15:46;Hot Chocolate;drink;2;2,50;False
+12288;2025-10-29 15:46;Muffin;food;1;2,20;False
+12288;2025-10-29 15:46;Latte Macchiato;coffee;1;2,80;False
+12289;2025-10-29 15:52;Cappuccino;coffee;1;2,40;True
+12290;2025-10-29 16:15;Cappuccino;coffee;1;2,40;True
+12290;2025-10-29 16:15;Water;drink;1;1,40;True
+12291;2025-10-29 16:20;Water;drink;1;1,40;False
+12292;2025-10-29 16:38;Water;drink;1;1,40;True
+12293;2025-10-29 16:47;Water;drink;1;1,40;True
+12293;2025-10-29 16:47;Muffin;food;1;2,20;True
+12294;2025-10-29 16:53;Muffin;food;1;2,20;False
+12295;2025-10-30 07:38;Cappuccino;coffee;1;2,40;True
+12295;2025-10-30 07:38;Espresso;coffee;1;1,10;True
+12296;2025-10-30 07:55;Pretzel;food;1;1,20;True
+12297;2025-10-30 08:01;Croissant;food;1;1,80;False
+12298;2025-10-30 08:07;Croissant;food;1;1,80;False
+12298;2025-10-30 08:07;Pretzel;food;1;1,20;False
+12299;2025-10-30 08:08;Muffin;food;1;2,20;True
+12300;2025-10-30 08:10;Pretzel;food;2;1,20;False
+12300;2025-10-30 08:10;Croissant;food;1;1,80;False
+12300;2025-10-30 08:10;Espresso;coffee;1;1,10;False
+12301;2025-10-30 08:12;Latte Macchiato;coffee;1;2,80;True
+12301;2025-10-30 08:12;Espresso;coffee;1;1,10;True
+12302;2025-10-30 08:20;Water;drink;1;1,40;True
+12302;2025-10-30 08:20;Croissant;food;1;1,80;True
+12303;2025-10-30 08:23;Muffin;food;1;2,20;False
+12303;2025-10-30 08:23;Cappuccino;coffee;1;2,40;False
+12304;2025-10-30 08:27;Cappuccino;coffee;1;2,40;True
+12304;2025-10-30 08:27;Pretzel;food;1;1,20;True
+12305;2025-10-30 08:28;Cappuccino;coffee;1;2,40;False
+12306;2025-10-30 08:29;Espresso;coffee;1;1,10;False
+12306;2025-10-30 08:29;Filter Coffee;coffee;1;1,60;False
+12307;2025-10-30 08:34;Tea;drink;1;1,50;True
+12307;2025-10-30 08:34;Cappuccino;coffee;1;2,40;True
+12308;2025-10-30 08:45;Croissant;food;2;1,80;True
+12309;2025-10-30 08:54;Espresso;coffee;1;1,10;True
+12309;2025-10-30 08:54;Cappuccino;coffee;1;2,40;True
+12309;2025-10-30 08:54;Pretzel;food;1;1,20;True
+12310;2025-10-30 08:58;Hot Chocolate;drink;1;2,50;False
+12310;2025-10-30 08:58;Pretzel;food;1;1,20;False
+12311;2025-10-30 09:06;Croissant;food;1;1,80;True
+12311;2025-10-30 09:06;Pretzel;food;1;1,20;True
+12311;2025-10-30 09:06;Sandwich;food;1;3,90;True
+12312;2025-10-30 09:13;Cappuccino;coffee;1;2,40;False
+12312;2025-10-30 09:13;Filter Coffee;coffee;1;1,60;False
+12313;2025-10-30 09:14;Latte Macchiato;coffee;1;2,80;True
+12314;2025-10-30 09:17;Pretzel;food;1;1,20;True
+12315;2025-10-30 09:24;Cappuccino;coffee;1;2,40;True
+12315;2025-10-30 09:24;Pretzel;food;1;1,20;True
+12316;2025-10-30 09:29;Muffin;food;1;2,20;True
+12317;2025-10-30 09:34;Muffin;food;1;2,20;True
+12318;2025-10-30 09:36;Cappuccino;coffee;1;2,40;False
+12318;2025-10-30 09:36;Espresso;coffee;2;1,10;False
+12318;2025-10-30 09:36;Filter Coffee;coffee;1;1,60;False
+12319;2025-10-30 09:39;Croissant;food;1;1,80;True
+12319;2025-10-30 09:39;Hot Chocolate;drink;1;2,50;True
+12320;2025-10-30 09:40;Cappuccino;coffee;1;2,40;True
+12320;2025-10-30 09:40;Croissant;food;2;1,80;True
+12321;2025-10-30 09:40;Filter Coffee;coffee;1;1,60;True
+12322;2025-10-30 09:44;Espresso;coffee;1;1,10;True
+12323;2025-10-30 09:49;Cappuccino;coffee;1;2,40;True
+12323;2025-10-30 09:49;Croissant;food;1;1,80;True
+12324;2025-10-30 09:55;Cappuccino;coffee;2;2,40;True
+12325;2025-10-30 10:05;Pretzel;food;1;1,20;True
+12325;2025-10-30 10:05;Espresso;coffee;2;1,10;True
+12325;2025-10-30 10:05;Croissant;food;1;1,80;True
+12326;2025-10-30 10:12;Muffin;food;1;2,20;True
+12327;2025-10-30 10:12;Filter Coffee;coffee;1;1,60;False
+12328;2025-10-30 10:16;Croissant;food;2;1,80;False
+12329;2025-10-30 10:25;Pretzel;food;1;1,20;False
+12329;2025-10-30 10:25;Hot Chocolate;drink;1;2,50;False
+12329;2025-10-30 10:25;Cappuccino;coffee;1;2,40;False
+12330;2025-10-30 10:32;Tea;drink;1;1,50;False
+12331;2025-10-30 10:32;Cappuccino;coffee;1;2,40;False
+12332;2025-10-30 10:38;Water;drink;1;1,40;True
+12333;2025-10-30 10:38;Espresso;coffee;1;1,10;True
+12334;2025-10-30 10:40;Pretzel;food;1;1,20;False
+12335;2025-10-30 10:41;Espresso;coffee;1;1,10;False
+12335;2025-10-30 10:41;Filter Coffee;coffee;1;1,60;False
+12336;2025-10-30 10:43;Croissant;food;1;1,80;False
+12336;2025-10-30 10:43;Pretzel;food;1;1,20;False
+12337;2025-10-30 10:49;Croissant;food;1;1,80;True
+12338;2025-10-30 10:50;Croissant;food;1;1,80;True
+12339;2025-10-30 10:52;Croissant;food;2;1,80;True
+12339;2025-10-30 10:52;Cappuccino;coffee;1;2,40;True
+12340;2025-10-30 10:54;Muffin;food;1;2,20;True
+12341;2025-10-30 10:54;Espresso;coffee;1;1,10;True
+12342;2025-10-30 11:11;Pretzel;food;1;1,20;False
+12343;2025-10-30 11:12;Sandwich;food;1;3,90;True
+12344;2025-10-30 11:17;Muffin;food;1;2,20;True
+12345;2025-10-30 11:19;Filter Coffee;coffee;1;1,60;True
+12346;2025-10-30 11:24;Pretzel;food;2;1,20;False
+12346;2025-10-30 11:24;Muffin;food;1;2,20;False
+12347;2025-10-30 11:35;Muffin;food;1;2,20;True
+12348;2025-10-30 11:45;Water;drink;1;1,40;True
+12349;2025-10-30 11:49;Pretzel;food;1;1,20;False
+12349;2025-10-30 11:49;Cappuccino;coffee;1;2,40;False
+12350;2025-10-30 11:55;Cappuccino;coffee;1;2,40;False
+12351;2025-10-30 11:59;Filter Coffee;coffee;1;1,60;True
+12352;2025-10-30 12:00;Water;drink;1;1,40;True
+12352;2025-10-30 12:00;Sandwich;food;1;3,90;True
+12353;2025-10-30 12:00;Sandwich;food;1;3,90;True
+12353;2025-10-30 12:00;Cappuccino;coffee;1;2,40;True
+12354;2025-10-30 12:00;Latte Macchiato;coffee;1;2,80;False
+12354;2025-10-30 12:00;Espresso;coffee;2;1,10;False
+12355;2025-10-30 12:00;Cappuccino;coffee;1;2,40;False
+12355;2025-10-30 12:00;Pretzel;food;1;1,20;False
+12356;2025-10-30 12:01;Espresso;coffee;1;1,10;False
+12356;2025-10-30 12:01;Sandwich;food;1;3,90;False
+12356;2025-10-30 12:01;Water;drink;1;1,40;False
+12357;2025-10-30 12:03;Pretzel;food;2;1,20;False
+12358;2025-10-30 12:07;Pretzel;food;1;1,20;True
+12358;2025-10-30 12:07;Water;drink;1;1,40;True
+12358;2025-10-30 12:07;Croissant;food;1;1,80;True
+12359;2025-10-30 12:11;Cappuccino;coffee;1;2,40;True
+12360;2025-10-30 12:16;Pretzel;food;1;1,20;True
+12360;2025-10-30 12:16;Sandwich;food;1;3,90;True
+12360;2025-10-30 12:16;Filter Coffee;coffee;1;1,60;True
+12361;2025-10-30 12:17;Sandwich;food;1;3,90;True
+12362;2025-10-30 12:18;Sandwich;food;1;3,90;False
+12362;2025-10-30 12:18;Muffin;food;1;2,20;False
+12362;2025-10-30 12:18;Water;drink;1;1,40;False
+12363;2025-10-30 12:19;Espresso;coffee;1;1,10;True
+12364;2025-10-30 12:21;Hot Chocolate;drink;1;2,50;False
+12365;2025-10-30 12:24;Espresso;coffee;1;1,10;True
+12365;2025-10-30 12:24;Sandwich;food;1;3,90;True
+12366;2025-10-30 12:25;Sandwich;food;1;3,90;True
+12366;2025-10-30 12:25;Muffin;food;1;2,20;True
+12366;2025-10-30 12:25;Latte Macchiato;coffee;3;2,80;True
+12367;2025-10-30 12:25;Latte Macchiato;coffee;1;2,80;True
+12367;2025-10-30 12:25;Cappuccino;coffee;1;2,40;True
+12367;2025-10-30 12:25;Croissant;food;1;1,80;True
+12368;2025-10-30 12:27;Sandwich;food;1;3,90;True
+12369;2025-10-30 12:28;Sandwich;food;1;3,90;False
+12369;2025-10-30 12:28;Cappuccino;coffee;1;2,40;False
+12370;2025-10-30 12:30;Sandwich;food;1;3,90;False
+12371;2025-10-30 12:35;Filter Coffee;coffee;1;1,60;True
+12371;2025-10-30 12:35;Pretzel;food;1;1,20;True
+12371;2025-10-30 12:35;Cappuccino;coffee;1;2,40;True
+12372;2025-10-30 12:35;Water;drink;1;1,40;False
+12372;2025-10-30 12:35;Sandwich;food;1;3,90;False
+12373;2025-10-30 12:41;Muffin;food;1;2,20;False
+12374;2025-10-30 12:44;Latte Macchiato;coffee;1;2,80;True
+12375;2025-10-30 12:50;Latte Macchiato;coffee;1;2,80;False
+12376;2025-10-30 12:50;Croissant;food;3;1,80;True
+12377;2025-10-30 12:51;Sandwich;food;1;3,90;False
+12377;2025-10-30 12:51;Cappuccino;coffee;1;2,40;False
+12378;2025-10-30 12:52;Cappuccino;coffee;1;2,40;True
+12379;2025-10-30 12:55;Filter Coffee;coffee;1;1,60;False
+12379;2025-10-30 12:55;Pretzel;food;1;1,20;False
+12380;2025-10-30 13:06;Pretzel;food;1;1,20;True
+12380;2025-10-30 13:06;Muffin;food;1;2,20;True
+12381;2025-10-30 13:09;Cappuccino;coffee;1;2,40;True
+12381;2025-10-30 13:09;Sandwich;food;1;3,90;True
+12381;2025-10-30 13:09;Water;drink;1;1,40;True
+12382;2025-10-30 13:12;Filter Coffee;coffee;1;1,60;False
+12383;2025-10-30 13:14;Cappuccino;coffee;1;2,40;True
+12384;2025-10-30 13:17;Water;drink;1;1,40;True
+12384;2025-10-30 13:17;Espresso;coffee;1;1,10;True
+12385;2025-10-30 13:23;Cappuccino;coffee;1;2,40;True
+12386;2025-10-30 13:24;Water;drink;1;1,40;False
+12387;2025-10-30 13:32;Muffin;food;1;2,20;True
+12388;2025-10-30 13:34;Sandwich;food;2;3,90;True
+12388;2025-10-30 13:34;Water;drink;1;1,40;True
+12389;2025-10-30 13:34;Sandwich;food;1;3,90;True
+12389;2025-10-30 13:34;Pretzel;food;1;1,20;True
+12390;2025-10-30 13:39;Muffin;food;1;2,20;False
+12390;2025-10-30 13:39;Cappuccino;coffee;1;2,40;False
+12391;2025-10-30 13:39;Pretzel;food;1;1,20;True
+12391;2025-10-30 13:39;Croissant;food;1;1,80;True
+12391;2025-10-30 13:39;Espresso;coffee;1;1,10;True
+12392;2025-10-30 13:40;Pretzel;food;1;1,20;True
+12393;2025-10-30 13:46;Cappuccino;coffee;1;2,40;True
+12393;2025-10-30 13:46;Pretzel;food;1;1,20;True
+12393;2025-10-30 13:46;Espresso;coffee;1;1,10;True
+12394;2025-10-30 13:50;Cappuccino;coffee;1;2,40;True
+12394;2025-10-30 13:50;Muffin;food;1;2,20;True
+12395;2025-10-30 13:51;Filter Coffee;coffee;1;1,60;False
+12396;2025-10-30 13:57;Cappuccino;coffee;1;2,40;False
+12396;2025-10-30 13:57;Filter Coffee;coffee;1;1,60;False
+12397;2025-10-30 13:57;Water;drink;1;1,40;False
+12397;2025-10-30 13:57;Latte Macchiato;coffee;1;2,80;False
+12398;2025-10-30 13:57;Water;drink;1;1,40;False
+12398;2025-10-30 13:57;Sandwich;food;1;3,90;False
+12399;2025-10-30 14:04;Muffin;food;1;2,20;True
+12399;2025-10-30 14:04;Filter Coffee;coffee;2;1,60;True
+12399;2025-10-30 14:04;Cappuccino;coffee;1;2,40;True
+12400;2025-10-30 14:27;Muffin;food;1;2,20;True
+12401;2025-10-30 14:31;Tea;drink;1;1,50;True
+12402;2025-10-30 14:32;Pretzel;food;1;1,20;True
+12403;2025-10-30 14:32;Cappuccino;coffee;1;2,40;True
+12404;2025-10-30 14:40;Cappuccino;coffee;1;2,40;False
+12405;2025-10-30 14:40;Cappuccino;coffee;1;2,40;True
+12405;2025-10-30 14:40;Muffin;food;1;2,20;True
+12406;2025-10-30 14:43;Muffin;food;1;2,20;True
+12407;2025-10-30 14:49;Muffin;food;1;2,20;True
+12407;2025-10-30 14:49;Tea;drink;1;1,50;True
+12408;2025-10-30 14:53;Muffin;food;1;2,20;True
+12408;2025-10-30 14:53;Latte Macchiato;coffee;1;2,80;True
+12409;2025-10-30 14:54;Hot Chocolate;drink;1;2,50;True
+12409;2025-10-30 14:54;Espresso;coffee;1;1,10;True
+12410;2025-10-30 15:21;Croissant;food;1;1,80;True
+12410;2025-10-30 15:21;Tea;drink;1;1,50;True
+12411;2025-10-30 15:25;Cappuccino;coffee;1;2,40;True
+12411;2025-10-30 15:25;Muffin;food;1;2,20;True
+12411;2025-10-30 15:25;Espresso;coffee;2;1,10;True
+12412;2025-10-30 15:27;Cappuccino;coffee;1;2,40;True
+12413;2025-10-30 15:30;Muffin;food;1;2,20;True
+12414;2025-10-30 15:38;Espresso;coffee;1;1,10;False
+12414;2025-10-30 15:38;Latte Macchiato;coffee;1;2,80;False
+12415;2025-10-30 15:44;Cappuccino;coffee;1;2,40;True
+12415;2025-10-30 15:44;Muffin;food;1;2,20;True
+12416;2025-10-30 15:47;Espresso;coffee;1;1,10;True
+12417;2025-10-30 15:49;Hot Chocolate;drink;1;2,50;True
+12418;2025-10-30 15:54;Latte Macchiato;coffee;1;2,80;True
+12419;2025-10-30 15:57;Croissant;food;1;1,80;True
+12419;2025-10-30 15:57;Water;drink;1;1,40;True
+12420;2025-10-30 16:04;Cappuccino;coffee;1;2,40;True
+12420;2025-10-30 16:04;Tea;drink;1;1,50;True
+12421;2025-10-30 16:07;Filter Coffee;coffee;1;1,60;True
+12422;2025-10-30 16:19;Tea;drink;1;1,50;True
+12423;2025-10-30 16:26;Muffin;food;2;2,20;True
+12423;2025-10-30 16:26;Tea;drink;1;1,50;True
+12423;2025-10-30 16:26;Latte Macchiato;coffee;1;2,80;True
+12424;2025-10-30 16:48;Espresso;coffee;1;1,10;True
+12424;2025-10-30 16:48;Pretzel;food;1;1,20;True
+12425;2025-10-30 16:50;Tea;drink;1;1,50;False
+12425;2025-10-30 16:50;Muffin;food;3;2,20;False
+12426;2025-10-31 07:44;Espresso;coffee;1;1,10;False
+12426;2025-10-31 07:44;Croissant;food;1;1,80;False
+12427;2025-10-31 07:59;Pretzel;food;1;1,20;True
+12427;2025-10-31 07:59;Cappuccino;coffee;2;2,40;True
+12428;2025-10-31 08:01;Filter Coffee;coffee;1;1,60;True
+12429;2025-10-31 08:04;Tea;drink;1;1,50;True
+12429;2025-10-31 08:04;Espresso;coffee;1;1,10;True
+12430;2025-10-31 08:10;Cappuccino;coffee;1;2,40;False
+12431;2025-10-31 08:11;Cappuccino;coffee;1;2,40;False
+12432;2025-10-31 08:12;Filter Coffee;coffee;1;1,60;True
+12433;2025-10-31 08:22;Cappuccino;coffee;1;2,40;True
+12433;2025-10-31 08:22;Pretzel;food;1;1,20;True
+12434;2025-10-31 08:22;Pretzel;food;1;1,20;False
+12435;2025-10-31 08:24;Pretzel;food;1;1,20;True
+12435;2025-10-31 08:24;Croissant;food;1;1,80;True
+12436;2025-10-31 08:27;Pretzel;food;1;1,20;True
+12436;2025-10-31 08:27;Cappuccino;coffee;1;2,40;True
+12437;2025-10-31 08:28;Pretzel;food;1;1,20;True
+12438;2025-10-31 08:30;Cappuccino;coffee;1;2,40;True
+12438;2025-10-31 08:30;Pretzel;food;1;1,20;True
+12439;2025-10-31 08:38;Espresso;coffee;2;1,10;True
+12439;2025-10-31 08:38;Cappuccino;coffee;1;2,40;True
+12440;2025-10-31 08:51;Latte Macchiato;coffee;1;2,80;False
+12440;2025-10-31 08:51;Tea;drink;1;1,50;False
+12441;2025-10-31 08:54;Pretzel;food;2;1,20;True
+12441;2025-10-31 08:54;Espresso;coffee;1;1,10;True
+12442;2025-10-31 09:03;Latte Macchiato;coffee;1;2,80;True
+12443;2025-10-31 09:09;Espresso;coffee;2;1,10;True
+12443;2025-10-31 09:09;Cappuccino;coffee;1;2,40;True
+12444;2025-10-31 09:15;Tea;drink;1;1,50;True
+12444;2025-10-31 09:15;Hot Chocolate;drink;1;2,50;True
+12445;2025-10-31 09:21;Cappuccino;coffee;1;2,40;True
+12446;2025-10-31 09:23;Cappuccino;coffee;1;2,40;True
+12446;2025-10-31 09:23;Pretzel;food;1;1,20;True
+12447;2025-10-31 09:28;Cappuccino;coffee;1;2,40;True
+12448;2025-10-31 09:33;Tea;drink;1;1,50;False
+12448;2025-10-31 09:33;Muffin;food;1;2,20;False
+12449;2025-10-31 09:45;Hot Chocolate;drink;1;2,50;True
+12450;2025-10-31 09:53;Cappuccino;coffee;1;2,40;True
+12451;2025-10-31 10:05;Cappuccino;coffee;1;2,40;False
+12452;2025-10-31 10:06;Sandwich;food;1;3,90;False
+12453;2025-10-31 10:21;Espresso;coffee;1;1,10;False
+12454;2025-10-31 10:24;Filter Coffee;coffee;1;1,60;True
+12455;2025-10-31 10:29;Latte Macchiato;coffee;1;2,80;False
+12455;2025-10-31 10:29;Tea;drink;1;1,50;False
+12456;2025-10-31 10:33;Croissant;food;1;1,80;True
+12457;2025-10-31 10:36;Tea;drink;1;1,50;True
+12458;2025-10-31 10:42;Croissant;food;1;1,80;True
+12459;2025-10-31 10:53;Espresso;coffee;2;1,10;False
+12459;2025-10-31 10:53;Cappuccino;coffee;1;2,40;False
+12459;2025-10-31 10:53;Filter Coffee;coffee;2;1,60;False
+12460;2025-10-31 10:54;Sandwich;food;1;3,90;False
+12461;2025-10-31 10:56;Croissant;food;1;1,80;True
+12461;2025-10-31 10:56;Cappuccino;coffee;1;2,40;True
+12462;2025-10-31 11:01;Cappuccino;coffee;1;2,40;False
+12463;2025-10-31 11:01;Cappuccino;coffee;1;2,40;True
+12464;2025-10-31 11:05;Pretzel;food;1;1,20;True
+12465;2025-10-31 11:12;Sandwich;food;2;3,90;True
+12466;2025-10-31 11:14;Espresso;coffee;1;1,10;True
+12467;2025-10-31 11:20;Sandwich;food;1;3,90;False
+12468;2025-10-31 11:32;Water;drink;1;1,40;True
+12468;2025-10-31 11:32;Espresso;coffee;1;1,10;True
+12468;2025-10-31 11:32;Sandwich;food;1;3,90;True
+12469;2025-10-31 11:32;Cappuccino;coffee;1;2,40;True
+12470;2025-10-31 11:39;Espresso;coffee;1;1,10;True
+12470;2025-10-31 11:39;Filter Coffee;coffee;1;1,60;True
+12470;2025-10-31 11:39;Croissant;food;1;1,80;True
+12471;2025-10-31 11:41;Pretzel;food;1;1,20;True
+12472;2025-10-31 11:43;Muffin;food;1;2,20;False
+12473;2025-10-31 11:53;Pretzel;food;1;1,20;True
+12473;2025-10-31 11:53;Cappuccino;coffee;1;2,40;True
+12474;2025-10-31 12:09;Water;drink;1;1,40;True
+12475;2025-10-31 12:14;Water;drink;1;1,40;True
+12475;2025-10-31 12:14;Cappuccino;coffee;1;2,40;True
+12476;2025-10-31 12:24;Pretzel;food;1;1,20;True
+12476;2025-10-31 12:24;Sandwich;food;1;3,90;True
+12477;2025-10-31 12:24;Pretzel;food;1;1,20;True
+12477;2025-10-31 12:24;Muffin;food;1;2,20;True
+12477;2025-10-31 12:24;Cappuccino;coffee;2;2,40;True
+12478;2025-10-31 12:36;Sandwich;food;1;3,90;True
+12478;2025-10-31 12:36;Cappuccino;coffee;1;2,40;True
+12479;2025-10-31 12:40;Sandwich;food;1;3,90;True
+12480;2025-10-31 12:50;Muffin;food;1;2,20;True
+12481;2025-10-31 12:50;Cappuccino;coffee;1;2,40;False
+12482;2025-10-31 12:52;Filter Coffee;coffee;1;1,60;True
+12483;2025-10-31 12:53;Espresso;coffee;1;1,10;True
+12484;2025-10-31 13:01;Espresso;coffee;2;1,10;True
+12484;2025-10-31 13:01;Pretzel;food;1;1,20;True
+12485;2025-10-31 13:16;Sandwich;food;2;3,90;True
+12485;2025-10-31 13:16;Croissant;food;1;1,80;True
+12486;2025-10-31 13:19;Filter Coffee;coffee;1;1,60;False
+12487;2025-10-31 13:26;Tea;drink;1;1,50;True
+12487;2025-10-31 13:26;Muffin;food;1;2,20;True
+12488;2025-10-31 13:27;Cappuccino;coffee;1;2,40;False
+12488;2025-10-31 13:27;Espresso;coffee;1;1,10;False
+12488;2025-10-31 13:27;Filter Coffee;coffee;1;1,60;False
+12489;2025-10-31 13:33;Cappuccino;coffee;1;2,40;True
+12490;2025-10-31 13:37;Pretzel;food;1;1,20;True
+12490;2025-10-31 13:37;Cappuccino;coffee;1;2,40;True
+12491;2025-10-31 13:41;Tea;drink;1;1,50;False
+12491;2025-10-31 13:41;Water;drink;1;1,40;False
+12492;2025-10-31 13:47;Muffin;food;1;2,20;True
+12493;2025-10-31 13:48;Sandwich;food;1;3,90;True
+12494;2025-10-31 13:49;Water;drink;1;1,40;True
+12495;2025-10-31 13:51;Espresso;coffee;1;1,10;True
+12495;2025-10-31 13:51;Water;drink;1;1,40;True
+12496;2025-10-31 13:59;Sandwich;food;1;3,90;True
+12497;2025-10-31 14:00;Tea;drink;1;1,50;True
+12497;2025-10-31 14:00;Filter Coffee;coffee;1;1,60;True
+12497;2025-10-31 14:00;Sandwich;food;1;3,90;True
+12498;2025-10-31 14:09;Tea;drink;1;1,50;False
+12499;2025-10-31 14:11;Latte Macchiato;coffee;1;2,80;True
+12500;2025-10-31 14:15;Cappuccino;coffee;1;2,40;True
+12500;2025-10-31 14:15;Muffin;food;2;2,20;True
+12501;2025-10-31 14:26;Muffin;food;1;2,20;True
+12501;2025-10-31 14:26;Latte Macchiato;coffee;1;2,80;True
+12502;2025-10-31 14:27;Muffin;food;1;2,20;True
+12503;2025-10-31 14:35;Muffin;food;1;2,20;True
+12504;2025-10-31 14:39;Cappuccino;coffee;1;2,40;False
+12504;2025-10-31 14:39;Muffin;food;1;2,20;False
+12505;2025-10-31 15:02;Cappuccino;coffee;1;2,40;True
+12506;2025-10-31 15:03;Cappuccino;coffee;1;2,40;False
+12507;2025-10-31 15:15;Muffin;food;1;2,20;False
+12508;2025-10-31 15:22;Cappuccino;coffee;1;2,40;True
+12508;2025-10-31 15:22;Latte Macchiato;coffee;2;2,80;True
+12508;2025-10-31 15:22;Espresso;coffee;1;1,10;True
+12509;2025-10-31 15:32;Cappuccino;coffee;2;2,40;True
+12510;2025-10-31 16:09;Pretzel;food;1;1,20;True
+12510;2025-10-31 16:09;Croissant;food;1;1,80;True
+12511;2025-10-31 16:29;Cappuccino;coffee;1;2,40;True
+12511;2025-10-31 16:29;Espresso;coffee;1;1,10;True
